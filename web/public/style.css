@@ -728,3 +728,33 @@ body.play { background: var(--g-deep) url(/game-assets/site/play_bg.png) center 
 @media (prefers-reduced-motion: reduce) {
   .coins.gain, .hub button.confirm, .offer-art .sprite { animation: none; }
 }
+
+/* --- play page locked to the window: the page itself never scrolls. The game takes the free
+   height and the side panels scroll inside themselves. Phones and very short windows keep the
+   stacked page above, which scrolls. --- */
+@media (min-width: 700px) and (min-height: 480px) {
+  body.play { height: 100dvh; min-height: 0; overflow: hidden; display: flex; flex-direction: column; }
+  body.play > .bar { flex: none; }
+  /* Medium screens: the game on the left, the chat over the shop on the right. */
+  .play-layout {
+    flex: 1; min-height: 0;
+    grid-template-columns: minmax(0, 1fr) minmax(260px, 340px);
+    grid-template-rows: repeat(2, minmax(0, 1fr));
+    justify-content: stretch; align-items: stretch;
+  }
+  .play-layout .stage { grid-column: 1; grid-row: 1 / -1; min-height: 0; container-type: size; display: grid; place-items: center; }
+  .play-layout #game { width: auto; height: min(100cqh, 150cqw, 1152px); }   /* 1152px: 3x the DS screens */
+  .play-layout .rom-import { width: min(100%, 560px); }
+  .play-layout .social, .play-layout .hub {
+    grid-column: 2; position: static; width: auto; height: auto; min-height: 0; max-height: none; justify-self: stretch;
+  }
+  .play-layout .social { grid-row: 1; }
+  .play-layout .hub { grid-row: 2; }
+}
+/* Wide screens: the shop on the left, the game in the middle, the chat on the right. */
+@media (min-width: 1000px) and (min-height: 480px) {
+  .play-layout { grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr) minmax(0, 1fr); grid-template-rows: minmax(0, 1fr); }
+  .play-layout .stage { grid-column: 2; grid-row: 1; }
+  .play-layout .hub { grid-column: 1; grid-row: 1; width: min(100%, 400px); justify-self: end; }
+  .play-layout .social { grid-column: 3; grid-row: 1; width: min(100%, 400px); justify-self: start; }
+}
