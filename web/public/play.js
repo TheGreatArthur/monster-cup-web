@@ -118,6 +118,19 @@ function blockEmulatorMenu() {
   }, { capture: true });
 }
 
+// EmulatorJS stops the browser's own action for the first press of a key, not for its repeats: a
+// held arrow scrolled the page under the game. On this page those keys belong to the game and
+// never scroll; typing in a field and pressing a focused button keep working.
+function blockScrollKeys() {
+  const keys = new Set(["ArrowUp", "ArrowDown", "ArrowLeft", "ArrowRight", " ", "PageUp", "PageDown", "Home", "End"]);
+  window.addEventListener("keydown", (e) => {
+    if (!keys.has(e.key) || e.ctrlKey || e.altKey || e.metaKey) return;
+    if (e.target.closest?.("input, textarea, select, [contenteditable]")) return;
+    if (e.key === " " && e.target.closest?.("button, a, summary")) return;
+    e.preventDefault();
+  }, { capture: true });
+}
+
 async function main() {
   const res = await fetch("/api/me");
   if (!res.ok) {
@@ -129,6 +142,7 @@ async function main() {
   fillAvatar(document.getElementById("me-avatar"), me);
   document.getElementById("link-discord").hidden = !me.discordLogin || me.discord;
   blockEmulatorMenu();
+  blockScrollKeys();
 
   setupOnline({ syncSave });
   setupSocial(me);
