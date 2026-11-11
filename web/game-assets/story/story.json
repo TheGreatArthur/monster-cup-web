@@ -1,0 +1,729 @@
+{
+ "fighters": {
+  "m538_apollomon": {
+   "name": "Apollomon",
+   "image": "fighters/m538_apollomon.png",
+   "width": 68,
+   "height": 48,
+   "anchor": [
+    30,
+    46
+   ],
+   "moves": {
+    "idle": {
+     "row": 0,
+     "durations": [
+      31,
+      22
+     ]
+    },
+    "run": {
+     "row": 1,
+     "durations": [
+      7,
+      7
+     ]
+    },
+    "hit": {
+     "row": 2,
+     "durations": [
+      37
+     ]
+    },
+    "knock": {
+     "row": 3,
+     "durations": [
+      7
+     ]
+    },
+    "atk1": {
+     "row": 4,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk2": {
+     "row": 5,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk3": {
+     "row": 6,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk4": {
+     "row": 7,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "ko": {
+     "row": 8,
+     "durations": [
+      37
+     ]
+    },
+    "win": {
+     "row": 9,
+     "durations": [
+      31,
+      37
+     ]
+    },
+    "flash": {
+     "row": 10,
+     "durations": [
+      2
+     ]
+    }
+   }
+  },
+  "m539_dianamon": {
+   "name": "Dianamon",
+   "image": "fighters/m539_dianamon.png",
+   "width": 62,
+   "height": 48,
+   "anchor": [
+    29,
+    46
+   ],
+   "moves": {
+    "idle": {
+     "row": 0,
+     "durations": [
+      31,
+      22
+     ]
+    },
+    "run": {
+     "row": 1,
+     "durations": [
+      7,
+      7
+     ]
+    },
+    "hit": {
+     "row": 2,
+     "durations": [
+      37
+     ]
+    },
+    "knock": {
+     "row": 3,
+     "durations": [
+      7
+     ]
+    },
+    "atk1": {
+     "row": 4,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk2": {
+     "row": 5,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk3": {
+     "row": 6,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk4": {
+     "row": 7,
+     "durations": [
+      15,
+      43,
+      15,
+      31
+     ]
+    },
+    "ko": {
+     "row": 8,
+     "durations": [
+      37
+     ]
+    },
+    "win": {
+     "row": 9,
+     "durations": [
+      31,
+      37
+     ]
+    },
+    "flash": {
+     "row": 10,
+     "durations": [
+      2
+     ]
+    }
+   }
+  },
+  "m527_mugendramon": {
+   "name": "Machinedramon",
+   "image": "fighters/m527_mugendramon.png",
+   "width": 90,
+   "height": 63,
+   "anchor": [
+    49,
+    60
+   ],
+   "moves": {
+    "idle": {
+     "row": 0,
+     "durations": [
+      31,
+      22
+     ]
+    },
+    "run": {
+     "row": 1,
+     "durations": [
+      7,
+      7
+     ]
+    },
+    "hit": {
+     "row": 2,
+     "durations": [
+      37
+     ]
+    },
+    "knock": {
+     "row": 3,
+     "durations": [
+      7
+     ]
+    },
+    "atk1": {
+     "row": 4,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk2": {
+     "row": 5,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk3": {
+     "row": 6,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk4": {
+     "row": 7,
+     "durations": [
+      15,
+      3,
+      3,
+      3,
+      3,
+      3,
+      31
+     ]
+    },
+    "ko": {
+     "row": 8,
+     "durations": [
+      37
+     ]
+    },
+    "win": {
+     "row": 9,
+     "durations": [
+      31,
+      37
+     ]
+    },
+    "flash": {
+     "row": 10,
+     "durations": [
+      2
+     ]
+    }
+   }
+  },
+  "m503_warglaymon": {
+   "name": "WarGreymon",
+   "image": "fighters/m503_warglaymon.png",
+   "width": 88,
+   "height": 81,
+   "anchor": [
+    52,
+    64
+   ],
+   "moves": {
+    "idle": {
+     "row": 0,
+     "durations": [
+      31,
+      22
+     ]
+    },
+    "run": {
+     "row": 1,
+     "durations": [
+      7,
+      7
+     ]
+    },
+    "hit": {
+     "row": 2,
+     "durations": [
+      37
+     ]
+    },
+    "knock": {
+     "row": 3,
+     "durations": [
+      7
+     ]
+    },
+    "atk1": {
+     "row": 4,
+     "durations": [
+      16,
+      37
+     ]
+    },
+    "atk2": {
+     "row": 5,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk3": {
+     "row": 6,
+     "durations": [
+      21,
+      37
+     ]
+    },
+    "atk4": {
+     "row": 7,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "ko": {
+     "row": 8,
+     "durations": [
+      37
+     ]
+    },
+    "win": {
+     "row": 9,
+     "durations": [
+      31,
+      37
+     ]
+    },
+    "flash": {
+     "row": 10,
+     "durations": [
+      2
+     ]
+    }
+   }
+  },
+  "m529_metalgarurumon_va": {
+   "name": "MetalGarurumon",
+   "image": "fighters/m529_metalgarurumon_va.png",
+   "width": 55,
+   "height": 42,
+   "anchor": [
+    27,
+    39
+   ],
+   "moves": {
+    "idle": {
+     "row": 0,
+     "durations": [
+      31,
+      22
+     ]
+    },
+    "run": {
+     "row": 1,
+     "durations": [
+      11,
+      7
+     ]
+    },
+    "hit": {
+     "row": 2,
+     "durations": [
+      7
+     ]
+    },
+    "knock": {
+     "row": 3,
+     "durations": [
+      11
+     ]
+    },
+    "atk1": {
+     "row": 4,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk2": {
+     "row": 5,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk3": {
+     "row": 6,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk4": {
+     "row": 7,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "ko": {
+     "row": 8,
+     "durations": [
+      37
+     ]
+    },
+    "win": {
+     "row": 9,
+     "durations": [
+      31,
+      37
+     ]
+    },
+    "flash": {
+     "row": 10,
+     "durations": [
+      7
+     ]
+    }
+   }
+  },
+  "m541_dukemon": {
+   "name": "Gallantmon",
+   "image": "fighters/m541_dukemon.png",
+   "width": 72,
+   "height": 67,
+   "anchor": [
+    36,
+    61
+   ],
+   "moves": {
+    "idle": {
+     "row": 0,
+     "durations": [
+      31,
+      22
+     ]
+    },
+    "run": {
+     "row": 1,
+     "durations": [
+      7,
+      7
+     ]
+    },
+    "hit": {
+     "row": 2,
+     "durations": [
+      37
+     ]
+    },
+    "knock": {
+     "row": 3,
+     "durations": [
+      7
+     ]
+    },
+    "atk1": {
+     "row": 4,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk2": {
+     "row": 5,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk3": {
+     "row": 6,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk4": {
+     "row": 7,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "ko": {
+     "row": 8,
+     "durations": [
+      37
+     ]
+    },
+    "win": {
+     "row": 9,
+     "durations": [
+      31,
+      37
+     ]
+    },
+    "flash": {
+     "row": 10,
+     "durations": [
+      2
+     ]
+    }
+   }
+  },
+  "m201_agumon": {
+   "name": "Agumon",
+   "image": "fighters/m201_agumon.png",
+   "width": 34,
+   "height": 20,
+   "anchor": [
+    14,
+    18
+   ],
+   "moves": {
+    "idle": {
+     "row": 0,
+     "durations": [
+      31,
+      22
+     ]
+    },
+    "run": {
+     "row": 1,
+     "durations": [
+      7,
+      7
+     ]
+    },
+    "hit": {
+     "row": 2,
+     "durations": [
+      37
+     ]
+    },
+    "knock": {
+     "row": 3,
+     "durations": [
+      7
+     ]
+    },
+    "atk1": {
+     "row": 4,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk2": {
+     "row": 5,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk3": {
+     "row": 6,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk4": {
+     "row": 7,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "ko": {
+     "row": 8,
+     "durations": [
+      37
+     ]
+    },
+    "win": {
+     "row": 9,
+     "durations": [
+      31,
+      37
+     ]
+    },
+    "flash": {
+     "row": 10,
+     "durations": [
+      2
+     ]
+    }
+   }
+  },
+  "m208_gabumon": {
+   "name": "Gabumon",
+   "image": "fighters/m208_gabumon.png",
+   "width": 38,
+   "height": 25,
+   "anchor": [
+    13,
+    23
+   ],
+   "moves": {
+    "idle": {
+     "row": 0,
+     "durations": [
+      31,
+      22
+     ]
+    },
+    "run": {
+     "row": 1,
+     "durations": [
+      7,
+      7
+     ]
+    },
+    "hit": {
+     "row": 2,
+     "durations": [
+      37
+     ]
+    },
+    "knock": {
+     "row": 3,
+     "durations": [
+      7
+     ]
+    },
+    "atk1": {
+     "row": 4,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk2": {
+     "row": 5,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk3": {
+     "row": 6,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "atk4": {
+     "row": 7,
+     "durations": [
+      15,
+      37
+     ]
+    },
+    "ko": {
+     "row": 8,
+     "durations": [
+      37
+     ]
+    },
+    "win": {
+     "row": 9,
+     "durations": [
+      31,
+      37
+     ]
+    },
+    "flash": {
+     "row": 10,
+     "durations": [
+      2
+     ]
+    }
+   }
+  }
+ },
+ "fields": {
+  "field_grass": "field_grass.png",
+  "field_stone": "field_stone.png"
+ },
+ "vs": {
+  "image": "vs.png",
+  "anchors": {
+   "loc_title": [
+    128.0,
+    42.0
+   ],
+   "time_digit0": [
+    109.0,
+    110.0
+   ],
+   "time_digit1": [
+    128.0,
+    110.0
+   ],
+   "time_digit2": [
+    147.0,
+    110.0
+   ],
+   "team_name0": [
+    30.0,
+    69.0
+   ],
+   "team_name1": [
+    149.0,
+    69.0
+   ]
+  }
+ },
+ "digits": {
+  "image": "digits.png",
+  "width": 16,
+  "height": 20
+ }
+}

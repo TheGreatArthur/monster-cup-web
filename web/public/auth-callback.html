@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Logging in... Digimon World Championship</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="game intro">
+  <main class="intro-main callback-main">
+    <section class="auth-card window" aria-live="polite">
+      <p class="lead" id="status">Logging you in with Discord...</p>
+      <p class="error" id="error" role="alert"></p>
+      <a class="primary" id="retry" href="/" hidden>Back to the login page</a>
+    </section>
+  </main>
+  <script src="/static/auth-callback.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,190 @@
+{
+ "babies": [
+  {
+   "species": 8,
+   "name": "Zurumon",
+   "sprite": "m001_zurumon.png",
+   "width": 19,
+   "height": 9,
+   "durations": [
+    31,
+    22
+   ]
+  },
+  {
+   "species": 9,
+   "name": "Choromon",
+   "sprite": "m002_choromon.png",
+   "width": 18,
+   "height": 15,
+   "durations": [
+    31,
+    22
+   ]
+  },
+  {
+   "species": 10,
+   "name": "Nyokimon",
+   "sprite": "m003_nyokimon.png",
+   "width": 18,
+   "height": 14,
+   "durations": [
+    31,
+    22
+   ]
+  },
+  {
+   "species": 11,
+   "name": "Pabumon",
+   "sprite": "m004_bubbmon.png",
+   "width": 16,
+   "height": 18,
+   "durations": [
+    31,
+    22
+   ]
+  },
+  {
+   "species": 12,
+   "name": "Pichimon",
+   "sprite": "m005_pitchmon.png",
+   "width": 11,
+   "height": 16,
+   "durations": [
+    31,
+    22
+   ]
+  },
+  {
+   "species": 13,
+   "name": "Punimon",
+   "sprite": "m006_punimon.png",
+   "width": 13,
+   "height": 10,
+   "durations": [
+    31,
+    22
+   ]
+  },
+  {
+   "species": 14,
+   "name": "Botamon",
+   "sprite": "m007_botamon.png",
+   "width": 13,
+   "height": 10,
+   "durations": [
+    31,
+    22
+   ]
+  },
+  {
+   "species": 15,
+   "name": "Poyomon",
+   "sprite": "m008_poyomon.png",
+   "width": 10,
+   "height": 12,
+   "durations": [
+    31,
+    22
+   ]
+  },
+  {
+   "species": 16,
+   "name": "Mokumon",
+   "sprite": "m009_mokumon.png",
+   "width": 12,
+   "height": 21,
+   "durations": [
+    31,
+    22
+   ]
+  },
+  {
+   "species": 17,
+   "name": "YukimiBotamon",
+   "sprite": "m010_yukimibotamon.png",
+   "width": 14,
+   "height": 12,
+   "durations": [
+    31,
+    22
+   ]
+  },
+  {
+   "species": 18,
+   "name": "Yuramon",
+   "sprite": "m011_yuramon.png",
+   "width": 16,
+   "height": 18,
+   "durations": [
+    31,
+    22
+   ]
+  },
+  {
+   "species": 19,
+   "name": "Petitmon",
+   "sprite": "m012_petimon.png",
+   "width": 18,
+   "height": 14,
+   "durations": [
+    31,
+    22
+   ]
+  }
+ ],
+ "egg": {
+  "sprite": "digitama.png",
+  "width": 16,
+  "height": 18,
+  "durations": [
+   15,
+   15,
+   15,
+   15
+  ]
+ },
+ "bg_top": "bg_top.png",
+ "bg_bottom": "bg_bottom.png",
+ "button": "button.png",
+ "button_down": "button_down.png",
+ "label_ok": "label_ok.png",
+ "label_yes": "label_yes.png",
+ "label_no": "label_no.png",
+ "arrow": "arrow.png",
+ "font": {
+  "image": "font.png",
+  "metrics": "font.json"
+ },
+ "font_small": {
+  "image": "font_small.png",
+  "metrics": "font_small.json"
+ },
+ "window": {
+  "image": "window.png",
+  "x": 14,
+  "y": 29,
+  "anchors": {
+   "message": [
+    128.0,
+    59.0
+   ],
+   "select_cancel": [
+    176.0,
+    94.0
+   ],
+   "ok": [
+    128.0,
+    94.0
+   ],
+   "select_decide": [
+    86.0,
+    94.0
+   ],
+   "base_col": [
+    14.0,
+    31.0
+   ]
+  }
+ }
+}

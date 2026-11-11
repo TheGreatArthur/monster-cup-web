@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gifts - Digimon World Championship admin</title>
+  <link rel="stylesheet" href="/static/admin.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/admin/players"><img src="/game-assets/intro/logo.png" alt="Digimon World Championship" width="232" height="117">Admin</a>
+    <nav class="tabs" aria-label="Admin pages">
+      <a href="/admin/players">Players</a>
+      <a href="/admin/gifts" aria-current="page">Gifts</a>
+      <a href="/admin/shop">Shop</a>
+      <a href="/admin/events">Events</a>
+      <a href="/admin">Moderation</a>
+    </nav>
+    <span class="status" id="admin-status" role="status">Loading...</span>
+    <button type="button" class="pill" id="admin-refresh">Refresh</button>
+    <a class="pill" href="/play">Play</a>
+  </header>
+  <main class="page">
+    <div>
+      <h1 class="page-title">Gifts</h1>
+      <p class="page-sub">A gift arrives in the game as a Digital Arena mail, the next time the player is at the farm with the
+        play page open. It counts as delivered when the player opens the mail.</p>
+    </div>
+    <div class="player-layout">
+      <section class="panel glass">
+        <div class="panel-head"><h2>History</h2></div>
+        <div class="history" id="gifts"><p class="empty">Loading the gifts...</p></div>
+      </section>
+      <aside class="composer-column">
+        <section class="panel glass">
+          <h2>Send a gift</h2>
+          <label class="field" style="margin-bottom: 14px">Player <select id="gift-user" required></select></label>
+          <div id="composer"></div>
+        </section>
+      </aside>
+    </div>
+  </main>
+  <script src="/static/admin-gifts.js" type="module"></script>
+</body>
+</html>

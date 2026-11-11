@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Moderation - Digimon World Championship admin</title>
+  <link rel="stylesheet" href="/static/admin.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/admin/players"><img src="/game-assets/intro/logo.png" alt="Digimon World Championship" width="232" height="117">Admin</a>
+    <nav class="tabs" aria-label="Admin pages">
+      <a href="/admin/players">Players</a>
+      <a href="/admin/gifts">Gifts</a>
+      <a href="/admin/shop">Shop</a>
+      <a href="/admin/events">Events</a>
+      <a href="/admin" aria-current="page">Moderation</a>
+    </nav>
+    <span class="status" id="admin-status" role="status">Loading...</span>
+    <button type="button" class="pill" id="admin-refresh">Refresh</button>
+    <a class="pill" href="/play">Play</a>
+  </header>
+  <main class="page">
+    <div>
+      <h1 class="page-title">Moderation</h1>
+      <p class="page-sub" id="admin-trust"></p>
+    </div>
+    <section class="panel glass">
+      <h2>Accounts</h2>
+      <div class="table-wrap"><table id="admin-accounts"></table></div>
+    </section>
+    <section class="panel glass">
+      <h2>Suspicious pairs</h2>
+      <p class="hint">Two accounts that often meet in ranked play, with one nearly always winning.</p>
+      <div class="table-wrap"><table id="admin-pairs"></table></div>
+    </section>
+    <section class="panel glass">
+      <h2>Flagged matches</h2>
+      <div class="table-wrap"><table id="admin-matches"></table></div>
+    </section>
+    <section class="panel glass">
+      <h2>Referee</h2>
+      <div class="table-wrap"><table id="admin-jobs"></table></div>
+    </section>
+  </main>
+  <script src="/static/admin.js" type="module"></script>
+</body>
+</html>

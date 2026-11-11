@@ -1,0 +1,15 @@
+{
+  "name": "digimon-web",
+  "private": true,
+  "type": "module",
+  "description": "Local browser player for the Digimon World Championship mod: accounts, login and cloud saves.",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "postgres": "^3.4.7"
+  }
+}

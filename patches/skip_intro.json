@@ -1,0 +1,35 @@
+{
+  "description": "Boot straight into the saved game: no company logos, no opening movie, no LOGIN / New Game / Continue menu, no \"Data loaded.\" box. The main loop (0x02042b34) runs scenes from a table (scene -> overlay at 0x020bdb94, scene -> function at 0x020bd4d4) and is started on scene 0x14 (logos, ov003), followed by 1 (movie, ov021) and 8 (title, ov013). The title menu is a state machine (table 0x020e33b0, 18 states of {update, enter, exit, draw}): state 1 fades in, 2.. show LOGIN and the menu, 11 loads the save (FUN_020699b4), 12 shows \"Data loaded.\", 3 fades out and posts message 0x40, which the scene flow (0x0205e898) maps to scene 3, the game. With no save the load fails into state 13, the game's own error path. Found with Ghidra + capstone.",
+  "patches": [
+    {
+      "address": "0x0200104c",
+      "original": "1400a0e3",
+      "replacement": "0800a0e3",
+      "comment": "mov r0,#0x14 -> mov r0,#8: first scene is the title instead of the company logos"
+    },
+    {
+      "address": "0x0208d5ec",
+      "original": "0200a003",
+      "replacement": "0b00a003",
+      "comment": "title state 1 (fade-in done): moveq r0,#2 -> moveq r0,#11, go to the save loading state instead of LOGIN"
+    },
+    {
+      "address": "0x0208f1d4",
+      "original": "3c0051e3",
+      "replacement": "010051e3",
+      "comment": "title state 11: cmp r1,#0x3c -> cmp r1,#1, load after 4 frames instead of 2 seconds of \"accessing\""
+    },
+    {
+      "address": "0x0208f1fc",
+      "original": "0d00a003",
+      "replacement": "0200a003",
+      "comment": "title state 11, no save: moveq r0,#13 -> moveq r0,#2, show the normal LOGIN / New Game menu instead of the \"save data could not be accessed\" error"
+    },
+    {
+      "address": "0x0208f210",
+      "original": "0c00a0e3",
+      "replacement": "0300a0e3",
+      "comment": "title state 11, save loaded: mov r0,#12 -> mov r0,#3, skip the \"Data loaded.\" box and fade out to the game"
+    }
+  ]
+}

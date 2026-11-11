@@ -1,0 +1,6287 @@
+{
+  "has_count": true,
+  "has_end": true,
+  "encoding": "utf-16-le",
+  "entries": [
+    {
+      "id": 0,
+      "text": "{esc:0006}[5]{esc:0002} has digivolved to\\n{esc:000D}[1]!\\n"
+    },
+    {
+      "id": 1,
+      "text": "{esc:0006}[5]'s{esc:0002}\\n{esc:0004}[3]{esc:0002} UP {esc:0004}[4]{esc:0002}!\\n"
+    },
+    {
+      "id": 2,
+      "text": "{esc:0004}[3]{esc:0002} DOWN {esc:0004}[4]{esc:0002}!\\n"
+    },
+    {
+      "id": 3,
+      "text": "{esc:0004}[3]{esc:0002} will not go lower.\\n"
+    },
+    {
+      "id": 4,
+      "text": "{esc:0006}[5]'s{esc:0002}\\n{esc:0004}[3]{esc:0002} at limit!\\n"
+    },
+    {
+      "id": 5,
+      "text": "{esc:0006}[5]'s{esc:0002} training failed...\\n"
+    },
+    {
+      "id": 6,
+      "text": "{esc:0006}[5]{esc:0002} is ill...\\n"
+    },
+    {
+      "id": 7,
+      "text": "{esc:0006}[5]{esc:0002} is cured!\\n"
+    },
+    {
+      "id": 8,
+      "text": "{esc:0006}[5]{esc:0002} is injured...\\n"
+    },
+    {
+      "id": 9,
+      "text": "{esc:0006}[5]{esc:0002} healed!\\n"
+    },
+    {
+      "id": 10,
+      "text": "{esc:0006}[5]{esc:0002} not healed.\\n"
+    },
+    {
+      "id": 11,
+      "text": "{esc:0006}[5]{esc:0002} is lost...\\n"
+    },
+    {
+      "id": 12,
+      "text": "{esc:0006}[5]{esc:0002} is a DigiEgg!\\n"
+    },
+    {
+      "id": 13,
+      "text": "{esc:0006}[5]{esc:0002} is about to\\ndigivolve to [1]!\\n"
+    },
+    {
+      "id": 14,
+      "text": ""
+    },
+    {
+      "id": 15,
+      "text": ""
+    },
+    {
+      "id": 16,
+      "text": "{esc:0006}[5]{esc:0002} exceeds capacity.\\n"
+    },
+    {
+      "id": 17,
+      "text": ""
+    },
+    {
+      "id": 18,
+      "text": "{esc:0004}[4] {esc:0005}[3] {esc:0002}remaining.{esc:0002}\\n"
+    },
+    {
+      "id": 19,
+      "text": "Virus Attrib."
+    },
+    {
+      "id": 20,
+      "text": "Vaccine Attrib."
+    },
+    {
+      "id": 21,
+      "text": "Data Attrib."
+    },
+    {
+      "id": 22,
+      "text": "Dragon"
+    },
+    {
+      "id": 23,
+      "text": "Beast"
+    },
+    {
+      "id": 24,
+      "text": "Aquatic"
+    },
+    {
+      "id": 25,
+      "text": "Bird"
+    },
+    {
+      "id": 26,
+      "text": "Machine"
+    },
+    {
+      "id": 27,
+      "text": "Holy"
+    },
+    {
+      "id": 28,
+      "text": "InsectPlant"
+    },
+    {
+      "id": 29,
+      "text": "Dark"
+    },
+    {
+      "id": 30,
+      "text": "Heat AP"
+    },
+    {
+      "id": 31,
+      "text": "Cold AP"
+    },
+    {
+      "id": 32,
+      "text": "Thunder AP"
+    },
+    {
+      "id": 33,
+      "text": "Light AP"
+    },
+    {
+      "id": 34,
+      "text": "Darkness AP"
+    },
+    {
+      "id": 35,
+      "text": "HP"
+    },
+    {
+      "id": 36,
+      "text": "TP"
+    },
+    {
+      "id": 37,
+      "text": "Attack"
+    },
+    {
+      "id": 38,
+      "text": "Defense"
+    },
+    {
+      "id": 39,
+      "text": "Wisdom"
+    },
+    {
+      "id": 40,
+      "text": "Speed"
+    },
+    {
+      "id": 41,
+      "text": "Zurumon"
+    },
+    {
+      "id": 42,
+      "text": "Choromon"
+    },
+    {
+      "id": 43,
+      "text": "Nyokimon"
+    },
+    {
+      "id": 44,
+      "text": "Pabumon"
+    },
+    {
+      "id": 45,
+      "text": "Pichimon"
+    },
+    {
+      "id": 46,
+      "text": "Punimon"
+    },
+    {
+      "id": 47,
+      "text": "Botamon"
+    },
+    {
+      "id": 48,
+      "text": "Poyomon"
+    },
+    {
+      "id": 49,
+      "text": "Mokumon"
+    },
+    {
+      "id": 50,
+      "text": "YukimiBotamon"
+    },
+    {
+      "id": 51,
+      "text": "Yuramon"
+    },
+    {
+      "id": 52,
+      "text": "Petitmon"
+    },
+    {
+      "id": 53,
+      "text": "Kapurimon"
+    },
+    {
+      "id": 54,
+      "text": "Koromon"
+    },
+    {
+      "id": 55,
+      "text": "Tanemon"
+    },
+    {
+      "id": 56,
+      "text": "Tsunomon"
+    },
+    {
+      "id": 57,
+      "text": "Tokomon"
+    },
+    {
+      "id": 58,
+      "text": "Nyaromon"
+    },
+    {
+      "id": 59,
+      "text": "Pagumon"
+    },
+    {
+      "id": 60,
+      "text": "Yokomon"
+    },
+    {
+      "id": 61,
+      "text": "Bukamon"
+    },
+    {
+      "id": 62,
+      "text": "DemiMeramon"
+    },
+    {
+      "id": 63,
+      "text": "Motimon"
+    },
+    {
+      "id": 64,
+      "text": "Bebydomon"
+    },
+    {
+      "id": 65,
+      "text": "Sunmon"
+    },
+    {
+      "id": 66,
+      "text": "Moonmon"
+    },
+    {
+      "id": 67,
+      "text": "Agumon"
+    },
+    {
+      "id": 68,
+      "text": "Armadillomon"
+    },
+    {
+      "id": 69,
+      "text": "Elecmon"
+    },
+    {
+      "id": 70,
+      "text": "Otamamon"
+    },
+    {
+      "id": 71,
+      "text": "Gaomon"
+    },
+    {
+      "id": 72,
+      "text": "Gazimon"
+    },
+    {
+      "id": 73,
+      "text": "Gabumon"
+    },
+    {
+      "id": 74,
+      "text": "Kamemon"
+    },
+    {
+      "id": 75,
+      "text": "Gizamon"
+    },
+    {
+      "id": 76,
+      "text": "Candlemon"
+    },
+    {
+      "id": 77,
+      "text": "Kunemon"
+    },
+    {
+      "id": 78,
+      "text": "Gotsumon"
+    },
+    {
+      "id": 79,
+      "text": "Goburimon"
+    },
+    {
+      "id": 80,
+      "text": "Gomamon"
+    },
+    {
+      "id": 81,
+      "text": "Terriermon"
+    },
+    {
+      "id": 82,
+      "text": "Tentomon"
+    },
+    {
+      "id": 83,
+      "text": "ToyAgumon"
+    },
+    {
+      "id": 84,
+      "text": "Tapirmon"
+    },
+    {
+      "id": 85,
+      "text": "Hagurumon"
+    },
+    {
+      "id": 86,
+      "text": "Patamon"
+    },
+    {
+      "id": 87,
+      "text": "Palmon"
+    },
+    {
+      "id": 88,
+      "text": "DemiDevimon"
+    },
+    {
+      "id": 89,
+      "text": "Biyomon"
+    },
+    {
+      "id": 90,
+      "text": "Falcomon"
+    },
+    {
+      "id": 91,
+      "text": "Salamon"
+    },
+    {
+      "id": 92,
+      "text": "Floramon"
+    },
+    {
+      "id": 93,
+      "text": "Mushroomon"
+    },
+    {
+      "id": 94,
+      "text": "SnowAgumon"
+    },
+    {
+      "id": 95,
+      "text": "Renamon"
+    },
+    {
+      "id": 96,
+      "text": "Dracomon"
+    },
+    {
+      "id": 97,
+      "text": "Coronamon"
+    },
+    {
+      "id": 98,
+      "text": "Lunamon"
+    },
+    {
+      "id": 99,
+      "text": "BlackAgumon"
+    },
+    {
+      "id": 100,
+      "text": "Psychemon"
+    },
+    {
+      "id": 101,
+      "text": "Aruraumon"
+    },
+    {
+      "id": 102,
+      "text": "Tsukaimon"
+    },
+    {
+      "id": 103,
+      "text": "Veemon"
+    },
+    {
+      "id": 104,
+      "text": "Guilmon"
+    },
+    {
+      "id": 105,
+      "text": "Ankylomon"
+    },
+    {
+      "id": 106,
+      "text": "Ikkakumon"
+    },
+    {
+      "id": 107,
+      "text": "Wizardmon"
+    },
+    {
+      "id": 108,
+      "text": "Woodmon"
+    },
+    {
+      "id": 109,
+      "text": "Airdramon"
+    },
+    {
+      "id": 110,
+      "text": "Angemon"
+    },
+    {
+      "id": 111,
+      "text": "Ogremon"
+    },
+    {
+      "id": 112,
+      "text": "GaoGamon"
+    },
+    {
+      "id": 113,
+      "text": "Kabuterimon"
+    },
+    {
+      "id": 114,
+      "text": "Gargomon"
+    },
+    {
+      "id": 115,
+      "text": "Garurumon"
+    },
+    {
+      "id": 116,
+      "text": "Garurumon"
+    },
+    {
+      "id": 117,
+      "text": "Guardromon"
+    },
+    {
+      "id": 118,
+      "text": "Kiwimon"
+    },
+    {
+      "id": 119,
+      "text": "Kyubimon"
+    },
+    {
+      "id": 120,
+      "text": "Greymon"
+    },
+    {
+      "id": 121,
+      "text": "Clockmon"
+    },
+    {
+      "id": 122,
+      "text": "Kuwagamon"
+    },
+    {
+      "id": 123,
+      "text": "Gekomon"
+    },
+    {
+      "id": 124,
+      "text": "Gesomon"
+    },
+    {
+      "id": 125,
+      "text": "Centarumon"
+    },
+    {
+      "id": 126,
+      "text": "Kokatorimon"
+    },
+    {
+      "id": 127,
+      "text": "Thundermon"
+    },
+    {
+      "id": 128,
+      "text": "Shellmon"
+    },
+    {
+      "id": 129,
+      "text": "GeoGreymon"
+    },
+    {
+      "id": 130,
+      "text": "Seadramon"
+    },
+    {
+      "id": 131,
+      "text": "Sukamon"
+    },
+    {
+      "id": 132,
+      "text": "Starmon"
+    },
+    {
+      "id": 133,
+      "text": "Darcmon"
+    },
+    {
+      "id": 134,
+      "text": "DarkTyrannomon"
+    },
+    {
+      "id": 135,
+      "text": "Tyrannomon"
+    },
+    {
+      "id": 136,
+      "text": "Gatomon"
+    },
+    {
+      "id": 137,
+      "text": "Devidramon"
+    },
+    {
+      "id": 138,
+      "text": "Devimon"
+    },
+    {
+      "id": 139,
+      "text": "Togemon"
+    },
+    {
+      "id": 140,
+      "text": "Tortomon"
+    },
+    {
+      "id": 141,
+      "text": "Numemon"
+    },
+    {
+      "id": 142,
+      "text": "Bakemon"
+    },
+    {
+      "id": 143,
+      "text": "Birdramon"
+    },
+    {
+      "id": 144,
+      "text": "Vegiemon"
+    },
+    {
+      "id": 145,
+      "text": "Peckmon"
+    },
+    {
+      "id": 146,
+      "text": "Meramon"
+    },
+    {
+      "id": 147,
+      "text": "Mojyamon"
+    },
+    {
+      "id": 148,
+      "text": "Monochromon"
+    },
+    {
+      "id": 149,
+      "text": "Frigimon"
+    },
+    {
+      "id": 150,
+      "text": "Unimon"
+    },
+    {
+      "id": 151,
+      "text": "Youkomon"
+    },
+    {
+      "id": 152,
+      "text": "Lynxmon"
+    },
+    {
+      "id": 153,
+      "text": "Raremon"
+    },
+    {
+      "id": 154,
+      "text": "Leomon"
+    },
+    {
+      "id": 155,
+      "text": "RedVegiemon"
+    },
+    {
+      "id": 156,
+      "text": "Coredramon"
+    },
+    {
+      "id": 157,
+      "text": "Coredramon"
+    },
+    {
+      "id": 158,
+      "text": "Firamon"
+    },
+    {
+      "id": 159,
+      "text": "Lekismon"
+    },
+    {
+      "id": 160,
+      "text": "IceDevimon"
+    },
+    {
+      "id": 161,
+      "text": "Gururumon"
+    },
+    {
+      "id": 162,
+      "text": "Geremon"
+    },
+    {
+      "id": 163,
+      "text": "Socerimon"
+    },
+    {
+      "id": 164,
+      "text": "Akatorimon"
+    },
+    {
+      "id": 165,
+      "text": "Saberdramon"
+    },
+    {
+      "id": 166,
+      "text": "Icemon"
+    },
+    {
+      "id": 167,
+      "text": "Veedramon"
+    },
+    {
+      "id": 168,
+      "text": "Growlmon"
+    },
+    {
+      "id": 169,
+      "text": "MegaKabuterimon"
+    },
+    {
+      "id": 170,
+      "text": "Scorpiomon"
+    },
+    {
+      "id": 171,
+      "text": "Andromon"
+    },
+    {
+      "id": 172,
+      "text": "Etemon"
+    },
+    {
+      "id": 173,
+      "text": "Angewomon"
+    },
+    {
+      "id": 174,
+      "text": "Okuwamon"
+    },
+    {
+      "id": 175,
+      "text": "Garudamon"
+    },
+    {
+      "id": 176,
+      "text": "Garbagemon"
+    },
+    {
+      "id": 177,
+      "text": "Cyberdramon"
+    },
+    {
+      "id": 178,
+      "text": "Cherrymon"
+    },
+    {
+      "id": 179,
+      "text": "SkullGreymon"
+    },
+    {
+      "id": 180,
+      "text": "Zudomon"
+    },
+    {
+      "id": 181,
+      "text": "Dragomon"
+    },
+    {
+      "id": 182,
+      "text": "SkullMeramon"
+    },
+    {
+      "id": 183,
+      "text": "Deramon"
+    },
+    {
+      "id": 184,
+      "text": "ShogunGekomon"
+    },
+    {
+      "id": 185,
+      "text": "Triceramon"
+    },
+    {
+      "id": 186,
+      "text": "Knightmon"
+    },
+    {
+      "id": 187,
+      "text": "Parrotmon"
+    },
+    {
+      "id": 188,
+      "text": "Divermon"
+    },
+    {
+      "id": 189,
+      "text": "Pandamon"
+    },
+    {
+      "id": 190,
+      "text": "Big Mamemon"
+    },
+    {
+      "id": 191,
+      "text": "Piximon"
+    },
+    {
+      "id": 192,
+      "text": "Phantomon"
+    },
+    {
+      "id": 193,
+      "text": "Vademon"
+    },
+    {
+      "id": 194,
+      "text": "Whamon"
+    },
+    {
+      "id": 195,
+      "text": "MagnaAngemon"
+    },
+    {
+      "id": 196,
+      "text": "MachGaogamon"
+    },
+    {
+      "id": 197,
+      "text": "Mamemon"
+    },
+    {
+      "id": 198,
+      "text": "Mammothmon"
+    },
+    {
+      "id": 199,
+      "text": "MegaSeadramon"
+    },
+    {
+      "id": 200,
+      "text": "Megadramon"
+    },
+    {
+      "id": 201,
+      "text": "MetalGreymon"
+    },
+    {
+      "id": 202,
+      "text": "MetalGreymon"
+    },
+    {
+      "id": 203,
+      "text": "MetalTyrannomon"
+    },
+    {
+      "id": 204,
+      "text": "Monzaemon"
+    },
+    {
+      "id": 205,
+      "text": "Crowmon"
+    },
+    {
+      "id": 206,
+      "text": "RizeGreymon"
+    },
+    {
+      "id": 207,
+      "text": "Rapidmon"
+    },
+    {
+      "id": 208,
+      "text": "Lillymon"
+    },
+    {
+      "id": 209,
+      "text": "LadyDevimon"
+    },
+    {
+      "id": 210,
+      "text": "WaruMonzaemon"
+    },
+    {
+      "id": 211,
+      "text": "WereGarurumon"
+    },
+    {
+      "id": 212,
+      "text": "WereGarurumon"
+    },
+    {
+      "id": 213,
+      "text": "Wingdramon"
+    },
+    {
+      "id": 214,
+      "text": "Groundramon"
+    },
+    {
+      "id": 215,
+      "text": "Flaremon"
+    },
+    {
+      "id": 216,
+      "text": "Crescemon"
+    },
+    {
+      "id": 217,
+      "text": "SuperStarmon"
+    },
+    {
+      "id": 218,
+      "text": "BlackRapidmon"
+    },
+    {
+      "id": 219,
+      "text": "BlueMeramon"
+    },
+    {
+      "id": 220,
+      "text": "PileVolcanomon"
+    },
+    {
+      "id": 221,
+      "text": "Valkyrimon"
+    },
+    {
+      "id": 222,
+      "text": "WarGreymon"
+    },
+    {
+      "id": 223,
+      "text": "GigaSeadramon"
+    },
+    {
+      "id": 224,
+      "text": "GranKuwagamon"
+    },
+    {
+      "id": 225,
+      "text": "Gryphonmon"
+    },
+    {
+      "id": 226,
+      "text": "Eaglemon"
+    },
+    {
+      "id": 227,
+      "text": "SaberLeomon"
+    },
+    {
+      "id": 228,
+      "text": "ShineGreymon"
+    },
+    {
+      "id": 229,
+      "text": "SkullMammothmon"
+    },
+    {
+      "id": 230,
+      "text": "MegaGargomon"
+    },
+    {
+      "id": 231,
+      "text": "HiAndromon"
+    },
+    {
+      "id": 232,
+      "text": "BanchoLeomon"
+    },
+    {
+      "id": 233,
+      "text": "Piedmon"
+    },
+    {
+      "id": 234,
+      "text": "Puppetmon"
+    },
+    {
+      "id": 235,
+      "text": "Pharaohmon"
+    },
+    {
+      "id": 236,
+      "text": "Pukumon"
+    },
+    {
+      "id": 237,
+      "text": "BlackWarGreymon"
+    },
+    {
+      "id": 238,
+      "text": "PrinceMamemon"
+    },
+    {
+      "id": 239,
+      "text": "Preciomon"
+    },
+    {
+      "id": 240,
+      "text": "HerculesKabuterimon"
+    },
+    {
+      "id": 241,
+      "text": "Phoenixmon"
+    },
+    {
+      "id": 242,
+      "text": "MirageGaogamon"
+    },
+    {
+      "id": 243,
+      "text": "Machinedramon"
+    },
+    {
+      "id": 244,
+      "text": "MetalEtemon"
+    },
+    {
+      "id": 245,
+      "text": "MetalGarurumon"
+    },
+    {
+      "id": 246,
+      "text": "MetalGarurumon"
+    },
+    {
+      "id": 247,
+      "text": "MetalSeadramon"
+    },
+    {
+      "id": 248,
+      "text": "Rosemon"
+    },
+    {
+      "id": 249,
+      "text": "ZeedGarurumon"
+    },
+    {
+      "id": 250,
+      "text": "VictoryGreymon"
+    },
+    {
+      "id": 251,
+      "text": "Slayerdramon"
+    },
+    {
+      "id": 252,
+      "text": "Brakedramon"
+    },
+    {
+      "id": 253,
+      "text": "Apollomon"
+    },
+    {
+      "id": 254,
+      "text": "Dianamon"
+    },
+    {
+      "id": 255,
+      "text": "Imperialdramon"
+    },
+    {
+      "id": 256,
+      "text": "Gallantmon"
+    },
+    {
+      "id": 257,
+      "text": "`1234567890-=qwertyuiop［］asdfghjkl;' zxcvbnm,./ "
+    },
+    {
+      "id": 258,
+      "text": "~!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:\" ZXCVBNM<>? "
+    },
+    {
+      "id": 259,
+      "text": "àáâãäæçèéêëìíîïðñòóôõöøùúûüýÞœÿ                 "
+    },
+    {
+      "id": 260,
+      "text": "ÀÁÂÃÄÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝþŒŸ                  "
+    },
+    {
+      "id": 261,
+      "text": "¢￡€¥§¿±☆★○●◎◇◆□■△▲▽▼♠♣∞♂♀©®÷                    "
+    },
+    {
+      "id": 262,
+      "text": ""
+    },
+    {
+      "id": 263,
+      "text": "一ニ三四五六七八九十月火水木金土日氷雷光闇空石人王神力心技体進化型系白黒赤青黄緑完全究極団家族真"
+    },
+    {
+      "id": 264,
+      "text": "一ニ三四五六七八九十月火水木金土日氷雷光闇空石人王神力心技体進化型系白黒赤青黄緑完全究極団家族真"
+    },
+    {
+      "id": 265,
+      "text": "                          1234567890           "
+    },
+    {
+      "id": 266,
+      "text": "                          1234567890           "
+    },
+    {
+      "id": 267,
+      "text": "23456789-=qertypadfhl'bnm,/~!@#$%&*()+QWERTYUOP{}ASDFGHJKL:ZXCVBNM<>?"
+    },
+    {
+      "id": 268,
+      "text": "àãäæèëìñýœÿÀÄÆÇÈËÏÐÑÒÖØÙÜÝŒŸ"
+    },
+    {
+      "id": 269,
+      "text": "¢￡€¥§¿±☆★●◎◇◆□■△▲▽▼♠♣∞♂♀©®÷"
+    },
+    {
+      "id": 270,
+      "text": "三四五六七九月火水木金土日氷雷光闇空石人王神心技体進型系白黒赤青黄緑完全究極団家族真"
+    },
+    {
+      "id": 271,
+      "text": ".I|10o○;ÍĨïⅰÕÓÃÁŨÚĩívxkzswcö`”"
+    },
+    {
+      "id": 272,
+      "text": ",lllOOO:ììììÒÒÀÀÙÙììVXKZSWCÖ'~"
+    },
+    {
+      "id": 273,
+      "text": "かきくけこさしすせそたちつてとはひふへほぱぴぷぺぽカキクケコサシスセソタチツテトハヒフヘホパピプペポ"
+    },
+    {
+      "id": 274,
+      "text": "がぎぐげござじずぜぞだぢづでどばびぶべぼばびぶべぼガギグゲゴザジズゼゾダヂヅデドバビブベボバビブベボ"
+    },
+    {
+      "id": 275,
+      "text": "はひふへほばびぶべぼハヒフヘホバビブベボ"
+    },
+    {
+      "id": 276,
+      "text": "ぱぴぷぺぽぱぴぷぺぽパピプペポパピプペポ"
+    },
+    {
+      "id": 277,
+      "text": "Food"
+    },
+    {
+      "id": 278,
+      "text": "Protein"
+    },
+    {
+      "id": 279,
+      "text": "Medicine"
+    },
+    {
+      "id": 280,
+      "text": "Bandage"
+    },
+    {
+      "id": 281,
+      "text": "Meat is high in\\nnutrients. Feed this\\nto Digimon when\\nthey're hungry!"
+    },
+    {
+      "id": 282,
+      "text": "Increases {esc:0004}attack{esc:0002} \\npower.　If Digimon eat\\ntoo much they become\\nprone to injury."
+    },
+    {
+      "id": 283,
+      "text": "Cures illness.\\nSometimes lower\\n{esc:0004}generation{esc:0002} Digimon\\nare harder to cure."
+    },
+    {
+      "id": 284,
+      "text": "Heals injuries.\\nSometimes higher\\n{esc:0004}generation{esc:0002} Digimon\\nare harder to heal."
+    },
+    {
+      "id": 285,
+      "text": "Gen-Analyzer"
+    },
+    {
+      "id": 286,
+      "text": "Family Analyzer"
+    },
+    {
+      "id": 287,
+      "text": "Attribute Analyzer"
+    },
+    {
+      "id": 288,
+      "text": "HP Analyzer"
+    },
+    {
+      "id": 289,
+      "text": "Nature Analyzer"
+    },
+    {
+      "id": 290,
+      "text": "Memory Analyzer"
+    },
+    {
+      "id": 291,
+      "text": "DigiAnalyzer α"
+    },
+    {
+      "id": 292,
+      "text": "DigiAnalyzer β"
+    },
+    {
+      "id": 293,
+      "text": "DigiAnalyzer Ω"
+    },
+    {
+      "id": 294,
+      "text": "Shot Checker"
+    },
+    {
+      "id": 295,
+      "text": "Wire Checker"
+    },
+    {
+      "id": 296,
+      "text": "Trap Checker"
+    },
+    {
+      "id": 297,
+      "text": "Damage Trap Checker"
+    },
+    {
+      "id": 298,
+      "text": "All Checker"
+    },
+    {
+      "id": 299,
+      "text": "Gen-Radar α"
+    },
+    {
+      "id": 300,
+      "text": "Gen-Radar β"
+    },
+    {
+      "id": 301,
+      "text": "Gen-Radar γ"
+    },
+    {
+      "id": 302,
+      "text": "Gen-Radar Ω"
+    },
+    {
+      "id": 303,
+      "text": "Data Search"
+    },
+    {
+      "id": 304,
+      "text": "Vaccine Search"
+    },
+    {
+      "id": 305,
+      "text": "Virus Search"
+    },
+    {
+      "id": 306,
+      "text": "Dragon Radar"
+    },
+    {
+      "id": 307,
+      "text": "Animal Radar"
+    },
+    {
+      "id": 308,
+      "text": "Sky Radar"
+    },
+    {
+      "id": 309,
+      "text": "Aqua Radar"
+    },
+    {
+      "id": 310,
+      "text": "Saint Radar"
+    },
+    {
+      "id": 311,
+      "text": "Dark Radar"
+    },
+    {
+      "id": 312,
+      "text": "Nature Radar"
+    },
+    {
+      "id": 313,
+      "text": "Metal Radar"
+    },
+    {
+      "id": 314,
+      "text": "Memory Checker"
+    },
+    {
+      "id": 315,
+      "text": "Analyze the {esc:0004}type {esc:0002}and\\n{esc:0004}generation {esc:0002}of a\\nDigimon."
+    },
+    {
+      "id": 316,
+      "text": "Analyze the {esc:0004}type {esc:0002}and\\n{esc:0004}species {esc:0002}of a Digimon."
+    },
+    {
+      "id": 317,
+      "text": "Analyze the {esc:0004}type {esc:0002}and\\n{esc:0004}attribute {esc:0002}of a\\nDigimon."
+    },
+    {
+      "id": 318,
+      "text": "Analyze the {esc:0004}type {esc:0002}and\\n{esc:0004}Max HP {esc:0002}of a Digimon."
+    },
+    {
+      "id": 319,
+      "text": "Analyze the {esc:0004}type {esc:0002}and\\n{esc:0004}nature {esc:0002}of a Digimon."
+    },
+    {
+      "id": 320,
+      "text": "Analyze the {esc:0004}type {esc:0002}and\\n{esc:0004}capacity {esc:0002}of a\\nDigimon."
+    },
+    {
+      "id": 321,
+      "text": "Analyze the {esc:0004}type{esc:0002}, {esc:0004}\\ngeneration{esc:0002}, and\\n{esc:0004}species {esc:0002}of a \\nDigimon."
+    },
+    {
+      "id": 322,
+      "text": "Analyze the {esc:0004}type{esc:0002},\\n{esc:0004}generation{esc:0002}, {esc:0004}species{esc:0002},\\nand {esc:0004}attribute{esc:0002} of a\\nDigimon."
+    },
+    {
+      "id": 323,
+      "text": "Analyze all stats of\\na Digimon."
+    },
+    {
+      "id": 324,
+      "text": "Display the number\\nof {esc:0004}shot{esc:0002} items."
+    },
+    {
+      "id": 325,
+      "text": "Display the number\\nof {esc:0004}wire{esc:0002} items."
+    },
+    {
+      "id": 326,
+      "text": "Display the number\\nof {esc:0004}trap{esc:0002} items."
+    },
+    {
+      "id": 327,
+      "text": "Display the number\\nof {esc:0004}damage trap{esc:0002} items."
+    },
+    {
+      "id": 328,
+      "text": "Display the number \\nof all items."
+    },
+    {
+      "id": 329,
+      "text": "Display {esc:0004}In-Training{esc:0002}\\nDigimon on the radar."
+    },
+    {
+      "id": 330,
+      "text": "Display {esc:0004}Rookie{esc:0002}\\nDigimon on the radar."
+    },
+    {
+      "id": 331,
+      "text": "Display {esc:0004}Champion{esc:0002}\\nDigimon on the radar."
+    },
+    {
+      "id": 332,
+      "text": "Display {esc:0004}Ultimate{esc:0002}\\nDigimon on the radar."
+    },
+    {
+      "id": 333,
+      "text": "Display Digimon with\\n{esc:0004}Data{esc:0002} and {esc:0004}Free\\n{esc:0004}attributes{esc:0002} on the\\nradar."
+    },
+    {
+      "id": 334,
+      "text": "Display Digimon with\\n{esc:0004}Vaccine{esc:0004} attributes{esc:0002}\\non the radar."
+    },
+    {
+      "id": 335,
+      "text": "Display Digimon with\\n{esc:0004}Virus{esc:0004} attributes{esc:0002} on\\nthe radar."
+    },
+    {
+      "id": 336,
+      "text": "Display Digimon\\nwhose {esc:0004}species{esc:0002} are\\n{esc:0004}Dragon{esc:0002} on the radar."
+    },
+    {
+      "id": 337,
+      "text": "Display Digimon\\nwhose {esc:0004}species{esc:0002} are\\n{esc:0004}Beast{esc:0002} on the radar."
+    },
+    {
+      "id": 338,
+      "text": "Display Digimon\\nwhose {esc:0004}species{esc:0002} are\\n{esc:0004}Bird{esc:0002} on the radar."
+    },
+    {
+      "id": 339,
+      "text": "Display Digimon\\nwhose {esc:0004}species{esc:0002} are\\n{esc:0004}Aquatic{esc:0002} on the\\nradar."
+    },
+    {
+      "id": 340,
+      "text": "Display Digimon\\nwhose {esc:0004}species{esc:0002} are\\n{esc:0004}Holy{esc:0002} on the radar."
+    },
+    {
+      "id": 341,
+      "text": "Display Digimon\\nwhose {esc:0004}species{esc:0002} are\\n{esc:0004}Dark{esc:0002} on the radar."
+    },
+    {
+      "id": 342,
+      "text": "Display Digimon\\nwhose {esc:0004}species{esc:0002} are\\n{esc:0004}InsectPlant{esc:0002} on the\\nradar."
+    },
+    {
+      "id": 343,
+      "text": "Display Digimon\\nwhose {esc:0004}species{esc:0002} are\\n{esc:0004}Machine{esc:0002} on the\\nradar."
+    },
+    {
+      "id": 344,
+      "text": "Display the {esc:0004}capacity{esc:0002}\\nof the memory card."
+    },
+    {
+      "id": 345,
+      "text": "DigiRope α"
+    },
+    {
+      "id": 346,
+      "text": "DigiRope β"
+    },
+    {
+      "id": 347,
+      "text": "DigiRope γ"
+    },
+    {
+      "id": 348,
+      "text": "Hard Rope α"
+    },
+    {
+      "id": 349,
+      "text": "Hard Rope β"
+    },
+    {
+      "id": 350,
+      "text": "Hard Rope γ"
+    },
+    {
+      "id": 351,
+      "text": "Chrome Rope α"
+    },
+    {
+      "id": 352,
+      "text": "Chrome Rope β"
+    },
+    {
+      "id": 353,
+      "text": "Chrome Rope γ"
+    },
+    {
+      "id": 354,
+      "text": "Ultima Rope α"
+    },
+    {
+      "id": 355,
+      "text": "Ultima Rope β"
+    },
+    {
+      "id": 356,
+      "text": "Ultima Rope γ"
+    },
+    {
+      "id": 357,
+      "text": "Shot α"
+    },
+    {
+      "id": 358,
+      "text": "Shot β"
+    },
+    {
+      "id": 359,
+      "text": "Rapid Shot α"
+    },
+    {
+      "id": 360,
+      "text": "Rapid Shot β"
+    },
+    {
+      "id": 361,
+      "text": "Sleep Shot α"
+    },
+    {
+      "id": 362,
+      "text": "Sleep Shot β"
+    },
+    {
+      "id": 363,
+      "text": "Stun Shot α"
+    },
+    {
+      "id": 364,
+      "text": "Stun Shot β"
+    },
+    {
+      "id": 365,
+      "text": "Shot Burst α"
+    },
+    {
+      "id": 366,
+      "text": "Shot Burst β"
+    },
+    {
+      "id": 367,
+      "text": "Stunshot α"
+    },
+    {
+      "id": 368,
+      "text": "Stunshot β"
+    },
+    {
+      "id": 369,
+      "text": "Normal Wire α"
+    },
+    {
+      "id": 370,
+      "text": "Normal Wire β"
+    },
+    {
+      "id": 371,
+      "text": "Magnet Wire α"
+    },
+    {
+      "id": 372,
+      "text": "Magnet Wire β"
+    },
+    {
+      "id": 373,
+      "text": "Spark Wire α"
+    },
+    {
+      "id": 374,
+      "text": "Spark Wire β"
+    },
+    {
+      "id": 375,
+      "text": "Normal Meat"
+    },
+    {
+      "id": 376,
+      "text": "Large Meat"
+    },
+    {
+      "id": 377,
+      "text": "Poison Meat"
+    },
+    {
+      "id": 378,
+      "text": "Paralysis Meat"
+    },
+    {
+      "id": 379,
+      "text": "Decoy"
+    },
+    {
+      "id": 380,
+      "text": "Decoy EV"
+    },
+    {
+      "id": 381,
+      "text": "Yellow Light"
+    },
+    {
+      "id": 382,
+      "text": "Blue Light"
+    },
+    {
+      "id": 383,
+      "text": "Normal Bomb"
+    },
+    {
+      "id": 384,
+      "text": "Sleep Bomb"
+    },
+    {
+      "id": 385,
+      "text": "Stun Bomb"
+    },
+    {
+      "id": 386,
+      "text": "Flash Bomb"
+    },
+    {
+      "id": 387,
+      "text": "Normal Mine"
+    },
+    {
+      "id": 388,
+      "text": "Huge Mine"
+    },
+    {
+      "id": 389,
+      "text": "DigiCatch"
+    },
+    {
+      "id": 390,
+      "text": "DigiPrison"
+    },
+    {
+      "id": 391,
+      "text": "Rope used for\\n{esc:0004}In-Training {esc:0002}Digimon.\\nDurability: {esc:0004}10{esc:0002}"
+    },
+    {
+      "id": 392,
+      "text": "Rope used for\\n{esc:0004}In-Training {esc:0002}Digimon.\\nDurability: {esc:0004}15{esc:0002}"
+    },
+    {
+      "id": 393,
+      "text": "Rope used for\\n{esc:0004}In-Training {esc:0002}Digimon.\\nDurability: {esc:0004}20{esc:0002}"
+    },
+    {
+      "id": 394,
+      "text": "Rope used for\\n{esc:0004}Rookie {esc:0002}Digimon.\\nDurability: {esc:0004}32{esc:0002}"
+    },
+    {
+      "id": 395,
+      "text": "Rope used for\\n{esc:0004}Rookie {esc:0002}Digimon.\\nDurability: {esc:0004}44{esc:0002}"
+    },
+    {
+      "id": 396,
+      "text": "Rope used for\\n{esc:0004}Rookie {esc:0002}Digimon.\\nDurability: {esc:0004}56{esc:0002}"
+    },
+    {
+      "id": 397,
+      "text": "Rope used for\\n{esc:0004}Champion {esc:0002}Digimon.\\nDurability: {esc:0004}60{esc:0002}"
+    },
+    {
+      "id": 398,
+      "text": "Rope used for\\n{esc:0004}Champion {esc:0002}Digimon.\\nDurability: {esc:0004}80{esc:0002}"
+    },
+    {
+      "id": 399,
+      "text": "Rope used for\\n{esc:0004}Champion {esc:0002}Digimon.\\nDurability: {esc:0004}100{esc:0002}"
+    },
+    {
+      "id": 400,
+      "text": "Rope used for\\n{esc:0004}Ultimate {esc:0002}Digimon.\\nDurability: {esc:0004}150{esc:0002}"
+    },
+    {
+      "id": 401,
+      "text": "Rope used for\\n{esc:0004}Ultimate {esc:0002}Digimon.\\nDurability: {esc:0004}200{esc:0002}"
+    },
+    {
+      "id": 402,
+      "text": "Rope used for\\n{esc:0004}Ultimate {esc:0002}Digimon.\\nDurability: {esc:0004}250{esc:0002}"
+    },
+    {
+      "id": 403,
+      "text": "A shot that stops\\nDigimon.\\nPower: {esc:0004}10{esc:0002}"
+    },
+    {
+      "id": 404,
+      "text": "A shot that stops\\nDigimon.\\nPower: {esc:0004}20{esc:0002}"
+    },
+    {
+      "id": 405,
+      "text": "Fires multiple shots\\ncontinuously.\\nPower: {esc:0004}10{esc:0002}"
+    },
+    {
+      "id": 406,
+      "text": "Fires multiple shots\\ncontinuously.\\nPower: {esc:0004}20{esc:0002}"
+    },
+    {
+      "id": 407,
+      "text": "Fires a tranquilizer.\\nPower: {esc:0004}10{esc:0002}\\nEffect: {esc:0004}Sleep{esc:0002}"
+    },
+    {
+      "id": 408,
+      "text": "Fires a tranquilizer.\\nPower: {esc:0004}20{esc:0002}\\nEffect: {esc:0004}Sleep{esc:0002}"
+    },
+    {
+      "id": 409,
+      "text": "Stun the target with\\nspecial shots.\\nPower: {esc:0004}10{esc:0002}\\nEffect: {esc:0004}Paralysis{esc:0002}"
+    },
+    {
+      "id": 410,
+      "text": "Stun the target with\\nspecial shots.\\nPower: {esc:0004}20{esc:0002}\\nEffect: {esc:0004}Paralysis{esc:0002}"
+    },
+    {
+      "id": 411,
+      "text": "Fires 6 shots at\\nonce.\\nPower: {esc:0004}10x6{esc:0002}"
+    },
+    {
+      "id": 412,
+      "text": "Fires 6 shots at\\nonce.\\nPower: {esc:0004}20x6{esc:0002}"
+    },
+    {
+      "id": 413,
+      "text": "Fires 6 stun shots at\\nonce.\\nPower: {esc:0004}10x6{esc:0002}\\nEffect: {esc:0004}Paralysis{esc:0002}"
+    },
+    {
+      "id": 414,
+      "text": "Fires 6 stun shots at\\nonce.\\nPower: {esc:0004}20x6{esc:0002}\\nEffect: {esc:0004}Paralysis{esc:0002}"
+    },
+    {
+      "id": 415,
+      "text": "Lay it on the ground\\nto block Digimon.\\nLength: {esc:0004}24{esc:0002}"
+    },
+    {
+      "id": 416,
+      "text": "Lay it on the ground\\nto block Digimon.\\nLength: {esc:0004}48{esc:0002}"
+    },
+    {
+      "id": 417,
+      "text": "Digimon stick to\\nthis wire.\\nLength: {esc:0004}24{esc:0002}"
+    },
+    {
+      "id": 418,
+      "text": "Digimon stick to\\nthis wire.\\nLength: {esc:0004}48{esc:0002}"
+    },
+    {
+      "id": 419,
+      "text": "Inflict damage with\\nelectricity.\\nLength: {esc:0004}24{esc:0002}\\nPower: {esc:0004}10{esc:0002}"
+    },
+    {
+      "id": 420,
+      "text": "Inflict damage with\\nelectricity.\\nLength: {esc:0004}48{esc:0002}\\nPower: {esc:0004}20{esc:0002}"
+    },
+    {
+      "id": 421,
+      "text": "Digimon love this\\nfood. They are\\nattracted by its\\ndelicious smell."
+    },
+    {
+      "id": 422,
+      "text": "A huge piece of\\nmeat. It's twice as\\nlarge as normal. Its\\nsmell spreads far."
+    },
+    {
+      "id": 423,
+      "text": "Meat with poison in\\nit.\\nEffect: {esc:0004}Poison{esc:0002}"
+    },
+    {
+      "id": 424,
+      "text": "Eating this meat\\ncauses paralysis.\\nEffect: {esc:0004}Paralysis{esc:0002}"
+    },
+    {
+      "id": 425,
+      "text": "A toy pumpkin that\\nwalks. Digimon will\\nchase it."
+    },
+    {
+      "id": 426,
+      "text": "A more evolved\\nwalking toy. It\\nmakes Digimon want\\nto chase it more."
+    },
+    {
+      "id": 427,
+      "text": "This lures specific\\nDigimon. Can only be\\nused at night."
+    },
+    {
+      "id": 428,
+      "text": "Lure Digimon with a\\nmysterious light.\\nCan only be used\\nat night."
+    },
+    {
+      "id": 429,
+      "text": "Inflict damage with\\nan explosion.\\nPower: {esc:0004}40{esc:0002}"
+    },
+    {
+      "id": 430,
+      "text": "Unleash sleeping gas\\nwith an explosion.\\nPower: {esc:0004}40{esc:0002}\\nEffect: {esc:0004}Sleep{esc:0002}"
+    },
+    {
+      "id": 431,
+      "text": "Unleash paralyzing gas\\nwith an explosion.\\nPower: {esc:0004}40{esc:0002}\\nEffect: {esc:0004}Paralysis{esc:0002}"
+    },
+    {
+      "id": 432,
+      "text": "Unleash an intense\\nlight.\\nPower: {esc:0004}40{esc:0002}\\nEffect: {esc:0004}Blindness{esc:0002}"
+    },
+    {
+      "id": 433,
+      "text": "Explodes when\\nstepped on by\\nDigimon.\\nPower: {esc:0004}50{esc:0002}"
+    },
+    {
+      "id": 434,
+      "text": "Explodes when\\nstepped on by\\nDigimon.\\nPower: {esc:0004}70{esc:0002}"
+    },
+    {
+      "id": 435,
+      "text": "Place this on the\\nground to catch\\nDigimon."
+    },
+    {
+      "id": 436,
+      "text": "A trap that must be\\nset and placed.\\nEffective against\\nmany Digimon."
+    },
+    {
+      "id": 437,
+      "text": "Memory Card 32"
+    },
+    {
+      "id": 438,
+      "text": "Memory Card 64"
+    },
+    {
+      "id": 439,
+      "text": "Memory Card 96"
+    },
+    {
+      "id": 440,
+      "text": "Able to store up to\\n{esc:0004}32{esc:0002}G during a hunt."
+    },
+    {
+      "id": 441,
+      "text": "Able to store up to\\n{esc:0004}64{esc:0002}G during a hunt."
+    },
+    {
+      "id": 442,
+      "text": "Able to store up to\\n{esc:0004}96{esc:0002}G during a hunt."
+    },
+    {
+      "id": 443,
+      "text": "-"
+    },
+    {
+      "id": 444,
+      "text": "Beast"
+    },
+    {
+      "id": 445,
+      "text": "Machine"
+    },
+    {
+      "id": 446,
+      "text": "I.Plant"
+    },
+    {
+      "id": 447,
+      "text": "Bird"
+    },
+    {
+      "id": 448,
+      "text": "Dragon"
+    },
+    {
+      "id": 449,
+      "text": "Aquatic"
+    },
+    {
+      "id": 450,
+      "text": "Holy"
+    },
+    {
+      "id": 451,
+      "text": "Dark"
+    },
+    {
+      "id": 452,
+      "text": "Docile"
+    },
+    {
+      "id": 453,
+      "text": "Selfish"
+    },
+    {
+      "id": 454,
+      "text": "Hasty"
+    },
+    {
+      "id": 455,
+      "text": "Lazy"
+    },
+    {
+      "id": 456,
+      "text": "Zealous"
+    },
+    {
+      "id": 457,
+      "text": "Cool"
+    },
+    {
+      "id": 458,
+      "text": "Daring"
+    },
+    {
+      "id": 459,
+      "text": "Coward"
+    },
+    {
+      "id": 460,
+      "text": "???"
+    },
+    {
+      "id": 461,
+      "text": "DigiEgg"
+    },
+    {
+      "id": 462,
+      "text": "In-Tr. I"
+    },
+    {
+      "id": 463,
+      "text": "In-Tr. II"
+    },
+    {
+      "id": 464,
+      "text": "Rookie"
+    },
+    {
+      "id": 465,
+      "text": "Champion"
+    },
+    {
+      "id": 466,
+      "text": "Ultimate"
+    },
+    {
+      "id": 467,
+      "text": "Mega"
+    },
+    {
+      "id": 468,
+      "text": "None"
+    },
+    {
+      "id": 469,
+      "text": "Vaccine"
+    },
+    {
+      "id": 470,
+      "text": "Virus"
+    },
+    {
+      "id": 471,
+      "text": "Data"
+    },
+    {
+      "id": 472,
+      "text": "Free"
+    },
+    {
+      "id": 473,
+      "text": "???"
+    },
+    {
+      "id": 474,
+      "text": "Gen:"
+    },
+    {
+      "id": 475,
+      "text": "Species:"
+    },
+    {
+      "id": 476,
+      "text": "HP:"
+    },
+    {
+      "id": 477,
+      "text": "Nature:"
+    },
+    {
+      "id": 478,
+      "text": "Capacity:"
+    },
+    {
+      "id": 479,
+      "text": "Digimon"
+    },
+    {
+      "id": 480,
+      "text": "Food"
+    },
+    {
+      "id": 481,
+      "text": "Protein"
+    },
+    {
+      "id": 482,
+      "text": "Bandages"
+    },
+    {
+      "id": 483,
+      "text": "Medicine"
+    },
+    {
+      "id": 484,
+      "text": "Species:"
+    },
+    {
+      "id": 485,
+      "text": "Gen:"
+    },
+    {
+      "id": 486,
+      "text": "Attrib:"
+    },
+    {
+      "id": 487,
+      "text": "Nature:"
+    },
+    {
+      "id": 488,
+      "text": "Attack:"
+    },
+    {
+      "id": 489,
+      "text": "Defense:"
+    },
+    {
+      "id": 490,
+      "text": "Wisdom:"
+    },
+    {
+      "id": 491,
+      "text": "Speed:"
+    },
+    {
+      "id": 492,
+      "text": "Capacity:"
+    },
+    {
+      "id": 493,
+      "text": "NoData"
+    },
+    {
+      "id": 494,
+      "text": "Empty Lot"
+    },
+    {
+      "id": 495,
+      "text": "Playground"
+    },
+    {
+      "id": 496,
+      "text": "Stadium"
+    },
+    {
+      "id": 497,
+      "text": "Dojo"
+    },
+    {
+      "id": 498,
+      "text": "Gym"
+    },
+    {
+      "id": 499,
+      "text": "Laboratory"
+    },
+    {
+      "id": 500,
+      "text": "Volcano"
+    },
+    {
+      "id": 501,
+      "text": "Grassland"
+    },
+    {
+      "id": 502,
+      "text": "Beach"
+    },
+    {
+      "id": 503,
+      "text": "Mountain"
+    },
+    {
+      "id": 504,
+      "text": "Forest"
+    },
+    {
+      "id": 505,
+      "text": "Jungle"
+    },
+    {
+      "id": 506,
+      "text": "Shrine"
+    },
+    {
+      "id": 507,
+      "text": "Graveyard"
+    },
+    {
+      "id": 508,
+      "text": "Factory"
+    },
+    {
+      "id": 509,
+      "text": "Mini Infirmary"
+    },
+    {
+      "id": 510,
+      "text": "Hospital"
+    },
+    {
+      "id": 511,
+      "text": "Flower Garden"
+    },
+    {
+      "id": 512,
+      "text": "Hot Springs"
+    },
+    {
+      "id": 513,
+      "text": "Desert"
+    },
+    {
+      "id": 514,
+      "text": "Ice"
+    },
+    {
+      "id": 515,
+      "text": "Power Plant"
+    },
+    {
+      "id": 516,
+      "text": "Evil Room"
+    },
+    {
+      "id": 517,
+      "text": "Temple"
+    },
+    {
+      "id": 518,
+      "text": "Zoo"
+    },
+    {
+      "id": 519,
+      "text": "Ranch"
+    },
+    {
+      "id": 520,
+      "text": "Ring"
+    },
+    {
+      "id": 521,
+      "text": "Waiting Room"
+    },
+    {
+      "id": 522,
+      "text": "Lid"
+    },
+    {
+      "id": 523,
+      "text": "Mini Playground"
+    },
+    {
+      "id": 524,
+      "text": "Infirmary"
+    },
+    {
+      "id": 525,
+      "text": "Mini Flower Garden"
+    },
+    {
+      "id": 526,
+      "text": "Mini Forest"
+    },
+    {
+      "id": 527,
+      "text": "Mini Gym"
+    },
+    {
+      "id": 528,
+      "text": "Mini Volcano"
+    },
+    {
+      "id": 529,
+      "text": "Mini Ice"
+    },
+    {
+      "id": 530,
+      "text": "Mini Mountain"
+    },
+    {
+      "id": 531,
+      "text": "Mini Factory"
+    },
+    {
+      "id": 532,
+      "text": "Mini Beach"
+    },
+    {
+      "id": 533,
+      "text": "Cave"
+    },
+    {
+      "id": 534,
+      "text": "A cozy, peaceful\\nopen space.\\n{esc:0004}Defense {esc:0002}Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 535,
+      "text": "Run and increase\\nbody strength.\\n{esc:0004}HP {esc:0002}Up.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 536,
+      "text": "Run around all you\\nwant on this large\\nfield. {esc:0004}Speed {esc:0002}Up.\\nOccupancy Limit: {esc:0004}10{esc:0002}"
+    },
+    {
+      "id": 537,
+      "text": "A cage to train\\nyour skill.\\n{esc:0004}TP {esc:0002}Up.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 538,
+      "text": "A place with lots of\\ntraining equipment.\\n{esc:0004}Attack {esc:0002}Up.\\nOccupancy Limit: {esc:0004}8{esc:0002}"
+    },
+    {
+      "id": 539,
+      "text": "A place to handle\\ndata.\\n{esc:0004}Data Attribute {esc:0002}Up.\\nOccupancy Limit: {esc:0004}8{esc:0002}"
+    },
+    {
+      "id": 540,
+      "text": "A volcanic cage.\\n{esc:0004}Dragon{esc:0002} Up.\\nOccupancy Limit: {esc:0004}8{esc:0002}"
+    },
+    {
+      "id": 541,
+      "text": "A grassland cage\\nwith short grass.\\n{esc:0004}Beast{esc:0002} Up.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 542,
+      "text": "A cage with a\\nseashore.\\n{esc:0004}Aquatic{esc:0002} Up.\\nOccupancy Limit: {esc:0004}8{esc:0002}"
+    },
+    {
+      "id": 543,
+      "text": "A cage with a\\nwindy mountain.\\n{esc:0004}Bird{esc:0002} Up.\\nOccupancy Limit: {esc:0004}8{esc:0002}"
+    },
+    {
+      "id": 544,
+      "text": "A cage with a\\nmystical forest.\\n{esc:0004}InsectPlant{esc:0002} Up.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 545,
+      "text": "A cage with lush\\nvegetation.\\n{esc:0004}InsectPlant{esc:0002} Up.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 546,
+      "text": "A shrine to worship\\nthe god of light.\\n{esc:0004}Light AP{esc:0002} Up.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 547,
+      "text": "A spooky graveyard\\ncage.\\n{esc:0004}Dark{esc:0002} Up.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 548,
+      "text": "A cage with a\\nmachine factory.\\n{esc:0004}Machine{esc:0002} Up.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 549,
+      "text": "A mini version of\\nthe Infirmary.\\nRestores {esc:0004}HP/Stress{esc:0002}.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 550,
+      "text": "A vaccine laboratory.\\n{esc:0004}Vaccine Attribute{esc:0002}\\nUp.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 551,
+      "text": "A cage that\\npurifies the soul.\\n{esc:0004}Holy{esc:0002} Up.\\nOccupancy Limit: {esc:0004}4{esc:0002}"
+    },
+    {
+      "id": 552,
+      "text": "A cage that heals\\nDigimon.\\nRestores {esc:0004}HP/Stress{esc:0002}.\\nOccupancy Limit: {esc:0004}8{esc:0002}"
+    },
+    {
+      "id": 553,
+      "text": "A desert cage that\\nis hot year round.\\n{esc:0004}Heat AP{esc:0002} Up.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 554,
+      "text": "A freezing, snow\\ncovered cage.\\n{esc:0004}Cold AP{esc:0002} Up.\\nOccupancy Limit: {esc:0004}8{esc:0002}"
+    },
+    {
+      "id": 555,
+      "text": "A cage with\\nelectricity.\\n{esc:0004}Thunder AP{esc:0002} Up.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 556,
+      "text": "A cage filled with\\ngerms.\\n{esc:0004}Virus Attribute{esc:0002} Up.\\nOccupancy Limit: {esc:0004}4{esc:0002}"
+    },
+    {
+      "id": 557,
+      "text": "A place to quietly\\nmeditate.\\n{esc:0004}Wisdom{esc:0002} Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 558,
+      "text": "A cage that auto\\nfeeds and cleans.\\nIt is a bit small.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 559,
+      "text": "A cage that auto\\nfeeds and cleans.\\nVery spacious.\\nOccupancy Limit: {esc:0004}8{esc:0002}"
+    },
+    {
+      "id": 560,
+      "text": "A training ring\\nused for sparring.\\n{esc:0004}Battle Count{esc:0002} Up.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 561,
+      "text": ""
+    },
+    {
+      "id": 562,
+      "text": ""
+    },
+    {
+      "id": 563,
+      "text": "A mini version of\\nthe playground.\\n{esc:0004}HP{esc:0002} Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 564,
+      "text": "A cage that heals\\nDigimon.\\nRestores {esc:0004}HP/Stress{esc:0002}.\\nOccupancy Limit: {esc:0004}6{esc:0002}"
+    },
+    {
+      "id": 565,
+      "text": "A mini version of\\nthe Flower Garden.\\n{esc:0004}Holy{esc:0002} Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 566,
+      "text": "A mini version of\\nthe Forest.\\n{esc:0004}InsectPlant{esc:0002} Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 567,
+      "text": "A mini version of\\nthe Gym.\\n{esc:0004}Attack{esc:0002} Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 568,
+      "text": "A mini version of\\nthe Volcano.\\n{esc:0004}Dragon{esc:0002} Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 569,
+      "text": "A mini version of\\nIce.\\n{esc:0004}Cold AP{esc:0002} Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 570,
+      "text": "A mini version of\\nthe Mountain.\\n{esc:0004}Bird{esc:0002} Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 571,
+      "text": "A mini version of\\nthe Factory.\\n{esc:0004}Machine{esc:0002} Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 572,
+      "text": "A mini version of\\nthe Beach.\\n{esc:0004}Aquatic{esc:0002} Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 573,
+      "text": "A cage that is a\\ndark, narrow hole.\\n{esc:0004}Darkness AP{esc:0002} Up.\\nOccupancy Limit: {esc:0004}2{esc:0002}"
+    },
+    {
+      "id": 574,
+      "text": "Dina Plains"
+    },
+    {
+      "id": 575,
+      "text": "Drive Savanna"
+    },
+    {
+      "id": 576,
+      "text": "Modular Forest"
+    },
+    {
+      "id": 577,
+      "text": "Boot Jungle"
+    },
+    {
+      "id": 578,
+      "text": "Slippery Swamp"
+    },
+    {
+      "id": 579,
+      "text": "Wave Coast"
+    },
+    {
+      "id": 580,
+      "text": "S. Bridge Valley"
+    },
+    {
+      "id": 581,
+      "text": "Chrome Mines"
+    },
+    {
+      "id": 582,
+      "text": "Mecha Plant"
+    },
+    {
+      "id": 583,
+      "text": "Sewer Road"
+    },
+    {
+      "id": 584,
+      "text": "Snow Land"
+    },
+    {
+      "id": 585,
+      "text": "Jagged Rocks"
+    },
+    {
+      "id": 586,
+      "text": "Magma Mountain"
+    },
+    {
+      "id": 587,
+      "text": "Sizzling Desert"
+    },
+    {
+      "id": 588,
+      "text": "Clear Oasis"
+    },
+    {
+      "id": 589,
+      "text": "Linka Ruins"
+    },
+    {
+      "id": 590,
+      "text": "Tutorial"
+    },
+    {
+      "id": 591,
+      "text": "ID:031SD6JH"
+    },
+    {
+      "id": 592,
+      "text": "ID:165SBN70"
+    },
+    {
+      "id": 593,
+      "text": "ID:002FF7GR"
+    },
+    {
+      "id": 594,
+      "text": "ID:034WJ9QM"
+    },
+    {
+      "id": 595,
+      "text": "ID:008LT0SI"
+    },
+    {
+      "id": 596,
+      "text": "ID:014SE9SS"
+    },
+    {
+      "id": 597,
+      "text": "ID:028XT5BO"
+    },
+    {
+      "id": 598,
+      "text": "ID:097TY9ZY"
+    },
+    {
+      "id": 599,
+      "text": "ID:554KR8DD"
+    },
+    {
+      "id": 600,
+      "text": "ID:430MD1JP"
+    },
+    {
+      "id": 601,
+      "text": "ID:040FZ6EN"
+    },
+    {
+      "id": 602,
+      "text": "ID:006VD9UK"
+    },
+    {
+      "id": 603,
+      "text": "ID:099AA2T0"
+    },
+    {
+      "id": 604,
+      "text": "ID:053SD0IN"
+    },
+    {
+      "id": 605,
+      "text": "ID:602SO2CS"
+    },
+    {
+      "id": 606,
+      "text": "ID:001GR3BU"
+    },
+    {
+      "id": 607,
+      "text": "ID:128TU0TA"
+    },
+    {
+      "id": 608,
+      "text": "Beast and I.Plant\\nDigimon gather here in\\nsearch of grass. Most\\nDigimon here have a\\npeaceful nature."
+    },
+    {
+      "id": 609,
+      "text": "An arid land. Dinosaur\\nDigimon hold it\\nas their territory."
+    },
+    {
+      "id": 610,
+      "text": "Bird and InsectPlant\\nDigimon live here. At\\nnight, rare Digimon\\nappear."
+    },
+    {
+      "id": 611,
+      "text": "A paradise for the\\nInsectPlant species.\\nBird and Beast species\\nDigimon also come here."
+    },
+    {
+      "id": 612,
+      "text": "This place is very humid\\nall year round. Digimon\\nthat like water and dark\\nplaces live here."
+    },
+    {
+      "id": 613,
+      "text": "Seashore where\\nAquatic Digimon gather.\\nThey move in herds when\\nthe seasons change."
+    },
+    {
+      "id": 614,
+      "text": "An area surrounded by\\nmountains. It is near\\nwater, and many birds\\nand beasts can be\\nseen here."
+    },
+    {
+      "id": 615,
+      "text": "Abandoned caves, that\\nare an ideal habitat\\nfor Dark Digimon."
+    },
+    {
+      "id": 616,
+      "text": "This factory produced\\nmany cyborgs. Machine\\nDigimon live here.\\n"
+    },
+    {
+      "id": 617,
+      "text": "This place is filthy\\nfrom the trash left by\\nresearchers. Digimon\\nthat like dirty\\nplaces live here."
+    },
+    {
+      "id": 618,
+      "text": "A land where the snow\\nnever melts. Many white\\ncolored Digimon that\\nblend in with the\\nscenery live here."
+    },
+    {
+      "id": 619,
+      "text": "A tall, steep mountain.\\nMany strong Bird\\nspecies live here."
+    },
+    {
+      "id": 620,
+      "text": "A volcano that has been\\nactive for ages. Dragon\\nspecies and Fire\\nDigimon live here."
+    },
+    {
+      "id": 621,
+      "text": "An area that is sizzling\\nhot. Digimon that live\\nhere have strong fire\\nabilities."
+    },
+    {
+      "id": 622,
+      "text": "A place for Digimon to\\nrelax. The types of\\nDigimon here change\\ndepending on the season."
+    },
+    {
+      "id": 623,
+      "text": "An ancient ruin found\\nin the deepest part of\\nthe desert. It is a\\nhabitat for Holy species\\nDigimon."
+    },
+    {
+      "id": 624,
+      "text": "You don't have\\nenough bits."
+    },
+    {
+      "id": 625,
+      "text": "Out of stock."
+    },
+    {
+      "id": 626,
+      "text": "There is not enough space\\non the Hunt memory card."
+    },
+    {
+      "id": 627,
+      "text": "Are you sure you want\\nto end Hunt Mode?"
+    },
+    {
+      "id": 628,
+      "text": "Do you want to start\\nFree Battle?"
+    },
+    {
+      "id": 629,
+      "text": "You can't hold any\\nmore of these items."
+    },
+    {
+      "id": 630,
+      "text": "You cannot upgrade with\\nyour current Tamer Rank."
+    },
+    {
+      "id": 631,
+      "text": "The cage cannot be\\nupgraded any more."
+    },
+    {
+      "id": 632,
+      "text": "This item is out of stock."
+    },
+    {
+      "id": 633,
+      "text": "You cannot enter as\\nyou do not meet\\nthe criteria."
+    },
+    {
+      "id": 634,
+      "text": "You must be at least\\nIn-Training II to enter."
+    },
+    {
+      "id": 635,
+      "text": "You cannot enter the\\nNational Battle with this\\nDigimon name. Please\\nchange the name."
+    },
+    {
+      "id": 636,
+      "text": "You cannot change your\\nteam name in National\\nBattle."
+    },
+    {
+      "id": 637,
+      "text": "No championship is being\\nheld today."
+    },
+    {
+      "id": 638,
+      "text": "You aren't eligible to\\nenter the championship."
+    },
+    {
+      "id": 639,
+      "text": "Do you want to enter\\nthe championship?"
+    },
+    {
+      "id": 640,
+      "text": "Do you want to enter\\nthe title match?"
+    },
+    {
+      "id": 641,
+      "text": "The title match\\nentry is between\\n7:00-15:00."
+    },
+    {
+      "id": 642,
+      "text": "Entry time has ended.\\nUnable to join the battle."
+    },
+    {
+      "id": 643,
+      "text": "You have been disconnected\\nfrom the battle system.\\nEnding session."
+    },
+    {
+      "id": 644,
+      "text": "Do you want to\\nrelease this Digimon?"
+    },
+    {
+      "id": 645,
+      "text": "Once deleted, you will be\\nunable to retrieve it.\\nProceed?"
+    },
+    {
+      "id": 646,
+      "text": "Please enter a name."
+    },
+    {
+      "id": 647,
+      "text": "Please name your DigiEgg."
+    },
+    {
+      "id": 648,
+      "text": "Do you want to start\\nthe tutorial?"
+    },
+    {
+      "id": 649,
+      "text": "Your capacity is full.\\nRemove some Digimon."
+    },
+    {
+      "id": 650,
+      "text": "Do you want to end\\nthis game?"
+    },
+    {
+      "id": 651,
+      "text": "No title match is\\nbeing held today."
+    },
+    {
+      "id": 652,
+      "text": "Turn the power OFF and\\nend the game."
+    },
+    {
+      "id": 653,
+      "text": "Do you want to\\nend the day?"
+    },
+    {
+      "id": 654,
+      "text": "You have not obtained\\nany titles yet."
+    },
+    {
+      "id": 655,
+      "text": "Please enter\\nyour password."
+    },
+    {
+      "id": 656,
+      "text": "The save data could not\\nbe accessed. Please turn\\nthe power off and\\nreinsert the DS Card."
+    },
+    {
+      "id": 657,
+      "text": "The save data could not\\nbe accessed. Please turn\\nthe power off and\\nreinsert the DS Card."
+    },
+    {
+      "id": 658,
+      "text": "You cannot take a\\nDigiEgg with you."
+    },
+    {
+      "id": 659,
+      "text": "You cannot take a\\nMega Digimon with you."
+    },
+    {
+      "id": 660,
+      "text": "Injured, ill, or dying\\nDigimon cannot enter."
+    },
+    {
+      "id": 661,
+      "text": "Championship"
+    },
+    {
+      "id": 662,
+      "text": "Title Match"
+    },
+    {
+      "id": 663,
+      "text": "Free Battle"
+    },
+    {
+      "id": 664,
+      "text": "Multi Battle"
+    },
+    {
+      "id": 665,
+      "text": "Password Battle"
+    },
+    {
+      "id": 666,
+      "text": "Practice Battle"
+    },
+    {
+      "id": 667,
+      "text": "A tournament held once\\nevery 4 years to find the\\ngreatest Digimon. Fight\\nto become the Champion!"
+    },
+    {
+      "id": 668,
+      "text": "Many title matches have\\ncertain criteria to enter\\nand are held at the same\\ntime every year. Win a lot\\nand increase your rank!"
+    },
+    {
+      "id": 669,
+      "text": "This battle can be\\nentered anytime. You can\\nchoose opponents freely."
+    },
+    {
+      "id": 670,
+      "text": "Battle wirelessly with\\nyour friends or with\\ntamers from across the\\ncountry."
+    },
+    {
+      "id": 671,
+      "text": "Summon Digimon with a\\npassword then battle!\\n"
+    },
+    {
+      "id": 672,
+      "text": "Divide Digimon you are\\ntraining into two teams\\nand battle!"
+    },
+    {
+      "id": 673,
+      "text": "Blue"
+    },
+    {
+      "id": 674,
+      "text": "Red"
+    },
+    {
+      "id": 675,
+      "text": "Access Trooper"
+    },
+    {
+      "id": 676,
+      "text": "Captain Region"
+    },
+    {
+      "id": 677,
+      "text": "Sunshine Revolution"
+    },
+    {
+      "id": 678,
+      "text": "Vector Partition"
+    },
+    {
+      "id": 679,
+      "text": "Bit Agent"
+    },
+    {
+      "id": 680,
+      "text": "Tough Digitizer"
+    },
+    {
+      "id": 681,
+      "text": "Core Breaker"
+    },
+    {
+      "id": 682,
+      "text": "Silver Freeze"
+    },
+    {
+      "id": 683,
+      "text": "Ace of Spring"
+    },
+    {
+      "id": 684,
+      "text": "Summer of Mirages"
+    },
+    {
+      "id": 685,
+      "text": "Autumn Survivor"
+    },
+    {
+      "id": 686,
+      "text": "General of Winter"
+    },
+    {
+      "id": 687,
+      "text": "Million Solo Dive"
+    },
+    {
+      "id": 688,
+      "text": "Dragon Lord"
+    },
+    {
+      "id": 689,
+      "text": "Beast Champion"
+    },
+    {
+      "id": 690,
+      "text": "Aqua Centurion"
+    },
+    {
+      "id": 691,
+      "text": "Wing Master"
+    },
+    {
+      "id": 692,
+      "text": "Nature King"
+    },
+    {
+      "id": 693,
+      "text": "Saint Soldiers"
+    },
+    {
+      "id": 694,
+      "text": "Nightmare Head"
+    },
+    {
+      "id": 695,
+      "text": "Metal Emperor"
+    },
+    {
+      "id": 696,
+      "text": "Sky Walkers"
+    },
+    {
+      "id": 697,
+      "text": "Dark Soldiers"
+    },
+    {
+      "id": 698,
+      "text": "Wild Hunters"
+    },
+    {
+      "id": 699,
+      "text": "Clear Fighters"
+    },
+    {
+      "id": 700,
+      "text": "Small Challenger"
+    },
+    {
+      "id": 701,
+      "text": "Large Fighter"
+    },
+    {
+      "id": 702,
+      "text": "Huge Maximum"
+    },
+    {
+      "id": 703,
+      "text": "Perfect Battler"
+    },
+    {
+      "id": 704,
+      "text": "Bug Busters"
+    },
+    {
+      "id": 705,
+      "text": "Gene Savers"
+    },
+    {
+      "id": 706,
+      "text": "Data Destroyers"
+    },
+    {
+      "id": 707,
+      "text": "Noisy Divider"
+    },
+    {
+      "id": 708,
+      "text": "Security Finalist"
+    },
+    {
+      "id": 709,
+      "text": "Huge Gatekeeper"
+    },
+    {
+      "id": 710,
+      "text": "Aqua Crusher"
+    },
+    {
+      "id": 711,
+      "text": "Blizzard Dominion"
+    },
+    {
+      "id": 712,
+      "text": "Volcano Striker"
+    },
+    {
+      "id": 713,
+      "text": "Desert Stormer"
+    },
+    {
+      "id": 714,
+      "text": "Top Gladiator"
+    },
+    {
+      "id": 715,
+      "text": "Top of the World"
+    },
+    {
+      "id": 716,
+      "text": "Queen of Duelists"
+    },
+    {
+      "id": 717,
+      "text": "Dancing Dolls"
+    },
+    {
+      "id": 718,
+      "text": "Seas of Emeralds"
+    },
+    {
+      "id": 719,
+      "text": "Mame World"
+    },
+    {
+      "id": 720,
+      "text": "Metal Armageddon"
+    },
+    {
+      "id": 721,
+      "text": "Insect Royale"
+    },
+    {
+      "id": 722,
+      "text": "Ancient Busters"
+    },
+    {
+      "id": 723,
+      "text": "Origin Survivor"
+    },
+    {
+      "id": 724,
+      "text": "Pendulum Distortion"
+    },
+    {
+      "id": 725,
+      "text": "Hundred Souls"
+    },
+    {
+      "id": 726,
+      "text": "Thousand Souls"
+    },
+    {
+      "id": 727,
+      "text": "Infinity Soul"
+    },
+    {
+      "id": 728,
+      "text": "Gravity Knights"
+    },
+    {
+      "id": 729,
+      "text": "Lonesome Heaven"
+    },
+    {
+      "id": 730,
+      "text": "Challenge Gears"
+    },
+    {
+      "id": 731,
+      "text": "Rainbow Flyer"
+    },
+    {
+      "id": 732,
+      "text": "Moon Evolution"
+    },
+    {
+      "id": 733,
+      "text": "Blade Guardian"
+    },
+    {
+      "id": 734,
+      "text": "Golden Feather"
+    },
+    {
+      "id": 735,
+      "text": "Reflect War"
+    },
+    {
+      "id": 736,
+      "text": "Tutorial Match"
+    },
+    {
+      "id": 737,
+      "text": "A one-on-one battle with\\na Rookie ToyAgumon!\\n{esc:000D}1 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 738,
+      "text": "Go against an invincible\\npair. You outnumber them\\nbut don't underestimate\\nthem! {esc:000D}Champion{esc:0002} only.\\n{esc:000D}3 vs. 2 {esc:0002}Battle"
+    },
+    {
+      "id": 739,
+      "text": "One of the greatest titles\\nknown as the Big 7! Make\\nyour mark and be part of\\nhistory!\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 740,
+      "text": "This match will be\\ndetermined by how well\\nyou can defend against the\\nleader, Renamon.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 741,
+      "text": "This team isn't a difficult\\nopponent as long as you\\nwatch out for\\nTsunomon's strength!\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 742,
+      "text": "A tag team match where\\npower is key! Raise your\\nHP before this match!\\n{esc:000D}Rookie {esc:0002}only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 743,
+      "text": "Go against a Mega\\nPharaohmon! Every tamer\\nhas their eyes set on\\nthis match!\\n{esc:000D}1 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 744,
+      "text": "The title holders are\\nthree Champion Digimon!\\nIn this match, you must\\ngo against them alone!\\n{esc:000D}1 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 745,
+      "text": "This is a one-on-one\\nbattle! Enter the best\\nDigimon on your team!\\n{esc:000D}1 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 746,
+      "text": "A 3 vs. 1 match! Can your\\nDigimon defeat Whamon to\\nbecome the Summer\\nchampion?!\\n{esc:000D}Champion{esc:0002} only {esc:000D}3 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 747,
+      "text": "The title holder is a cool\\nUltimate Cherrymon! To go\\nat it alone, your attacks\\nand healing must be\\nbalanced! {esc:000D}1 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 748,
+      "text": "The title holders are three\\nDigimon, and you must\\nfight alone! Every tamer\\nis watching!\\n{esc:000D}1 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 749,
+      "text": "One of the greatest titles\\nknown as the Big 7! Go\\nagainst three Digimon\\nalone!\\n{esc:000D}1 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 750,
+      "text": "A battle of those who\\ncontrol the great Dragon\\nDigimon!\\n{esc:000D}Dragon{esc:0002} species only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 751,
+      "text": "Take control of their wild\\npower and become the\\nBeast King!\\n{esc:000D}Beast {esc:0002}species only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 752,
+      "text": "This match is on water!\\nTake on a team led by\\nSnowAgumon!\\n{esc:000D}Water Field{esc:0002}\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 753,
+      "text": "Battles will be easier to\\nwin if you can use the\\nwind effectively.\\n{esc:000D}Bird{esc:0002} species only.\\n{esc:000D}1 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 754,
+      "text": "Many have been defeated\\nby Rose, the leader of\\nthis team!\\n{esc:000D}Champion{esc:0002} only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 755,
+      "text": "Battles between Holy\\nDigimon are expected to\\nbe fought fairly.\\n{esc:000D}Holy{esc:0002} species only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle "
+    },
+    {
+      "id": 756,
+      "text": "No one has ever been able\\nto defeat this battle\\nproven machine team.\\n{esc:000D}Champion{esc:0002} only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 757,
+      "text": "This match is a heated\\ntest of strength between\\nMachine Digimon.\\n{esc:000D}Machine{esc:0002} species only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 758,
+      "text": "Digimon clash to become\\nthe ruler of the skies.\\n{esc:000D}Dragon{esc:0002} and {esc:000D}Bird{esc:0002} species\\nonly.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 759,
+      "text": "The best Dark and Machine\\nDigimon soldiers battle\\nhere! {esc:000D}Machine{esc:0002} and {esc:000D}Dark{esc:0002}\\nspecies only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 760,
+      "text": "The enemy is a strong team\\nconsisting of Beast\\npower fighters!\\n{esc:000D}Rookie{esc:0002} only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 761,
+      "text": "This is a nice team whose\\ncolors and skills are\\nwell-balanced!\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 762,
+      "text": "The title holder is a\\nGizamon. Exploit its\\nweakness and this match\\nshould be easy!\\n{esc:000D}1 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 763,
+      "text": "An irregular three against\\none battle! Use teamwork to\\ndefeat Zudomon's power!\\n{esc:000D}Champion{esc:0002} only.\\n{esc:000D}3 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 764,
+      "text": "An irregular three against\\none battle! Use teamwork to\\ndefeat Piedmon's attacks!\\n{esc:000D}Ultimate{esc:0002} only.\\n{esc:000D}3 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 765,
+      "text": "Every tamer has their eyes\\non this title match! Take\\nthem on with your best\\nteam!\\n{esc:000D}Mega{esc:0002} only {esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 766,
+      "text": "The power of a Virus\\nDigimon called the Invader\\nexplodes in this match!\\n{esc:000D}Virus{esc:0002} attribute only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 767,
+      "text": "It's three In-Tr. II\\nDigimon against one of\\nyours! They may outnumber\\nyou, but none of them are\\nvery strong! {esc:000D}1 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 768,
+      "text": "It is important to know\\nyour data to win this battle!\\n{esc:000D}Data{esc:0002} attribute only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 769,
+      "text": "Defeat the skilled\\nfighters from D Infinite!\\n{esc:000D}Virus{esc:0002} and {esc:000D}Mega{esc:0002} only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 770,
+      "text": "This match determines the\\nbest Digimon with the\\nVaccine attribute!\\n{esc:000D}Vaccine{esc:0002} and {esc:000D}Mega{esc:0002} only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 771,
+      "text": "This battle determines\\nthe best Digimon with the\\nData attribute!\\n{esc:000D}Data{esc:0002} and {esc:000D}Mega{esc:0002} only.\\n{esc:000D}1 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 772,
+      "text": "The battlefield is covered\\nin water and favorable to\\nAquatic Digimon.\\n{esc:000D}Water Field{esc:0002}\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 773,
+      "text": "Battle on a Snowy\\nMountain! Beware of\\nIceDevimon's icy claws and\\nFrigimon's punches!\\n{esc:000D}Ice Field{esc:0002} {esc:000D}3 vs. 3{esc:0002} Battle"
+    },
+    {
+      "id": 774,
+      "text": "This battle is in a volcano.\\nThe raging heat from the\\nmagma will be intense!\\n{esc:000D}Volcano Field{esc:0002}\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 775,
+      "text": "A desert battle! A worthy\\ntitle for the team that\\nbeats the heat!\\n{esc:000D}Desert Field{esc:0002}\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 776,
+      "text": "This match is at the\\nColiseum. Every tamer has\\ntheir eyes set on this\\ntitle match!\\n{esc:000D}Coliseum Field{esc:0002} {esc:000D}1vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 777,
+      "text": "The title holders are a\\ngroup of magical Digimon!\\nDon't be swayed and take\\nthem down with your power!\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 778,
+      "text": "The title holders are\\nfemale. The winners of this\\nbattle are sure to be\\nworshipped as goddesses.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 779,
+      "text": "A three-on-one irregular\\nmatch! Defeat the three\\nattacking Hagurumon!\\n{esc:000D}Champion{esc:0002} only.\\n{esc:000D}1 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 780,
+      "text": "Only Vegetation Digimon\\ngather for this match!\\n{esc:000D}Vegetation{esc:0002} only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 781,
+      "text": "A battle for Mamemon\\nDigimon Only. Conquer\\nMamemon and conquer all\\nDigimon. {esc:000D}Mamemon Digimon{esc:0002}\\nonly. {esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 782,
+      "text": "They vary in strength,\\nbut these Digimon\\ndefinitely look like full\\nmetal title holders!\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 783,
+      "text": "It takes power to defeat\\nInsect Digimon that are\\ncovered in hard armor!\\n{esc:000D}3 vs. 3 {esc:0002}Battle "
+    },
+    {
+      "id": 784,
+      "text": "This battle is a gathering\\nof rare, Ancient Digimon.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 785,
+      "text": "Only classic Digimon can\\nenter this match! Digimon\\nthat appeared in the\\nearliest series only.\\n{esc:000D}1 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 786,
+      "text": "Only Digimon that appeared\\nin the middle period of\\nthe Digimon series may\\nenter.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 787,
+      "text": "Only Digimon you have a\\nlong relationship with can\\nenter! Degen. to DigiEgg\\n{esc:000D}3 or greater{esc:0002} only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 788,
+      "text": "One of the greatest titles\\nknown as the Big 7!\\nDegen. to DigiEgg {esc:000D}5 or\\ngreater.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 789,
+      "text": "One of the greatest titles\\nknown as the Big 7!\\nDegen. to DigiEgg {esc:000D}10 or\\ngreater.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 790,
+      "text": "One of the greatest titles\\nknown as the Big 7!\\nCapacity {esc:000D}24G or greater{esc:0002}.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 791,
+      "text": "This match is for cowardly\\nDigimon. You must be able\\nto control your Digimon.\\n{esc:000D}Cowardly{esc:0002} only.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 792,
+      "text": "This is a one-on-one\\nbattle! If you can't win\\nthis title, your future as\\na tamer might be shaky!\\n{esc:000D}1 vs. 1 {esc:0002}Battle"
+    },
+    {
+      "id": 793,
+      "text": "Colorful Digimon like\\nYoukomon and Psychemon\\nappear in this battle!\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 794,
+      "text": "One of the greatest titles\\nknown as the Big 7! Your\\nopponent is Delicia Rose.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 795,
+      "text": "One of the greatest titles\\nknown as the Big 7!\\nBattle the X-Dragoneers.\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 796,
+      "text": "Battle this shining title\\nholder! Every tamer has\\ntheir eyes set on this\\ntitle match!\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 797,
+      "text": "These Mega Digimon are\\nrelatively easy to defeat.\\nEvery tamer has their eyes\\nset on this title match!\\n{esc:000D}3 vs. 3 {esc:0002}Battle"
+    },
+    {
+      "id": 798,
+      "text": "This is a tutorial\\nbattle. It's okay to lose!"
+    },
+    {
+      "id": 799,
+      "text": "Preliminaries"
+    },
+    {
+      "id": 800,
+      "text": "Championship"
+    },
+    {
+      "id": 801,
+      "text": "Win at least one preliminary\\nin the three years before\\nthe championship to qualify.\\n{esc:000D}3 vs. 3{esc:0002} ({esc:000D}3{esc:0002} Battles)"
+    },
+    {
+      "id": 802,
+      "text": "Only Tamers that beat the\\npreliminaries can enter\\nthis tournament, held only\\nonce every four years.\\n{esc:000D}3 vs. 3{esc:0002} ({esc:000D}5{esc:0002} Battles)"
+    },
+    {
+      "id": 803,
+      "text": "Metal Blocks"
+    },
+    {
+      "id": 804,
+      "text": "Invincifire"
+    },
+    {
+      "id": 805,
+      "text": "Burnings"
+    },
+    {
+      "id": 806,
+      "text": "Crescent G."
+    },
+    {
+      "id": 807,
+      "text": "Horns"
+    },
+    {
+      "id": 808,
+      "text": "GO-ONEZ"
+    },
+    {
+      "id": 809,
+      "text": "Kuroshin"
+    },
+    {
+      "id": 810,
+      "text": "Tsukikage"
+    },
+    {
+      "id": 811,
+      "text": "Mountain Cat"
+    },
+    {
+      "id": 812,
+      "text": "Big Waves"
+    },
+    {
+      "id": 813,
+      "text": "F. Warriors"
+    },
+    {
+      "id": 814,
+      "text": "Sea Crows"
+    },
+    {
+      "id": 815,
+      "text": "D Infinite"
+    },
+    {
+      "id": 816,
+      "text": "X-Dragoneers"
+    },
+    {
+      "id": 817,
+      "text": "Wild Giggers"
+    },
+    {
+      "id": 818,
+      "text": "Tsukikage"
+    },
+    {
+      "id": 819,
+      "text": "Jet Shadow"
+    },
+    {
+      "id": 820,
+      "text": "Delicia Rose"
+    },
+    {
+      "id": 821,
+      "text": "Air Tribe"
+    },
+    {
+      "id": 822,
+      "text": "D Infinite"
+    },
+    {
+      "id": 823,
+      "text": "D Infinite"
+    },
+    {
+      "id": 824,
+      "text": "X-Dragoneers"
+    },
+    {
+      "id": 825,
+      "text": "SkullHackers"
+    },
+    {
+      "id": 826,
+      "text": "Wild Giggers"
+    },
+    {
+      "id": 827,
+      "text": "Snow Rush"
+    },
+    {
+      "id": 828,
+      "text": "Only Giggy"
+    },
+    {
+      "id": 829,
+      "text": "Wild Giggers"
+    },
+    {
+      "id": 830,
+      "text": "Mad Face"
+    },
+    {
+      "id": 831,
+      "text": "Scissor Edge"
+    },
+    {
+      "id": 832,
+      "text": "D Infinite"
+    },
+    {
+      "id": 833,
+      "text": "Seeds"
+    },
+    {
+      "id": 834,
+      "text": "Grinbook"
+    },
+    {
+      "id": 835,
+      "text": "D Infinite"
+    },
+    {
+      "id": 836,
+      "text": "Mountain Cat"
+    },
+    {
+      "id": 837,
+      "text": "In the Dark"
+    },
+    {
+      "id": 838,
+      "text": "Funk Lord"
+    },
+    {
+      "id": 839,
+      "text": "Blue Devil"
+    },
+    {
+      "id": 840,
+      "text": "Death & Laws"
+    },
+    {
+      "id": 841,
+      "text": "Masaya Flame"
+    },
+    {
+      "id": 842,
+      "text": "Lucky Pinch"
+    },
+    {
+      "id": 843,
+      "text": "Spellmaker"
+    },
+    {
+      "id": 844,
+      "text": "World Queen"
+    },
+    {
+      "id": 845,
+      "text": "Baroque"
+    },
+    {
+      "id": 846,
+      "text": "Delicia Rose"
+    },
+    {
+      "id": 847,
+      "text": "Mame Hero"
+    },
+    {
+      "id": 848,
+      "text": "Full Metals"
+    },
+    {
+      "id": 849,
+      "text": "Guardians"
+    },
+    {
+      "id": 850,
+      "text": "Three Stones"
+    },
+    {
+      "id": 851,
+      "text": "Sugar Ring"
+    },
+    {
+      "id": 852,
+      "text": "Gorilla X"
+    },
+    {
+      "id": 853,
+      "text": "Skull King"
+    },
+    {
+      "id": 854,
+      "text": "Mach Akira"
+    },
+    {
+      "id": 855,
+      "text": "UraTsukikage"
+    },
+    {
+      "id": 856,
+      "text": "Wild Giggers"
+    },
+    {
+      "id": 857,
+      "text": "Ghost Gauss"
+    },
+    {
+      "id": 858,
+      "text": "Wild Giggers"
+    },
+    {
+      "id": 859,
+      "text": "Respigi"
+    },
+    {
+      "id": 860,
+      "text": "Delicia Rose"
+    },
+    {
+      "id": 861,
+      "text": "X-Dragoneers"
+    },
+    {
+      "id": 862,
+      "text": "Troyon"
+    },
+    {
+      "id": 863,
+      "text": "Kuroshin"
+    },
+    {
+      "id": 864,
+      "text": "Tutorials"
+    },
+    {
+      "id": 865,
+      "text": ""
+    },
+    {
+      "id": 866,
+      "text": ""
+    },
+    {
+      "id": 867,
+      "text": ""
+    },
+    {
+      "id": 868,
+      "text": ""
+    },
+    {
+      "id": 869,
+      "text": ""
+    },
+    {
+      "id": 870,
+      "text": ""
+    },
+    {
+      "id": 871,
+      "text": ""
+    },
+    {
+      "id": 872,
+      "text": ""
+    },
+    {
+      "id": 873,
+      "text": ""
+    },
+    {
+      "id": 874,
+      "text": "F Warriors"
+    },
+    {
+      "id": 875,
+      "text": "Tsukikage"
+    },
+    {
+      "id": 876,
+      "text": "Death & Laws"
+    },
+    {
+      "id": 877,
+      "text": "GO-ONEZ"
+    },
+    {
+      "id": 878,
+      "text": "Dark Wings"
+    },
+    {
+      "id": 879,
+      "text": "Big Wave"
+    },
+    {
+      "id": 880,
+      "text": "Wild Giggers"
+    },
+    {
+      "id": 881,
+      "text": "SkullHackers"
+    },
+    {
+      "id": 882,
+      "text": "Blue Rush"
+    },
+    {
+      "id": 883,
+      "text": "China Heaven"
+    },
+    {
+      "id": 884,
+      "text": "Lady Gates"
+    },
+    {
+      "id": 885,
+      "text": "HighTensions"
+    },
+    {
+      "id": 886,
+      "text": "Delicia Rose"
+    },
+    {
+      "id": 887,
+      "text": "Wizpiko"
+    },
+    {
+      "id": 888,
+      "text": "Red Zone"
+    },
+    {
+      "id": 889,
+      "text": "Core Metals"
+    },
+    {
+      "id": 890,
+      "text": "Trump King"
+    },
+    {
+      "id": 891,
+      "text": "I-Fighters"
+    },
+    {
+      "id": 892,
+      "text": "Mad Dogs"
+    },
+    {
+      "id": 893,
+      "text": "Lucky Pinch"
+    },
+    {
+      "id": 894,
+      "text": "Nile Nine"
+    },
+    {
+      "id": 895,
+      "text": "Skull Fish"
+    },
+    {
+      "id": 896,
+      "text": "Peaches"
+    },
+    {
+      "id": 897,
+      "text": "Bug Club"
+    },
+    {
+      "id": 898,
+      "text": "Mach Akira"
+    },
+    {
+      "id": 899,
+      "text": "Oz Soldiers"
+    },
+    {
+      "id": 900,
+      "text": "X-Dragoneers"
+    },
+    {
+      "id": 901,
+      "text": "Death & Laws"
+    },
+    {
+      "id": 902,
+      "text": ""
+    },
+    {
+      "id": 903,
+      "text": ""
+    },
+    {
+      "id": 904,
+      "text": "Heroes"
+    },
+    {
+      "id": 905,
+      "text": "Heroesα"
+    },
+    {
+      "id": 906,
+      "text": "Heroesβ"
+    },
+    {
+      "id": 907,
+      "text": "New Heroes"
+    },
+    {
+      "id": 908,
+      "text": "Neo Heroes"
+    },
+    {
+      "id": 909,
+      "text": "Nice Heroes"
+    },
+    {
+      "id": 910,
+      "text": "Cool Heroes"
+    },
+    {
+      "id": 911,
+      "text": "God Heroes"
+    },
+    {
+      "id": 912,
+      "text": "Real Heroes"
+    },
+    {
+      "id": 913,
+      "text": "Last Heroes"
+    },
+    {
+      "id": 914,
+      "text": "Team Katie"
+    },
+    {
+      "id": 915,
+      "text": "Katie Babes"
+    },
+    {
+      "id": 916,
+      "text": "Kattyz"
+    },
+    {
+      "id": 917,
+      "text": "Kate Trio R"
+    },
+    {
+      "id": 918,
+      "text": "Kate Trio R"
+    },
+    {
+      "id": 919,
+      "text": "Katie GOGO"
+    },
+    {
+      "id": 920,
+      "text": "GOGO K!"
+    },
+    {
+      "id": 921,
+      "text": "SuperKate "
+    },
+    {
+      "id": 922,
+      "text": "TrioKate X"
+    },
+    {
+      "id": 923,
+      "text": "TrioKate X"
+    },
+    {
+      "id": 924,
+      "text": "Club Geek"
+    },
+    {
+      "id": 925,
+      "text": "Geekman"
+    },
+    {
+      "id": 926,
+      "text": "Geekman"
+    },
+    {
+      "id": 927,
+      "text": "Geekmaster"
+    },
+    {
+      "id": 928,
+      "text": "Geekmaster"
+    },
+    {
+      "id": 929,
+      "text": "Geek Trio"
+    },
+    {
+      "id": 930,
+      "text": "Geeklord"
+    },
+    {
+      "id": 931,
+      "text": "Mostly Geek "
+    },
+    {
+      "id": 932,
+      "text": "Mostly Geek "
+    },
+    {
+      "id": 933,
+      "text": "Mostly Geek "
+    },
+    {
+      "id": 934,
+      "text": "Plain King"
+    },
+    {
+      "id": 935,
+      "text": "Bored King"
+    },
+    {
+      "id": 936,
+      "text": "Lonely King"
+    },
+    {
+      "id": 937,
+      "text": "Normal King"
+    },
+    {
+      "id": 938,
+      "text": "Eager King"
+    },
+    {
+      "id": 939,
+      "text": "Groovy King"
+    },
+    {
+      "id": 940,
+      "text": "Absurd King"
+    },
+    {
+      "id": 941,
+      "text": "Ruinous King"
+    },
+    {
+      "id": 942,
+      "text": "Space King"
+    },
+    {
+      "id": 943,
+      "text": "Space King"
+    },
+    {
+      "id": 944,
+      "text": "Hawaii Rich"
+    },
+    {
+      "id": 945,
+      "text": "Asia Rich"
+    },
+    {
+      "id": 946,
+      "text": "America Rich"
+    },
+    {
+      "id": 947,
+      "text": "France Rich"
+    },
+    {
+      "id": 948,
+      "text": "Korea Rich"
+    },
+    {
+      "id": 949,
+      "text": "Russia Rich"
+    },
+    {
+      "id": 950,
+      "text": "Germany Rich"
+    },
+    {
+      "id": 951,
+      "text": "Real Rich"
+    },
+    {
+      "id": 952,
+      "text": "World Rich"
+    },
+    {
+      "id": 953,
+      "text": "World Rich"
+    },
+    {
+      "id": 954,
+      "text": "Digi Arena"
+    },
+    {
+      "id": 955,
+      "text": ""
+    },
+    {
+      "id": 956,
+      "text": ""
+    },
+    {
+      "id": 957,
+      "text": ""
+    },
+    {
+      "id": 958,
+      "text": ""
+    },
+    {
+      "id": 959,
+      "text": ""
+    },
+    {
+      "id": 960,
+      "text": ""
+    },
+    {
+      "id": 961,
+      "text": ""
+    },
+    {
+      "id": 962,
+      "text": ""
+    },
+    {
+      "id": 963,
+      "text": ""
+    },
+    {
+      "id": 964,
+      "text": ""
+    },
+    {
+      "id": 965,
+      "text": ""
+    },
+    {
+      "id": 966,
+      "text": ""
+    },
+    {
+      "id": 967,
+      "text": ""
+    },
+    {
+      "id": 968,
+      "text": ""
+    },
+    {
+      "id": 969,
+      "text": ""
+    },
+    {
+      "id": 970,
+      "text": ""
+    },
+    {
+      "id": 971,
+      "text": ""
+    },
+    {
+      "id": 972,
+      "text": ""
+    },
+    {
+      "id": 973,
+      "text": ""
+    },
+    {
+      "id": 974,
+      "text": ""
+    },
+    {
+      "id": 975,
+      "text": ""
+    },
+    {
+      "id": 976,
+      "text": ""
+    },
+    {
+      "id": 977,
+      "text": ""
+    },
+    {
+      "id": 978,
+      "text": ""
+    },
+    {
+      "id": 979,
+      "text": ""
+    },
+    {
+      "id": 980,
+      "text": ""
+    },
+    {
+      "id": 981,
+      "text": ""
+    },
+    {
+      "id": 982,
+      "text": ""
+    },
+    {
+      "id": 983,
+      "text": ""
+    },
+    {
+      "id": 984,
+      "text": ""
+    },
+    {
+      "id": 985,
+      "text": ""
+    },
+    {
+      "id": 986,
+      "text": ""
+    },
+    {
+      "id": 987,
+      "text": ""
+    },
+    {
+      "id": 988,
+      "text": ""
+    },
+    {
+      "id": 989,
+      "text": ""
+    },
+    {
+      "id": 990,
+      "text": ""
+    },
+    {
+      "id": 991,
+      "text": ""
+    },
+    {
+      "id": 992,
+      "text": ""
+    },
+    {
+      "id": 993,
+      "text": ""
+    },
+    {
+      "id": 994,
+      "text": ""
+    },
+    {
+      "id": 995,
+      "text": ""
+    },
+    {
+      "id": 996,
+      "text": ""
+    },
+    {
+      "id": 997,
+      "text": ""
+    },
+    {
+      "id": 998,
+      "text": ""
+    },
+    {
+      "id": 999,
+      "text": ""
+    },
+    {
+      "id": 1000,
+      "text": ""
+    },
+    {
+      "id": 1001,
+      "text": ""
+    },
+    {
+      "id": 1002,
+      "text": ""
+    },
+    {
+      "id": 1003,
+      "text": ""
+    },
+    {
+      "id": 1004,
+      "text": ""
+    },
+    {
+      "id": 1005,
+      "text": ""
+    },
+    {
+      "id": 1006,
+      "text": ""
+    },
+    {
+      "id": 1007,
+      "text": ""
+    },
+    {
+      "id": 1008,
+      "text": ""
+    },
+    {
+      "id": 1009,
+      "text": ""
+    },
+    {
+      "id": 1010,
+      "text": ""
+    },
+    {
+      "id": 1011,
+      "text": ""
+    },
+    {
+      "id": 1012,
+      "text": ""
+    },
+    {
+      "id": 1013,
+      "text": ""
+    },
+    {
+      "id": 1014,
+      "text": ""
+    },
+    {
+      "id": 1015,
+      "text": ""
+    },
+    {
+      "id": 1016,
+      "text": ""
+    },
+    {
+      "id": 1017,
+      "text": ""
+    },
+    {
+      "id": 1018,
+      "text": ""
+    },
+    {
+      "id": 1019,
+      "text": ""
+    },
+    {
+      "id": 1020,
+      "text": ""
+    },
+    {
+      "id": 1021,
+      "text": ""
+    },
+    {
+      "id": 1022,
+      "text": ""
+    },
+    {
+      "id": 1023,
+      "text": ""
+    },
+    {
+      "id": 1024,
+      "text": ""
+    },
+    {
+      "id": 1025,
+      "text": ""
+    },
+    {
+      "id": 1026,
+      "text": ""
+    },
+    {
+      "id": 1027,
+      "text": ""
+    },
+    {
+      "id": 1028,
+      "text": ""
+    },
+    {
+      "id": 1029,
+      "text": ""
+    },
+    {
+      "id": 1030,
+      "text": ""
+    },
+    {
+      "id": 1031,
+      "text": ""
+    },
+    {
+      "id": 1032,
+      "text": ""
+    },
+    {
+      "id": 1033,
+      "text": ""
+    },
+    {
+      "id": 1034,
+      "text": ""
+    },
+    {
+      "id": 1035,
+      "text": ""
+    },
+    {
+      "id": 1036,
+      "text": ""
+    },
+    {
+      "id": 1037,
+      "text": ""
+    },
+    {
+      "id": 1038,
+      "text": ""
+    },
+    {
+      "id": 1039,
+      "text": ""
+    },
+    {
+      "id": 1040,
+      "text": ""
+    },
+    {
+      "id": 1041,
+      "text": ""
+    },
+    {
+      "id": 1042,
+      "text": ""
+    },
+    {
+      "id": 1043,
+      "text": ""
+    },
+    {
+      "id": 1044,
+      "text": ""
+    },
+    {
+      "id": 1045,
+      "text": ""
+    },
+    {
+      "id": 1046,
+      "text": ""
+    },
+    {
+      "id": 1047,
+      "text": ""
+    },
+    {
+      "id": 1048,
+      "text": ""
+    },
+    {
+      "id": 1049,
+      "text": ""
+    },
+    {
+      "id": 1050,
+      "text": ""
+    },
+    {
+      "id": 1051,
+      "text": ""
+    },
+    {
+      "id": 1052,
+      "text": ""
+    },
+    {
+      "id": 1053,
+      "text": ""
+    },
+    {
+      "id": 1054,
+      "text": ""
+    },
+    {
+      "id": 1055,
+      "text": ""
+    },
+    {
+      "id": 1056,
+      "text": ""
+    },
+    {
+      "id": 1057,
+      "text": ""
+    },
+    {
+      "id": 1058,
+      "text": ""
+    },
+    {
+      "id": 1059,
+      "text": ""
+    },
+    {
+      "id": 1060,
+      "text": ""
+    },
+    {
+      "id": 1061,
+      "text": ""
+    },
+    {
+      "id": 1062,
+      "text": ""
+    },
+    {
+      "id": 1063,
+      "text": ""
+    },
+    {
+      "id": 1064,
+      "text": ""
+    },
+    {
+      "id": 1065,
+      "text": ""
+    },
+    {
+      "id": 1066,
+      "text": ""
+    },
+    {
+      "id": 1067,
+      "text": ""
+    },
+    {
+      "id": 1068,
+      "text": ""
+    },
+    {
+      "id": 1069,
+      "text": ""
+    },
+    {
+      "id": 1070,
+      "text": ""
+    },
+    {
+      "id": 1071,
+      "text": ""
+    },
+    {
+      "id": 1072,
+      "text": ""
+    },
+    {
+      "id": 1073,
+      "text": ""
+    },
+    {
+      "id": 1074,
+      "text": ""
+    },
+    {
+      "id": 1075,
+      "text": ""
+    },
+    {
+      "id": 1076,
+      "text": ""
+    },
+    {
+      "id": 1077,
+      "text": ""
+    },
+    {
+      "id": 1078,
+      "text": ""
+    },
+    {
+      "id": 1079,
+      "text": ""
+    },
+    {
+      "id": 1080,
+      "text": ""
+    },
+    {
+      "id": 1081,
+      "text": ""
+    },
+    {
+      "id": 1082,
+      "text": ""
+    },
+    {
+      "id": 1083,
+      "text": ""
+    },
+    {
+      "id": 1084,
+      "text": ""
+    },
+    {
+      "id": 1085,
+      "text": ""
+    },
+    {
+      "id": 1086,
+      "text": ""
+    },
+    {
+      "id": 1087,
+      "text": ""
+    },
+    {
+      "id": 1088,
+      "text": ""
+    },
+    {
+      "id": 1089,
+      "text": ""
+    },
+    {
+      "id": 1090,
+      "text": ""
+    },
+    {
+      "id": 1091,
+      "text": ""
+    },
+    {
+      "id": 1092,
+      "text": ""
+    },
+    {
+      "id": 1093,
+      "text": ""
+    },
+    {
+      "id": 1094,
+      "text": ""
+    },
+    {
+      "id": 1095,
+      "text": ""
+    },
+    {
+      "id": 1096,
+      "text": ""
+    },
+    {
+      "id": 1097,
+      "text": ""
+    },
+    {
+      "id": 1098,
+      "text": ""
+    },
+    {
+      "id": 1099,
+      "text": ""
+    },
+    {
+      "id": 1100,
+      "text": ""
+    },
+    {
+      "id": 1101,
+      "text": ""
+    },
+    {
+      "id": 1102,
+      "text": ""
+    },
+    {
+      "id": 1103,
+      "text": ""
+    },
+    {
+      "id": 1104,
+      "text": ""
+    },
+    {
+      "id": 1105,
+      "text": ""
+    },
+    {
+      "id": 1106,
+      "text": ""
+    },
+    {
+      "id": 1107,
+      "text": ""
+    },
+    {
+      "id": 1108,
+      "text": ""
+    },
+    {
+      "id": 1109,
+      "text": ""
+    },
+    {
+      "id": 1110,
+      "text": ""
+    },
+    {
+      "id": 1111,
+      "text": ""
+    },
+    {
+      "id": 1112,
+      "text": ""
+    },
+    {
+      "id": 1113,
+      "text": ""
+    },
+    {
+      "id": 1114,
+      "text": ""
+    },
+    {
+      "id": 1115,
+      "text": ""
+    },
+    {
+      "id": 1116,
+      "text": ""
+    },
+    {
+      "id": 1117,
+      "text": ""
+    },
+    {
+      "id": 1118,
+      "text": ""
+    },
+    {
+      "id": 1119,
+      "text": ""
+    },
+    {
+      "id": 1120,
+      "text": ""
+    },
+    {
+      "id": 1121,
+      "text": ""
+    },
+    {
+      "id": 1122,
+      "text": ""
+    },
+    {
+      "id": 1123,
+      "text": ""
+    },
+    {
+      "id": 1124,
+      "text": ""
+    },
+    {
+      "id": 1125,
+      "text": ""
+    },
+    {
+      "id": 1126,
+      "text": ""
+    },
+    {
+      "id": 1127,
+      "text": ""
+    },
+    {
+      "id": 1128,
+      "text": ""
+    },
+    {
+      "id": 1129,
+      "text": ""
+    },
+    {
+      "id": 1130,
+      "text": ""
+    },
+    {
+      "id": 1131,
+      "text": ""
+    },
+    {
+      "id": 1132,
+      "text": ""
+    },
+    {
+      "id": 1133,
+      "text": ""
+    },
+    {
+      "id": 1134,
+      "text": ""
+    },
+    {
+      "id": 1135,
+      "text": ""
+    },
+    {
+      "id": 1136,
+      "text": ""
+    },
+    {
+      "id": 1137,
+      "text": ""
+    },
+    {
+      "id": 1138,
+      "text": ""
+    },
+    {
+      "id": 1139,
+      "text": ""
+    },
+    {
+      "id": 1140,
+      "text": ""
+    },
+    {
+      "id": 1141,
+      "text": ""
+    },
+    {
+      "id": 1142,
+      "text": ""
+    },
+    {
+      "id": 1143,
+      "text": ""
+    },
+    {
+      "id": 1144,
+      "text": ""
+    },
+    {
+      "id": 1145,
+      "text": ""
+    },
+    {
+      "id": 1146,
+      "text": ""
+    },
+    {
+      "id": 1147,
+      "text": ""
+    },
+    {
+      "id": 1148,
+      "text": ""
+    },
+    {
+      "id": 1149,
+      "text": ""
+    },
+    {
+      "id": 1150,
+      "text": ""
+    },
+    {
+      "id": 1151,
+      "text": ""
+    },
+    {
+      "id": 1152,
+      "text": "Big Ribbon"
+    },
+    {
+      "id": 1153,
+      "text": "Blue Fighter"
+    },
+    {
+      "id": 1154,
+      "text": "Wondaboy"
+    },
+    {
+      "id": 1155,
+      "text": "Sister B"
+    },
+    {
+      "id": 1156,
+      "text": "AlmostAngels"
+    },
+    {
+      "id": 1157,
+      "text": "LonglegTribe"
+    },
+    {
+      "id": 1158,
+      "text": "Marine Devil"
+    },
+    {
+      "id": 1159,
+      "text": "Bomb Squad"
+    },
+    {
+      "id": 1160,
+      "text": "Fire Jelly"
+    },
+    {
+      "id": 1161,
+      "text": "Sleepy"
+    },
+    {
+      "id": 1162,
+      "text": "Melanin Reds"
+    },
+    {
+      "id": 1163,
+      "text": "Blackmoon"
+    },
+    {
+      "id": 1164,
+      "text": "Z Menace"
+    },
+    {
+      "id": 1165,
+      "text": "Prince Gold"
+    },
+    {
+      "id": 1166,
+      "text": "Green Seed"
+    },
+    {
+      "id": 1167,
+      "text": "Wiggly Gang"
+    },
+    {
+      "id": 1168,
+      "text": "Mississippis"
+    },
+    {
+      "id": 1169,
+      "text": "Yellow Eyes"
+    },
+    {
+      "id": 1170,
+      "text": "Samurai Gang"
+    },
+    {
+      "id": 1171,
+      "text": "Hellfire"
+    },
+    {
+      "id": 1172,
+      "text": "Sky Witch"
+    },
+    {
+      "id": 1173,
+      "text": "Jumpies"
+    },
+    {
+      "id": 1174,
+      "text": "Dragon Salt"
+    },
+    {
+      "id": 1175,
+      "text": "Poker Clan"
+    },
+    {
+      "id": 1176,
+      "text": "B Silent"
+    },
+    {
+      "id": 1177,
+      "text": "Super Terry"
+    },
+    {
+      "id": 1178,
+      "text": "Riders"
+    },
+    {
+      "id": 1179,
+      "text": "Antiterrion"
+    },
+    {
+      "id": 1180,
+      "text": "Wind Child"
+    },
+    {
+      "id": 1181,
+      "text": "Dark Gang"
+    },
+    {
+      "id": 1182,
+      "text": "Dragonbane"
+    },
+    {
+      "id": 1183,
+      "text": "Saint Peach"
+    },
+    {
+      "id": 1184,
+      "text": "Jack & John"
+    },
+    {
+      "id": 1185,
+      "text": "Lucky 8"
+    },
+    {
+      "id": 1186,
+      "text": "Thunder God"
+    },
+    {
+      "id": 1187,
+      "text": "Under 30"
+    },
+    {
+      "id": 1188,
+      "text": "Love & Hate"
+    },
+    {
+      "id": 1189,
+      "text": "Triple Guts"
+    },
+    {
+      "id": 1190,
+      "text": "Last Ninja"
+    },
+    {
+      "id": 1191,
+      "text": "Flower 3"
+    },
+    {
+      "id": 1192,
+      "text": "Lovely Champ"
+    },
+    {
+      "id": 1193,
+      "text": "King Neo"
+    },
+    {
+      "id": 1194,
+      "text": "Ryuga Gang"
+    },
+    {
+      "id": 1195,
+      "text": "HawaiiKing"
+    },
+    {
+      "id": 1196,
+      "text": "Good Warrior"
+    },
+    {
+      "id": 1197,
+      "text": "Slimy Mania"
+    },
+    {
+      "id": 1198,
+      "text": "Our Friends"
+    },
+    {
+      "id": 1199,
+      "text": "Shooting Z"
+    },
+    {
+      "id": 1200,
+      "text": "Star Kids"
+    },
+    {
+      "id": 1201,
+      "text": "Ice Cube"
+    },
+    {
+      "id": 1202,
+      "text": "S-Sunflower"
+    },
+    {
+      "id": 1203,
+      "text": "Never Die"
+    },
+    {
+      "id": 1204,
+      "text": "BlueBrothers"
+    },
+    {
+      "id": 1205,
+      "text": "Core Hound"
+    },
+    {
+      "id": 1206,
+      "text": "Diamond U"
+    },
+    {
+      "id": 1207,
+      "text": "Poliana"
+    },
+    {
+      "id": 1208,
+      "text": "P Giant"
+    },
+    {
+      "id": 1209,
+      "text": "Shawn-O"
+    },
+    {
+      "id": 1210,
+      "text": "Kizuna Max"
+    },
+    {
+      "id": 1211,
+      "text": "BeastHunters"
+    },
+    {
+      "id": 1212,
+      "text": "Cybaron"
+    },
+    {
+      "id": 1213,
+      "text": "Nessy Carry"
+    },
+    {
+      "id": 1214,
+      "text": "Medalgetters"
+    },
+    {
+      "id": 1215,
+      "text": "Crash Rock"
+    },
+    {
+      "id": 1216,
+      "text": "B-Warrior"
+    },
+    {
+      "id": 1217,
+      "text": "Colorfuls"
+    },
+    {
+      "id": 1218,
+      "text": "U and You"
+    },
+    {
+      "id": 1219,
+      "text": "Junkman"
+    },
+    {
+      "id": 1220,
+      "text": "Bird Hunter"
+    },
+    {
+      "id": 1221,
+      "text": "Cures"
+    },
+    {
+      "id": 1222,
+      "text": "Just Now"
+    },
+    {
+      "id": 1223,
+      "text": "Champ Grey"
+    },
+    {
+      "id": 1224,
+      "text": "Shredders"
+    },
+    {
+      "id": 1225,
+      "text": "Power Potch"
+    },
+    {
+      "id": 1226,
+      "text": "Full Swing"
+    },
+    {
+      "id": 1227,
+      "text": "Orange Karen"
+    },
+    {
+      "id": 1228,
+      "text": "Silents"
+    },
+    {
+      "id": 1229,
+      "text": "Falcon Nine"
+    },
+    {
+      "id": 1230,
+      "text": "Kororio"
+    },
+    {
+      "id": 1231,
+      "text": "R-Machine"
+    },
+    {
+      "id": 1232,
+      "text": "Last Jokers"
+    },
+    {
+      "id": 1233,
+      "text": "WickedAvatar"
+    },
+    {
+      "id": 1234,
+      "text": "L-Evil"
+    },
+    {
+      "id": 1235,
+      "text": "U-DYE"
+    },
+    {
+      "id": 1236,
+      "text": "Swan Blade"
+    },
+    {
+      "id": 1237,
+      "text": "Marine Maria"
+    },
+    {
+      "id": 1238,
+      "text": "Dream Egg"
+    },
+    {
+      "id": 1239,
+      "text": "Supreme Wind"
+    },
+    {
+      "id": 1240,
+      "text": "Battle 9"
+    },
+    {
+      "id": 1241,
+      "text": "Blue Royalty"
+    },
+    {
+      "id": 1242,
+      "text": "Ice Age"
+    },
+    {
+      "id": 1243,
+      "text": "In Joon"
+    },
+    {
+      "id": 1244,
+      "text": "QueenServant"
+    },
+    {
+      "id": 1245,
+      "text": "Cyclone G"
+    },
+    {
+      "id": 1246,
+      "text": "Field People"
+    },
+    {
+      "id": 1247,
+      "text": "Secrets"
+    },
+    {
+      "id": 1248,
+      "text": "ChickEmperor"
+    },
+    {
+      "id": 1249,
+      "text": "Moon Rave"
+    },
+    {
+      "id": 1250,
+      "text": "Kid Gang"
+    },
+    {
+      "id": 1251,
+      "text": "Tropic Fight"
+    },
+    {
+      "id": 1252,
+      "text": "Great Mitch"
+    },
+    {
+      "id": 1253,
+      "text": "Power King"
+    },
+    {
+      "id": 1254,
+      "text": "Bang Boom"
+    },
+    {
+      "id": 1255,
+      "text": "Yutzy Potsy"
+    },
+    {
+      "id": 1256,
+      "text": "Gold Squad"
+    },
+    {
+      "id": 1257,
+      "text": "Mad Tongues"
+    },
+    {
+      "id": 1258,
+      "text": "Brave Nest"
+    },
+    {
+      "id": 1259,
+      "text": "Death Lips"
+    },
+    {
+      "id": 1260,
+      "text": "Crash End"
+    },
+    {
+      "id": 1261,
+      "text": "Danger Mama"
+    },
+    {
+      "id": 1262,
+      "text": "Dragon Eater"
+    },
+    {
+      "id": 1263,
+      "text": "Superstar"
+    },
+    {
+      "id": 1264,
+      "text": "Dark Lord"
+    },
+    {
+      "id": 1265,
+      "text": "Sky Saber"
+    },
+    {
+      "id": 1266,
+      "text": "Destroyer"
+    },
+    {
+      "id": 1267,
+      "text": "Fang Clan"
+    },
+    {
+      "id": 1268,
+      "text": "Kamikaze"
+    },
+    {
+      "id": 1269,
+      "text": "Jack Joe"
+    },
+    {
+      "id": 1270,
+      "text": "Roll Center"
+    },
+    {
+      "id": 1271,
+      "text": "Final Z"
+    },
+    {
+      "id": 1272,
+      "text": ""
+    },
+    {
+      "id": 1273,
+      "text": ""
+    },
+    {
+      "id": 1274,
+      "text": ""
+    },
+    {
+      "id": 1275,
+      "text": ""
+    },
+    {
+      "id": 1276,
+      "text": "None"
+    },
+    {
+      "id": 1277,
+      "text": "Provoke"
+    },
+    {
+      "id": 1278,
+      "text": "Heal α"
+    },
+    {
+      "id": 1279,
+      "text": "Heal β"
+    },
+    {
+      "id": 1280,
+      "text": "Heal γ"
+    },
+    {
+      "id": 1281,
+      "text": "Heal All α"
+    },
+    {
+      "id": 1282,
+      "text": "Heal All β"
+    },
+    {
+      "id": 1283,
+      "text": "Heal All γ"
+    },
+    {
+      "id": 1284,
+      "text": "Refresh"
+    },
+    {
+      "id": 1285,
+      "text": "Refresh All"
+    },
+    {
+      "id": 1286,
+      "text": "Powerful"
+    },
+    {
+      "id": 1287,
+      "text": "Powerful All"
+    },
+    {
+      "id": 1288,
+      "text": "Protect"
+    },
+    {
+      "id": 1289,
+      "text": "Protect All"
+    },
+    {
+      "id": 1290,
+      "text": "Speed"
+    },
+    {
+      "id": 1291,
+      "text": "Speed All"
+    },
+    {
+      "id": 1292,
+      "text": "Sense"
+    },
+    {
+      "id": 1293,
+      "text": "Sense All"
+    },
+    {
+      "id": 1294,
+      "text": "Resist Fire"
+    },
+    {
+      "id": 1295,
+      "text": "Resist Fire A"
+    },
+    {
+      "id": 1296,
+      "text": "Resist Water"
+    },
+    {
+      "id": 1297,
+      "text": "Resist Water A"
+    },
+    {
+      "id": 1298,
+      "text": "Resist Thunder"
+    },
+    {
+      "id": 1299,
+      "text": "Res Thunder A"
+    },
+    {
+      "id": 1300,
+      "text": "Resist Light"
+    },
+    {
+      "id": 1301,
+      "text": "Resist Light A"
+    },
+    {
+      "id": 1302,
+      "text": "Resist Dark"
+    },
+    {
+      "id": 1303,
+      "text": "Resist Dark A"
+    },
+    {
+      "id": 1304,
+      "text": "Resurrection α"
+    },
+    {
+      "id": 1305,
+      "text": "Resurrection β"
+    },
+    {
+      "id": 1306,
+      "text": ""
+    },
+    {
+      "id": 1307,
+      "text": "You've gained the title\\n[7]!"
+    },
+    {
+      "id": 1308,
+      "text": "[6] has\\nbeen added to the shop!\\n"
+    },
+    {
+      "id": 1309,
+      "text": "The [8] gate\\nis open!\\n"
+    },
+    {
+      "id": 1310,
+      "text": "You qualified for\\nthe Preliminaries!\\n"
+    },
+    {
+      "id": 1311,
+      "text": "You qualified for\\nthe Championship!\\n"
+    },
+    {
+      "id": 1312,
+      "text": "Maximum capacity has\\nincreased to {esc:0004}64{esc:0002}G!\\n"
+    },
+    {
+      "id": 1313,
+      "text": "Maximum capacity has\\nincreased to {esc:0004}74{esc:0002}G!\\n"
+    },
+    {
+      "id": 1314,
+      "text": "Maximum capacity has\\nincreased to {esc:0004}96{esc:0002}G!\\n"
+    },
+    {
+      "id": 1315,
+      "text": "Maximum capacity has\\nincreased to {esc:0004}112{esc:0002}G!\\n"
+    },
+    {
+      "id": 1316,
+      "text": "Maximum capacity has\\nincreased to {esc:0004}160{esc:0002}G!\\n"
+    },
+    {
+      "id": 1317,
+      "text": "Maximum capacity has\\nincreased to {esc:0004}168{esc:0002}G!\\n"
+    },
+    {
+      "id": 1318,
+      "text": "Maximum capacity has\\nincreased to {esc:0004}180{esc:0002}G!\\n"
+    },
+    {
+      "id": 1319,
+      "text": "Maximum capacity has\\nincreased to {esc:0004}192{esc:0002}G!\\n"
+    },
+    {
+      "id": 1320,
+      "text": "Maximum capacity has\\nincreased to {esc:0004}200{esc:0002}G!\\n"
+    },
+    {
+      "id": 1321,
+      "text": ""
+    },
+    {
+      "id": 1322,
+      "text": ""
+    },
+    {
+      "id": 1323,
+      "text": ""
+    },
+    {
+      "id": 1324,
+      "text": "Cage Space has increased\\nto {esc:0004}16{esc:0002}!\\n"
+    },
+    {
+      "id": 1325,
+      "text": ""
+    },
+    {
+      "id": 1326,
+      "text": "Cage Space has increased\\nto {esc:0004}18{esc:0002}!\\n"
+    },
+    {
+      "id": 1327,
+      "text": ""
+    },
+    {
+      "id": 1328,
+      "text": "Cage Space has increased\\nto {esc:0004}20{esc:0002}!\\n"
+    },
+    {
+      "id": 1329,
+      "text": ""
+    },
+    {
+      "id": 1330,
+      "text": ""
+    },
+    {
+      "id": 1331,
+      "text": ""
+    },
+    {
+      "id": 1332,
+      "text": ""
+    },
+    {
+      "id": 1333,
+      "text": ""
+    },
+    {
+      "id": 1334,
+      "text": ""
+    },
+    {
+      "id": 1335,
+      "text": ""
+    },
+    {
+      "id": 1336,
+      "text": ""
+    },
+    {
+      "id": 1337,
+      "text": ""
+    },
+    {
+      "id": 1338,
+      "text": "Cage upgrades now\\navailable.\\n"
+    },
+    {
+      "id": 1339,
+      "text": ""
+    },
+    {
+      "id": 1340,
+      "text": "Cage upgrades now\\navailable.\\n"
+    },
+    {
+      "id": 1341,
+      "text": ""
+    },
+    {
+      "id": 1342,
+      "text": ""
+    },
+    {
+      "id": 1343,
+      "text": ""
+    },
+    {
+      "id": 1344,
+      "text": "Upgrade slots increased\\nto {esc:0004}3{esc:0002}!\\n"
+    },
+    {
+      "id": 1345,
+      "text": ""
+    },
+    {
+      "id": 1346,
+      "text": "Upgrade slots increased\\nto {esc:0004}4{esc:0002}!\\n"
+    },
+    {
+      "id": 1347,
+      "text": ""
+    },
+    {
+      "id": 1348,
+      "text": ""
+    },
+    {
+      "id": 1349,
+      "text": ""
+    },
+    {
+      "id": 1350,
+      "text": ""
+    },
+    {
+      "id": 1351,
+      "text": ""
+    },
+    {
+      "id": 1352,
+      "text": ""
+    },
+    {
+      "id": 1353,
+      "text": ""
+    },
+    {
+      "id": 1354,
+      "text": "Your training license has\\nleveled up!\\nYour Digimon can digivolve\\nto{esc:0004} Champion{esc:0002}!"
+    },
+    {
+      "id": 1355,
+      "text": ""
+    },
+    {
+      "id": 1356,
+      "text": "Your training license has\\nleveled up!\\nYour Digimon can digivolve\\nto{esc:0004} Ultimate{esc:0002}!"
+    },
+    {
+      "id": 1357,
+      "text": ""
+    },
+    {
+      "id": 1358,
+      "text": "Your training license has\\nleveled up!\\nYour Digimon can digivolve\\nto{esc:0004} Mega{esc:0002}!"
+    },
+    {
+      "id": 1359,
+      "text": ""
+    },
+    {
+      "id": 1360,
+      "text": ""
+    },
+    {
+      "id": 1361,
+      "text": ""
+    },
+    {
+      "id": 1362,
+      "text": "You got {esc:0004}[4]{esc:0002} bits!"
+    },
+    {
+      "id": 1363,
+      "text": "You defeated\\n{esc:0007}Team [3]{esc:0002}!\\n"
+    },
+    {
+      "id": 1364,
+      "text": "You lost to\\n{esc:0007}Team [3]{esc:0002}...\\n"
+    },
+    {
+      "id": 1365,
+      "text": "You defeated\\n{esc:000D}Team [3]{esc:0002}!\\n"
+    },
+    {
+      "id": 1366,
+      "text": "You lost to\\n{esc:000D}Team [3]{esc:0002}...\\n"
+    },
+    {
+      "id": 1367,
+      "text": "Please select a mode."
+    },
+    {
+      "id": 1368,
+      "text": "Choose an opponent."
+    },
+    {
+      "id": 1369,
+      "text": "Nintendo WFC"
+    },
+    {
+      "id": 1370,
+      "text": "Wireless Communication"
+    },
+    {
+      "id": 1371,
+      "text": "Battle friends or tamers\\nfrom across the country."
+    },
+    {
+      "id": 1372,
+      "text": "Register Friend Roster or\\nFriend Code."
+    },
+    {
+      "id": 1373,
+      "text": "Adjust Wi-Fi settings."
+    },
+    {
+      "id": 1374,
+      "text": "Battle against friends\\nregistered on your\\nFriend Roster."
+    },
+    {
+      "id": 1375,
+      "text": "Battle against tamers\\nfrom across the country.\\nYour opponent is determined\\nby your tamer rank."
+    },
+    {
+      "id": 1376,
+      "text": "View your Friend Roster."
+    },
+    {
+      "id": 1377,
+      "text": "Register a friend."
+    },
+    {
+      "id": 1378,
+      "text": "Your room code. Give it\\nto your opponent."
+    },
+    {
+      "id": 1379,
+      "text": "Enter the room code\\nyour opponent gave you."
+    },
+    {
+      "id": 1380,
+      "text": "Use wireless\\ncommunications to\\nregister."
+    },
+    {
+      "id": 1381,
+      "text": "Register Friend Roster and\\nFriend Code."
+    },
+    {
+      "id": 1382,
+      "text": "Adjust Wi-Fi settings."
+    },
+    {
+      "id": 1383,
+      "text": "Play a wireless battle\\nbetween two DS consoles."
+    },
+    {
+      "id": 1384,
+      "text": "Remove from roster?"
+    },
+    {
+      "id": 1385,
+      "text": "Added."
+    },
+    {
+      "id": 1386,
+      "text": "This room code is invalid.\\nIt has 6 digits."
+    },
+    {
+      "id": 1387,
+      "text": "Receiving..."
+    },
+    {
+      "id": 1388,
+      "text": "Registration complete."
+    },
+    {
+      "id": 1389,
+      "text": "Connecting to\\nNintendo Wi-Fi\\nConnection.\\nPlease wait a moment."
+    },
+    {
+      "id": 1390,
+      "text": "OK to disconnect from\\nNintendo Wi-Fi Connection?"
+    },
+    {
+      "id": 1391,
+      "text": "Disconnecting from\\nNintendo Wi-Fi\\nConnection.\\nPlease wait a moment."
+    },
+    {
+      "id": 1392,
+      "text": "You have been\\ndisconnected from\\nNintendo Wi-Fi\\nConnection."
+    },
+    {
+      "id": 1393,
+      "text": "Searching for opponent.\\nPlease wait a moment."
+    },
+    {
+      "id": 1394,
+      "text": "Sending..."
+    },
+    {
+      "id": 1395,
+      "text": "Sent."
+    },
+    {
+      "id": 1396,
+      "text": "Waiting for your\\nopponent. Please\\nwait a moment."
+    },
+    {
+      "id": 1397,
+      "text": "Searching for player.\\nPlease wait a moment."
+    },
+    {
+      "id": 1398,
+      "text": "Initiating challenge.\\nPlease wait a moment."
+    },
+    {
+      "id": 1399,
+      "text": "Communicating.\\nPlease wait."
+    },
+    {
+      "id": 1400,
+      "text": "The Online Arena cannot\\nbe reached. Play from\\nthe Online Arena site\\nand try again."
+    },
+    {
+      "id": 1401,
+      "text": "Unable to begin\\nthe battle since setting\\ntime has ended."
+    },
+    {
+      "id": 1402,
+      "text": "Your Friend Roster\\nis full."
+    },
+    {
+      "id": 1403,
+      "text": "Quit battle?"
+    },
+    {
+      "id": 1404,
+      "text": "Communication is\\ncomplete."
+    },
+    {
+      "id": 1405,
+      "text": "Add \"[5]\" to\\nFriend Roster?"
+    },
+    {
+      "id": 1406,
+      "text": "Remove?"
+    },
+    {
+      "id": 1407,
+      "text": "Searching for player..."
+    },
+    {
+      "id": 1408,
+      "text": "Registration failed."
+    },
+    {
+      "id": 1409,
+      "text": "Enter code."
+    },
+    {
+      "id": 1410,
+      "text": "Disconnecting\\ncommunications.\\nPlease wait a moment."
+    },
+    {
+      "id": 1411,
+      "text": "A communication error\\nhas occurred."
+    },
+    {
+      "id": 1412,
+      "text": "Failed to connect."
+    },
+    {
+      "id": 1413,
+      "text": "Cannot begin DS Wireless\\nCommunications."
+    },
+    {
+      "id": 1414,
+      "text": "Player has\\ndisconnected."
+    },
+    {
+      "id": 1415,
+      "text": "No room has this code.\\nAsk the room's host for\\nthe 6-digit code shown\\non their screen."
+    },
+    {
+      "id": 1416,
+      "text": "This is your own room.\\nAnother player has to\\njoin it with its code."
+    },
+    {
+      "id": 1417,
+      "text": "This room code is\\nalready in use.\\nPlease create a new room."
+    },
+    {
+      "id": 1418,
+      "text": "Too many requests.\\nPlease wait a minute\\nand try again."
+    },
+    {
+      "id": 1419,
+      "text": "You are suspended from\\nRanked Match.\\nRooms are still open\\nto you."
+    },
+    {
+      "id": 1420,
+      "text": "Your save data was\\nflagged, so Ranked Match\\nis closed to you.\\nRooms are still open\\nto you."
+    },
+    {
+      "id": 1421,
+      "text": "Ranked Match opens a\\nfew hours after your\\naccount is created.\\nRooms are open to you\\nright away."
+    },
+    {
+      "id": 1422,
+      "text": "Unable to reach the\\nOnline Arena server.\\nPlease try again later."
+    },
+    {
+      "id": 1423,
+      "text": "The server cancelled\\nthe match. The web page\\nshows the reason."
+    },
+    {
+      "id": 1424,
+      "text": "There is no response.\\nEither the player is not\\nconnected to Nintendo\\nWi-Fi Connection or you\\nhave been removed from the\\nplayer's Friend Roster.\\nError Code [9]"
+    },
+    {
+      "id": 1425,
+      "text": "Communication error. You\\nhave been disconnected from\\nNintendo Wi-Fi Connection.\\nFor help, visit\\nsupport.nintendo.com.\\nError Code [9]"
+    },
+    {
+      "id": 1426,
+      "text": "Your Nintendo Wi-Fi\\nConnection User\\nInformation may have\\nbeen erased.\\nCheck your connection\\nsettings. For help, visit\\nsupport.nintendo.com."
+    },
+    {
+      "id": 1427,
+      "text": "Connect to\\nNintendo Wi-Fi Connection?"
+    },
+    {
+      "id": 1428,
+      "text": "Nintendo Wi-Fi Connection\\ntreats your DS Card and DS as\\na set. Save this DS system's\\nNintendo Wi-Fi Connection User\\nInformation to this DS\\nCard and connect to\\nNintendo Wi-Fi Connection?"
+    },
+    {
+      "id": 1429,
+      "text": "Nintendo Wi-Fi Connection\\nUser Information for this\\nNintendo DS has been saved\\nto the DS Card. From now on,\\nplease use this Nintendo DS\\nto connect to\\nNintendo Wi-Fi Connection."
+    },
+    {
+      "id": 1430,
+      "text": "Unable to connect to\\nNintendo Wi-Fi Connection\\nbecause Nintendo\\nWi-Fi Connection User\\nInformation from the\\nNintendo DS and the\\nDS Card do not match."
+    },
+    {
+      "id": 1431,
+      "text": "Update Nintendo WFC User\\nInformation saved on the\\nDS Card? When you update\\nyour Nintendo WFC User\\nInformation, you will lose\\nall data that was used to\\nconnect to Nintendo WFC."
+    },
+    {
+      "id": 1432,
+      "text": "Do you really want\\nto update?"
+    },
+    {
+      "id": 1433,
+      "text": "You cannot access\\nNintendo Wi-Fi Connection\\nusing this player name.\\nPlease change your\\nplayer name and\\nreconnect."
+    },
+    {
+      "id": 1434,
+      "text": "You cannot enter the\\nNational Battle with\\nthis list of names.\\nChange your team lineup."
+    },
+    {
+      "id": 1435,
+      "text": "Wait one moment\\nplease..."
+    },
+    {
+      "id": 1436,
+      "text": "Victory"
+    },
+    {
+      "id": 1437,
+      "text": "Battle a team summoned\\nby a password."
+    },
+    {
+      "id": 1438,
+      "text": "Enter the password for\\nthe first team."
+    },
+    {
+      "id": 1439,
+      "text": "Enter the password for\\nthe second team."
+    },
+    {
+      "id": 1440,
+      "text": "Is this the right team?"
+    },
+    {
+      "id": 1441,
+      "text": "This password is invalid."
+    },
+    {
+      "id": 1442,
+      "text": "Time to enter the battle you have checked."
+    },
+    {
+      "id": 1443,
+      "text": "Green"
+    },
+    {
+      "id": 1444,
+      "text": "Blue"
+    },
+    {
+      "id": 1445,
+      "text": "Red"
+    },
+    {
+      "id": 1446,
+      "text": "White"
+    },
+    {
+      "id": 1447,
+      "text": "Bronze"
+    },
+    {
+      "id": 1448,
+      "text": "Silver"
+    },
+    {
+      "id": 1449,
+      "text": "Gold"
+    },
+    {
+      "id": 1450,
+      "text": "Platinum"
+    },
+    {
+      "id": 1451,
+      "text": "Champ"
+    },
+    {
+      "id": 1452,
+      "text": "Master"
+    },
+    {
+      "id": 1453,
+      "text": "Select the title you\\nwant to see."
+    },
+    {
+      "id": 1454,
+      "text": "Please change cages."
+    },
+    {
+      "id": 1455,
+      "text": "This is the schedule for\\nthis year's battles.\\nSlide the stylus across\\nthe screen to change\\nthe seasons."
+    },
+    {
+      "id": 1456,
+      "text": "Select the menu you\\nwant to see."
+    },
+    {
+      "id": 1457,
+      "text": "Select Battle Menu."
+    },
+    {
+      "id": 1458,
+      "text": "Select Rules."
+    },
+    {
+      "id": 1459,
+      "text": "Select the team you want\\nto do battle with."
+    },
+    {
+      "id": 1460,
+      "text": "Divide the Digimon you\\nwant to battle into two\\nteams. You can also\\nchange the battlefield."
+    },
+    {
+      "id": 1461,
+      "text": "Select a shop."
+    },
+    {
+      "id": 1462,
+      "text": "Select an item."
+    },
+    {
+      "id": 1463,
+      "text": "Select a map to go to."
+    },
+    {
+      "id": 1464,
+      "text": "Select a Digimon to battle\\nwith. When ready,\\nselect [Battle]. "
+    },
+    {
+      "id": 1465,
+      "text": "Choose Digimon to battle\\nwith. You can change team\\nnames and battle\\nstrategies."
+    },
+    {
+      "id": 1466,
+      "text": "Equip a hunt item."
+    },
+    {
+      "id": 1467,
+      "text": "Equip an Upgrade."
+    },
+    {
+      "id": 1468,
+      "text": "Select a Digimon to take\\nto the map."
+    },
+    {
+      "id": 1469,
+      "text": "Choose a setting\\nto adjust."
+    },
+    {
+      "id": 1470,
+      "text": "Choose one Digimon.\\nYou can release it on\\nthe map you take it to."
+    },
+    {
+      "id": 1471,
+      "text": "Choose the number of\\nopponents."
+    },
+    {
+      "id": 1472,
+      "text": "Choose the title match\\nyou wish to enter."
+    },
+    {
+      "id": 1473,
+      "text": "{esc:0006}[5]{esc:0002} is confused!\\n"
+    },
+    {
+      "id": 1474,
+      "text": "{esc:0006}[5]{esc:0002} is poisoned!\\n"
+    },
+    {
+      "id": 1475,
+      "text": "{esc:0006}[5]{esc:0002} is stunned!\\n"
+    },
+    {
+      "id": 1476,
+      "text": "{esc:0006}[5]{esc:0002} is asleep!\\n"
+    },
+    {
+      "id": 1477,
+      "text": "{esc:0006}[5]{esc:0002} is blinded!\\n"
+    },
+    {
+      "id": 1478,
+      "text": "{esc:0006}[5]{esc:0002} is frozen!\\n"
+    },
+    {
+      "id": 1479,
+      "text": "{esc:0006}[5]{esc:0002} is slow!\\n"
+    },
+    {
+      "id": 1480,
+      "text": "{esc:0006}[5]{esc:0002} is petrified!\\n"
+    },
+    {
+      "id": 1481,
+      "text": "{esc:0006}[5]{esc:0002} is cursed!\\n"
+    },
+    {
+      "id": 1482,
+      "text": "{esc:0006}[5]{esc:0002} is frightened!\\n"
+    },
+    {
+      "id": 1483,
+      "text": "{esc:0006}[5]{esc:0002} is very angry!\\n"
+    },
+    {
+      "id": 1484,
+      "text": "{esc:0006}[5]{esc:0002} is hesitant!\\n"
+    },
+    {
+      "id": 1485,
+      "text": "{esc:0006}[5]{esc:0002} is down!\\n"
+    },
+    {
+      "id": 1486,
+      "text": "Team"
+    },
+    {
+      "id": 1487,
+      "text": ","
+    },
+    {
+      "id": 1488,
+      "text": "{esc:0006}[5]'s{esc:0002} special attack\\n%ls!\\n"
+    },
+    {
+      "id": 1489,
+      "text": "{esc:0006}[5]{esc:0002} used ability\\n%ls!\\n"
+    },
+    {
+      "id": 1490,
+      "text": "{esc:0006}[5]{esc:0002} took %d damage!\\n"
+    },
+    {
+      "id": 1491,
+      "text": "Critical hit!!\\n{esc:0006}[5]{esc:0002} took %d damage!\\n"
+    },
+    {
+      "id": 1492,
+      "text": "{esc:0006}[5]{esc:0002}\\nblocked the attack!\\n"
+    },
+    {
+      "id": 1493,
+      "text": "{esc:0006}[5]{esc:0002} is down!!\\n"
+    },
+    {
+      "id": 1494,
+      "text": "{esc:0006}[5]{esc:0002} is up!\\n"
+    },
+    {
+      "id": 1495,
+      "text": "Begin Battle!\\n"
+    },
+    {
+      "id": 1496,
+      "text": "Take care of your Digimon\\nin this screen."
+    },
+    {
+      "id": 1497,
+      "text": "This is a DigiEgg,\\nthe egg form of a Digimon."
+    },
+    {
+      "id": 1498,
+      "text": "Let's wait until the\\nDigimon digivolves."
+    },
+    {
+      "id": 1499,
+      "text": "The Digimon has\\ndigivolved. Attend to it."
+    },
+    {
+      "id": 1500,
+      "text": "When the meat mark is\\ndisplayed, the Digimon\\nis hungry."
+    },
+    {
+      "id": 1501,
+      "text": "Choose the meat\\nicon and..."
+    },
+    {
+      "id": 1502,
+      "text": "Touch a spot near the\\nDigimon and feed it."
+    },
+    {
+      "id": 1503,
+      "text": "Clean up waste and\\nleftovers frequently."
+    },
+    {
+      "id": 1504,
+      "text": "Meat will go bad as time\\npasses."
+    },
+    {
+      "id": 1505,
+      "text": "Choose the waste\\nicon and..."
+    },
+    {
+      "id": 1506,
+      "text": "Use the stylus to clean up\\nwaste and leftovers."
+    },
+    {
+      "id": 1507,
+      "text": "Digimon will get sick\\nif you don't clean\\nthe cage."
+    },
+    {
+      "id": 1508,
+      "text": "Cure Digimon with\\nmedicine."
+    },
+    {
+      "id": 1509,
+      "text": "Choose the medicine\\nicon and..."
+    },
+    {
+      "id": 1510,
+      "text": "Touch the Digimon."
+    },
+    {
+      "id": 1511,
+      "text": ""
+    },
+    {
+      "id": 1512,
+      "text": "The room that a Digimon\\nlives in is called a\\ncage."
+    },
+    {
+      "id": 1513,
+      "text": "Slide the cage with the\\nhand icon. You can also\\nuse the +Control Pad."
+    },
+    {
+      "id": 1514,
+      "text": "You can grab a Digimon by\\ntouching it continuously\\nwith the hand icon."
+    },
+    {
+      "id": 1515,
+      "text": "Place it in a different \\ncage and the Digimon\\nwill mature."
+    },
+    {
+      "id": 1516,
+      "text": "Training begins as soon\\nas you place the\\nDigimon inside."
+    },
+    {
+      "id": 1517,
+      "text": "Training makes the\\nDigimon hungry\\nand decreases HP."
+    },
+    {
+      "id": 1518,
+      "text": "Put it in the recovery\\ncage to restore HP."
+    },
+    {
+      "id": 1519,
+      "text": "The recovery cage\\nslowly restores HP."
+    },
+    {
+      "id": 1520,
+      "text": "Let's give it a good rest."
+    },
+    {
+      "id": 1521,
+      "text": "Injuries can occur during\\ntraining or battles."
+    },
+    {
+      "id": 1522,
+      "text": "When injured, use the\\nbandage to heal."
+    },
+    {
+      "id": 1523,
+      "text": "Choose the bandage\\nicon and..."
+    },
+    {
+      "id": 1524,
+      "text": "Touch the Digimon."
+    },
+    {
+      "id": 1525,
+      "text": "The Digimon has fallen\\nasleep."
+    },
+    {
+      "id": 1526,
+      "text": "Go catch another Digimon\\nwhile the others are\\nsleeping."
+    },
+    {
+      "id": 1527,
+      "text": "From the Access Menu,\\nselect [Hunt] and go\\nhunting."
+    },
+    {
+      "id": 1528,
+      "text": "Touch the gate twice\\nand choose a map.\\n"
+    },
+    {
+      "id": 1529,
+      "text": "When the hand icon is\\nselected, you\\n"
+    },
+    {
+      "id": 1530,
+      "text": "can scroll\\naround the map.\\n"
+    },
+    {
+      "id": 1531,
+      "text": "You can also scroll using\\nthe +Control Pad.\\n"
+    },
+    {
+      "id": 1532,
+      "text": "Let's look for Digimon.\\n"
+    },
+    {
+      "id": 1533,
+      "text": "You found a Digimon.\\n"
+    },
+    {
+      "id": 1534,
+      "text": "To catch a Digimon, you\\nmust:\\n"
+    },
+    {
+      "id": 1535,
+      "text": "[Rope In/Pull/Touch].\\n"
+    },
+    {
+      "id": 1536,
+      "text": "[Rope In]\\n"
+    },
+    {
+      "id": 1537,
+      "text": "[Pull]\\nDecreases HP.\\n"
+    },
+    {
+      "id": 1538,
+      "text": "[Touch]\\nCatch it with the hand icon.\\n"
+    },
+    {
+      "id": 1539,
+      "text": "You were able to catch it.\\nNow, let's do it.\\n"
+    },
+    {
+      "id": 1540,
+      "text": "[Rope In]\\nRope it in with the rope\\nicon."
+    },
+    {
+      "id": 1541,
+      "text": "[Pull]\\nDecreases HP.\\n"
+    },
+    {
+      "id": 1542,
+      "text": "[Touch]\\nCatch it with the hand icon.\\n"
+    },
+    {
+      "id": 1543,
+      "text": "Let's proceed to the next\\nstep.\\n"
+    },
+    {
+      "id": 1544,
+      "text": "There's an Agumon.\\nLet's catch it."
+    },
+    {
+      "id": 1545,
+      "text": "It escaped into a cave.\\n"
+    },
+    {
+      "id": 1546,
+      "text": "Even if it runs away, it\\nwill come back after\\nsome time.\\n"
+    },
+    {
+      "id": 1547,
+      "text": "It looks like the Agumon\\nhas come back.\\n"
+    },
+    {
+      "id": 1548,
+      "text": "Leave some food nearby and\\nlure it to you.\\n"
+    },
+    {
+      "id": 1549,
+      "text": "You can stop a Digimon\\nby shooting it.\\n"
+    },
+    {
+      "id": 1550,
+      "text": "Try catching them with a\\nrope while they're\\nstunned.\\n"
+    },
+    {
+      "id": 1551,
+      "text": "You can hunt until the\\ntime limit runs out.\\n"
+    },
+    {
+      "id": 1552,
+      "text": ""
+    },
+    {
+      "id": 1553,
+      "text": ""
+    },
+    {
+      "id": 1554,
+      "text": "Lastly, about battles."
+    },
+    {
+      "id": 1555,
+      "text": "Choose [Battle] from the\\nAccess Menu."
+    },
+    {
+      "id": 1556,
+      "text": "Choose a title match.\\n"
+    },
+    {
+      "id": 1557,
+      "text": "Title matches you can\\nenter change depending\\non the day.\\n"
+    },
+    {
+      "id": 1558,
+      "text": "Your opponent and\\nbattlefield are displayed\\nhere."
+    },
+    {
+      "id": 1559,
+      "text": "Choose the settings for\\nyour team.\\n"
+    },
+    {
+      "id": 1560,
+      "text": "Choose a Digimon to use\\nin battle.\\n"
+    },
+    {
+      "id": 1561,
+      "text": "You can instruct\\neach Digimon to use\\n"
+    },
+    {
+      "id": 1562,
+      "text": "different strategies,\\nlike Special Attack.\\n"
+    },
+    {
+      "id": 1563,
+      "text": "When you are done, select\\nthe [Return] Button.\\n"
+    },
+    {
+      "id": 1564,
+      "text": "Select [Battle] and\\nthe auto-battle will begin.\\n"
+    },
+    {
+      "id": 1565,
+      "text": "Training is key in winning\\nbattles. Digivolve your\\nDigimon.\\n"
+    },
+    {
+      "id": 1566,
+      "text": "Win the\\nDigimon Championship!\\n"
+    },
+    {
+      "id": 1567,
+      "text": ""
+    },
+    {
+      "id": 1568,
+      "text": ",. Battle"
+    },
+    {
+      "id": 1569,
+      "text": "TheGreatArthur"
+    }
+  ]
+}

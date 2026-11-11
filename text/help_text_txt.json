@@ -1,0 +1,679 @@
+{
+ "has_count": true,
+ "has_end": true,
+ "encoding": "utf-16-le",
+ "entries": [
+  {
+   "id": 0,
+   "text": "Hunt"
+  },
+  {
+   "id": 1,
+   "text": "Hunt Equip."
+  },
+  {
+   "id": 2,
+   "text": "Digital World"
+  },
+  {
+   "id": 3,
+   "text": "Gates"
+  },
+  {
+   "id": 4,
+   "text": "Capturing"
+  },
+  {
+   "id": 5,
+   "text": "Rope"
+  },
+  {
+   "id": 6,
+   "text": "Shot"
+  },
+  {
+   "id": 7,
+   "text": "Wire"
+  },
+  {
+   "id": 8,
+   "text": "Trap"
+  },
+  {
+   "id": 9,
+   "text": "Damage Trap"
+  },
+  {
+   "id": 10,
+   "text": "Upgrade"
+  },
+  {
+   "id": 11,
+   "text": "Memory Card"
+  },
+  {
+   "id": 12,
+   "text": "Time"
+  },
+  {
+   "id": 13,
+   "text": "Hunting Time"
+  },
+  {
+   "id": 14,
+   "text": "Seasons"
+  },
+  {
+   "id": 15,
+   "text": "Weather"
+  },
+  {
+   "id": 16,
+   "text": "Gates"
+  },
+  {
+   "id": 17,
+   "text": "Fee"
+  },
+  {
+   "id": 18,
+   "text": "Habitat"
+  },
+  {
+   "id": 19,
+   "text": "Release"
+  },
+  {
+   "id": 20,
+   "text": "Basics"
+  },
+  {
+   "id": 21,
+   "text": "Resistance"
+  },
+  {
+   "id": 22,
+   "text": "Training"
+  },
+  {
+   "id": 23,
+   "text": "Digivolution"
+  },
+  {
+   "id": 24,
+   "text": "Digimon Type"
+  },
+  {
+   "id": 25,
+   "text": "Status"
+  },
+  {
+   "id": 26,
+   "text": "Cage"
+  },
+  {
+   "id": 27,
+   "text": "Training"
+  },
+  {
+   "id": 28,
+   "text": "Tamer Info."
+  },
+  {
+   "id": 29,
+   "text": "In-Training I/II"
+  },
+  {
+   "id": 30,
+   "text": "Rookie"
+  },
+  {
+   "id": 31,
+   "text": "Champion"
+  },
+  {
+   "id": 32,
+   "text": "Ultimate"
+  },
+  {
+   "id": 33,
+   "text": "Mega"
+  },
+  {
+   "id": 34,
+   "text": "DigiEgg"
+  },
+  {
+   "id": 35,
+   "text": "Attribute"
+  },
+  {
+   "id": 36,
+   "text": "Species"
+  },
+  {
+   "id": 37,
+   "text": "Type"
+  },
+  {
+   "id": 38,
+   "text": "Nature"
+  },
+  {
+   "id": 39,
+   "text": "Life Span"
+  },
+  {
+   "id": 40,
+   "text": "HP"
+  },
+  {
+   "id": 41,
+   "text": "TP"
+  },
+  {
+   "id": 42,
+   "text": "AP"
+  },
+  {
+   "id": 43,
+   "text": "Stress"
+  },
+  {
+   "id": 44,
+   "text": "Capacity (G)"
+  },
+  {
+   "id": 45,
+   "text": "Battles"
+  },
+  {
+   "id": 46,
+   "text": "Degenerate"
+  },
+  {
+   "id": 47,
+   "text": "Digimon Cage"
+  },
+  {
+   "id": 48,
+   "text": "Cage Edit"
+  },
+  {
+   "id": 49,
+   "text": "Occupancy"
+  },
+  {
+   "id": 50,
+   "text": "Cage Effect"
+  },
+  {
+   "id": 51,
+   "text": "Training"
+  },
+  {
+   "id": 52,
+   "text": "Seasons"
+  },
+  {
+   "id": 53,
+   "text": "Food"
+  },
+  {
+   "id": 54,
+   "text": "Protein"
+  },
+  {
+   "id": 55,
+   "text": "Cleaning"
+  },
+  {
+   "id": 56,
+   "text": "Injury"
+  },
+  {
+   "id": 57,
+   "text": "Illness"
+  },
+  {
+   "id": 58,
+   "text": "Dying/Lost"
+  },
+  {
+   "id": 59,
+   "text": "Other Controls"
+  },
+  {
+   "id": 60,
+   "text": "Tamer"
+  },
+  {
+   "id": 61,
+   "text": "Tamer Rank"
+  },
+  {
+   "id": 62,
+   "text": "Training Lic."
+  },
+  {
+   "id": 63,
+   "text": "Cage Space"
+  },
+  {
+   "id": 64,
+   "text": "Max Capacity"
+  },
+  {
+   "id": 65,
+   "text": "Battle"
+  },
+  {
+   "id": 66,
+   "text": "Battle Type"
+  },
+  {
+   "id": 67,
+   "text": "Battle Prep."
+  },
+  {
+   "id": 68,
+   "text": "Support (SP)"
+  },
+  {
+   "id": 69,
+   "text": "Practice Battle"
+  },
+  {
+   "id": 70,
+   "text": "Free Battle"
+  },
+  {
+   "id": 71,
+   "text": "Title Match"
+  },
+  {
+   "id": 72,
+   "text": "Championship"
+  },
+  {
+   "id": 73,
+   "text": "Multi Battle"
+  },
+  {
+   "id": 74,
+   "text": "Password Battle"
+  },
+  {
+   "id": 75,
+   "text": "Strategies"
+  },
+  {
+   "id": 76,
+   "text": "Special Attack"
+  },
+  {
+   "id": 77,
+   "text": "Battlefield"
+  },
+  {
+   "id": 78,
+   "text": "Password Conv."
+  },
+  {
+   "id": 79,
+   "text": "About SP"
+  },
+  {
+   "id": 80,
+   "text": "Ability Up"
+  },
+  {
+   "id": 81,
+   "text": "Special"
+  },
+  {
+   "id": 82,
+   "text": "Recover"
+  },
+  {
+   "id": 83,
+   "text": "Resist"
+  },
+  {
+   "id": 84,
+   "text": ""
+  },
+  {
+   "id": 85,
+   "text": ""
+  },
+  {
+   "id": 86,
+   "text": ""
+  },
+  {
+   "id": 87,
+   "text": ""
+  },
+  {
+   "id": 88,
+   "text": ""
+  },
+  {
+   "id": 89,
+   "text": "This is the most basic hunt equipment that causes damage to Digimon by tying them up. It can be used again even when it breaks. The higher the durability, the harder it is to break. "
+  },
+  {
+   "id": 90,
+   "text": "Equipment that causes Digimon to recoil by firing a shot at them. Used to stop Digimon in their tracks to catch them. Shots are limited, so use this carefully. "
+  },
+  {
+   "id": 91,
+   "text": "Place this equipment in fields to block the path of Digimon or to lure them. It breaks after a certain amount of time.It cannot be placed on top of Digimon or obstacles. "
+  },
+  {
+   "id": 92,
+   "text": "Traps are used to lure Digimon.\\nFood can cause paralysis\\nor inflict poison. Light\\nattracts Digimon to it.\\nThe decoy moves by itself, so\\nuse it to lure Digimon to a trap.\\n"
+  },
+  {
+   "id": 93,
+   "text": "This trap is used to directly inflict damage to Digimon. There are two types of traps: One activates automatically after it is set, while the other activates when a Digimon touches it. "
+  },
+  {
+   "id": 94,
+   "text": "Upgrades are indispensible\\nfor Digimon hunting. Use them\\nto display a Digimon's\\nparameters or display Digimon\\non the radar. By combining\\nthis item with others, you can\\nadapt to various circumstances.\\n"
+  },
+  {
+   "id": 95,
+   "text": "Every Digimon takes up memory.Be careful of your memory card's capacity when you take a Digimon to and from the Digital World."
+  },
+  {
+   "id": 96,
+   "text": "A day in the Digital World equals about ten minutes in the real world. There is no concept of weeks or months. A season goes by in eight days. A year passes when four seasons go by. "
+  },
+  {
+   "id": 97,
+   "text": "When out on a hunt, you are automatically recalled when time is up. It is important to consider the time when going out on a hunt. "
+  },
+  {
+   "id": 98,
+   "text": "The Digital World has seasons. Some Digimon are easier to obtain depending on the season. Some Digimon change habitats.The number of battles also varies by season. "
+  },
+  {
+   "id": 99,
+   "text": "The Digital World also has weather. The weather changes greatly depending on the location and season. "
+  },
+  {
+   "id": 100,
+   "text": "They are used to travel to\\nspecific areas in the\\nDigital World. The type\\nand number of gates you\\ncan use is limited by your\\ntamer rank.\\n"
+  },
+  {
+   "id": 101,
+   "text": "Gates are used to go to the Digital World and cost a fee. Each gate fee is different and is automatically deducted from your funds. Check your funds beforehand. "
+  },
+  {
+   "id": 102,
+   "text": "Digimon live in habitats that they are adapted to. There are different kinds of Digimon depending on the gate you select in the Digital World. "
+  },
+  {
+   "id": 103,
+   "text": "When you release a Digimon stored inside a memory card into any hunting grounds, it will live in that area for a while. You must be careful because the ecosystem can change due to the release. "
+  },
+  {
+   "id": 104,
+   "text": "Use equipment to reduce a Digimon's HP to 0. After catching it with the hand icon, you can put the Digimon inside your memory card. "
+  },
+  {
+   "id": 105,
+   "text": "Some Digimon are not affected by certain HP reducing equipment and others are only affected by certain HP reducing equipment. Some equipment does no damage at all. "
+  },
+  {
+   "id": 106,
+   "text": ""
+  },
+  {
+   "id": 107,
+   "text": ""
+  },
+  {
+   "id": 108,
+   "text": ""
+  },
+  {
+   "id": 109,
+   "text": ""
+  },
+  {
+   "id": 110,
+   "text": ""
+  },
+  {
+   "id": 111,
+   "text": ""
+  },
+  {
+   "id": 112,
+   "text": ""
+  },
+  {
+   "id": 113,
+   "text": "Newly born Digimon and the level above are known as \"In-Training\". These Digimon are able to participate in battles when they reach In-Training II level. "
+  },
+  {
+   "id": 114,
+   "text": "These Digimon have passed\\nIn-Training. They are\\nstronger and have started\\nto become segmented in\\norder to adapt to the\\nvarious conditions.\\n"
+  },
+  {
+   "id": 115,
+   "text": "These Digimon have\\npassed the Rookie level\\nand are full Digimon. They\\nhave strong attack power\\n& intelligence. Many of\\nthem evolved to adapt to\\ntheir conditions.\\n"
+  },
+  {
+   "id": 116,
+   "text": "These Digimon have\\noutgrown the Champion\\nlevel and have become\\ntheir Ultimate form. It's\\nsaid that it is difficult\\nfor a Digimon to become an\\nUltimate Digimon naturally.\\n"
+  },
+  {
+   "id": 117,
+   "text": "This form of supreme power is reached when an Ultimate Digimon spends time in even harsher conditions. Digimon cannot reach this level without the help of a tamer. "
+  },
+  {
+   "id": 118,
+   "text": "The egg of a Digimon. Digimon are not differentiated between male and female, and do not mate. By degenerating to a DigiEgg, new generations of Digimon are born. "
+  },
+  {
+   "id": 119,
+   "text": "Most Digimon are classified as Vaccine, Virus or Data. Some Digimon have no attributes and are classified as Free. In-Training Digimon have no attributes. "
+  },
+  {
+   "id": 120,
+   "text": "When classifying Digimon by digivolution, they can be broadly divided into eight species. By controlling the species, it is possible to somewhat control digivolution. "
+  },
+  {
+   "id": 121,
+   "text": "This classification method has been used by Digimon researchers for many years. It can be too detailed and is not standardized, but it can be seen in the Digipedia. "
+  },
+  {
+   "id": 122,
+   "text": "Digimon all have their own personalities and it determines how well they listen to their tamers or how they behave in the cages. A Digimon's nature will not change by digivolving or changing into a DigiEgg. "
+  },
+  {
+   "id": 123,
+   "text": "Digimon are active only for a certain period of time, after which they either disappear or turn back into a DigiEgg. If a Digimon can digivolve into another Digimon before their time is reached, their life span is extended. "
+  },
+  {
+   "id": 124,
+   "text": "This stands for \"hit points\". Hit points represent how much physical energy a Digimon has. When these points reach 0, a Digimon is close to death and is unable to move. "
+  },
+  {
+   "id": 125,
+   "text": "This stands for \"technical points\". These are needed when using special attacks or support moves. "
+  },
+  {
+   "id": 126,
+   "text": "Digimon have a resistance\\n(AP) to five forms of\\nattack: Heat, Cold, Thunder,\\nLight, and Darkness.\\nAttribute Points change\\ndepending on the cage\\nDigimon moves to.\\n"
+  },
+  {
+   "id": 127,
+   "text": "Digimon are delicate creatures that can get sick due to stress, and you could lose them. Stress levels change based on cage space, cleanliness, Digimon nature, size, or a Digimon's relationship with other Digimon. "
+  },
+  {
+   "id": 128,
+   "text": "Capacity (G) varies from Digimon to Digimon. However, total capacity is limited. Also, when a Digimon digivolves, its capacity increases, so make sure you have free space or it won't be able to digivolve. "
+  },
+  {
+   "id": 129,
+   "text": "The number of battles fought. The number of battles fought has an effect on digivolving. "
+  },
+  {
+   "id": 130,
+   "text": "When Digimon reach the end of their life span, they have a chance to become DigiEggs. A Digimon's basic stats increase every time it becomes a DigiEgg."
+  },
+  {
+   "id": 131,
+   "text": "A basket type device used to train Digimon. It is used to restore HP or alter parameters. Different parameters change more easily depending on the cage."
+  },
+  {
+   "id": 132,
+   "text": "Cages can be arranged in any way a tamer pleases. As your tamer rank increases, you will be able to place your cages in a much wider area. "
+  },
+  {
+   "id": 133,
+   "text": "The optimal number of Digimon to be put in a particular cage.You can exceed this number, but the Digimon will become more easily stressed out."
+  },
+  {
+   "id": 134,
+   "text": "The effect of a particular\\ncage. Train Digimon to\\nalter their parameters or\\nrestore HP. Cage effects\\nmay sometimes differ from\\nthe listed description.\\n"
+  },
+  {
+   "id": 135,
+   "text": "There are two basic forms\\nof training. One is battle\\nrelated, which increases\\nHP and AP. The other has\\nan effect on digivolving,\\naltering a Digimon's\\nspecies or attributes."
+  },
+  {
+   "id": 136,
+   "text": "The seasons affect not only the hunt, but also training. Training is highly effective in the Summer, while the Winter makes Digimon more prone to injury. "
+  },
+  {
+   "id": 137,
+   "text": "Digimon are living creatures so they also get hungry. If they are starving, they will grow weaker and eventually die if left alone. "
+  },
+  {
+   "id": 138,
+   "text": "By giving protein to a Digimon, you can raise its attack power for a limited amount of time. However, there is a greater chance the Digimon could be injured. You must be careful because protein will also go bad if uneaten. "
+  },
+  {
+   "id": 139,
+   "text": "Digimon produce waste after a certain amount of time. Be careful of leaving waste or old food in a cage because Digimon will get sick."
+  },
+  {
+   "id": 140,
+   "text": "Whenever a Digimon battles or trains, there is a chance it will be injured. If the injury is left alone, the Digimon will start dying. If a Digimon is injured, heal them with a bandage."
+  },
+  {
+   "id": 141,
+   "text": "If you leave a Digimon in a dirty cage, it will get sick. If it is left alone while ill, the Digimon will become close to death. Other Digimon may also get sick if left together in the same cage. If a Digimon is ill, cure it with medicine. "
+  },
+  {
+   "id": 142,
+   "text": "If you leave a dying Digimon alone, you will lose it. Lost Digimon are gone forever. But if certain conditions are met, it will be reborn as a DigiEgg. "
+  },
+  {
+   "id": 143,
+   "text": "The hand icon can be used to\\ngrab Digimon and scroll the\\nscreen, but you can also use\\nit to pet or poke your Digimon.\\nSometimes it will also\\ndisplay in the log what a\\nDigimon is trying to digivolve into.\\n"
+  },
+  {
+   "id": 144,
+   "text": "The title given to those\\nwho train Digimon. Tamers\\nare ranked based on the\\nnumber of Titles won.\\n"
+  },
+  {
+   "id": 145,
+   "text": "As your Tamer Rank increases, your Digimon can digivolve into more variations, cage spaces increase, and you can train more Digimon. You will also be eligible to enter more title matches. "
+  },
+  {
+   "id": 146,
+   "text": "There is a limit to what generation your Digimon can digivolve to depending on your Tamer Rank. In order to train strong Digimon, it is important to raise your Tamer Rank and obtain a license. "
+  },
+  {
+   "id": 147,
+   "text": "The area in which you can place a cage. One hexagon is one cell and determines how many you can place. Cage space increases as your Tamer Rank increases. "
+  },
+  {
+   "id": 148,
+   "text": "Digimon each have their own maximum capacity and have a limit to how much they can be trained at one time. By raising your Tamer Rank you can increase the capacity to which you can train Digimon. "
+  },
+  {
+   "id": 149,
+   "text": "n/a"
+  },
+  {
+   "id": 150,
+   "text": "n/a"
+  },
+  {
+   "id": 151,
+   "text": "n/a"
+  },
+  {
+   "id": 152,
+   "text": "n/a"
+  },
+  {
+   "id": 153,
+   "text": "This battle is fought between Digimon that you are training. The number of battles your Digimon has fought and its wins are reflected here, but no prize money is awarded. "
+  },
+  {
+   "id": 154,
+   "text": "You can participate in these battles anytime. The teams that participate change everyday, so decide whether to enter accordingly. Prize bits are also awarded, so this is a good venue to test your strength or fine tune your Digimon. "
+  },
+  {
+   "id": 155,
+   "text": "Depending on the title, certain conditions are preset for Digimon and the field during these battles. The dates these titles are held are predetermined, so if you miss entering, you won't be able to enter again until the following year. "
+  },
+  {
+   "id": 156,
+   "text": "The preliminaries are held once a year. You cannot participate in the championships unless you have won at least once in the preliminaries. The championships are fought in tournament format until the winner is decided. "
+  },
+  {
+   "id": 157,
+   "text": "Battle tamers online in\\nthe Online Arena. Create a\\nroom and give its code to a\\nfriend, join a friend's\\nroom, or play a ranked\\nmatch against a tamer of\\nyour level."
+  },
+  {
+   "id": 158,
+   "text": "A battle that is fought\\nbetween Digimon by using a\\nspecific password. Since\\nstrengths are equal, these\\nbattles are convenient to\\nuse as practice battles.\\n"
+  },
+  {
+   "id": 159,
+   "text": "You can tell Digimon what actions to prioritize during battle. [Special Attack] tells Digimon to use more special attacks, while [Support] uses more SP. [Normal Attack] uses a balance of both. "
+  },
+  {
+   "id": 160,
+   "text": "Some attacks have additional\\neffects other than\\ninflicting damage. Special\\nattacks have attributes,\\nand damage varies depending\\non what AP your opponent\\nhas. Special attacks expend\\nTP, so you cannot use them\\nunless you have TP. "
+  },
+  {
+   "id": 161,
+   "text": "The place where Digimon battle. Depending upon the Digimon, places can be favorable or unfavorable to them. "
+  },
+  {
+   "id": 162,
+   "text": "Since Digimon are alive, they\\ncannot maintain a constant\\nstate. By passwording them,\\nyou can save a Digimon's\\ncurrent state. You can save your most powerful Digimon\\nfrom the past or use them to\\nbattle against your friends."
+  },
+  {
+   "id": 163,
+   "text": "Digimon have Support powers\\nthat are used for support in\\nbattles. The SP a Digimon\\nhas differs depending on\\nDigimon type and nature.\\nTP is expended when\\nusing SP."
+  },
+  {
+   "id": 164,
+   "text": "A Support that increases the parameters for attack, defense, speed, etc. "
+  },
+  {
+   "id": 165,
+   "text": "[Resurrection] If you have\\nthis SP, and your HP reaches\\n0, you will be able to get\\nback up.\\n[Provoke] Use this to make\\nyour opponent focus their\\nattacks on you.\\n"
+  },
+  {
+   "id": 166,
+   "text": "A Support that restores HP. "
+  },
+  {
+   "id": 167,
+   "text": "This Support improves AP.\\nThere are SPs for Heat,\\nCold, Thunder, Light,\\nand Darkness.\\n"
+  }
+ ]
+}

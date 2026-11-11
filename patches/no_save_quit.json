@@ -1,0 +1,12 @@
+{
+  "description": "Turn off Save & Quit in the field menu (the bottom bar's last icon: Help, Database, Battle, Save & Quit, Hunt, Shop). On the site the game must keep running: Save & Quit asks \"Do you want to end this game?\" (text 650), saves, then stops on \"Turn the power OFF and end the game.\" (652), a dead end in the browser. The game still saves when the day ends (\"Do you want to end the day?\", text 653: the same saving state, overlay 18 0x02117f64, calls the save routine 0x0206a8c8) and on its own saves elsewhere (overlay 9). The menu's update function in overlay 18 (0x02117100) tests each button with FUN_02043588(menu, message id); Save & Quit is message 0x93, whose branch turns the menu off, opens the yes / no box with text 650 and sets the box kind (menu+0x0e) to 1. Answering No (message 0x0e with box kind 1, 0x021171b0) turns the menu back on. The patch sends Save & Quit straight to that No branch: the button flashes and the menu stays usable. Found with capstone from the literal 650 at 0x02117544.",
+  "patches": [
+    {
+      "overlay": 18,
+      "address": "0x021173a0",
+      "original": "920f84e2",
+      "replacement": "82ffffea",
+      "comment": "add r0,r4,#0x248 -> b 0x021171b0: Save & Quit (message 0x93) runs the end-game box's No branch instead of opening the box"
+    }
+  ]
+}

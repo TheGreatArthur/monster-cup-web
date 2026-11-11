@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Digimon World Championship</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="game play">
+  <header class="bar">
+    <span class="title"><img src="/game-assets/intro/logo.png" alt="Digimon World Championship" width="232" height="117">Online Arena</span>
+    <a class="link-discord" id="link-discord" href="/auth/discord?link=1" hidden>Link Discord</a>
+    <span class="user"><span class="avatar" id="me-avatar" aria-hidden="true"></span><span id="username"></span></span>
+    <button type="button" class="gear" id="sound-button" aria-haspopup="dialog" aria-expanded="false" aria-controls="sound-settings" title="Sound settings">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M10.3 2h3.4l.5 2.6a8 8 0 0 1 1.9.8l2.2-1.5 2.4 2.4-1.5 2.2c.3.6.6 1.2.8 1.9l2.6.5v3.4l-2.6.5a8 8 0 0 1-.8 1.9l1.5 2.2-2.4 2.4-2.2-1.5a8 8 0 0 1-1.9.8l-.5 2.6h-3.4l-.5-2.6a8 8 0 0 1-1.9-.8l-2.2 1.5-2.4-2.4 1.5-2.2a8 8 0 0 1-.8-1.9L2 13.7v-3.4l2.6-.5c.2-.7.5-1.3.8-1.9L3.9 5.7l2.4-2.4 2.2 1.5c.6-.3 1.2-.6 1.9-.8zM12 8.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7z"/></svg>
+      <span class="sr-only">Sound settings</span>
+    </button>
+    <button type="button" id="logout">Log out</button>
+  </header>
+  <div class="play-layout">
+    <main class="stage">
+      <div id="game"></div>
+      <!-- The site serves no ROM: the player gives their own copy once (rom.js). -->
+      <section class="rom-import window" id="rom-import" aria-labelledby="rom-title" hidden>
+        <h2 id="rom-title">Your game file</h2>
+        <p>Online Arena is a mod: it plays on your own copy of <b>Digimon World Championship (USA)</b>.</p>
+        <p>Choose its ROM file (.nds) or drop it here. You only do this once.</p>
+        <input class="sr-only" type="file" id="rom-file" accept=".nds" tabindex="-1" aria-hidden="true">
+        <button class="primary" type="button" id="rom-choose">Choose my ROM file</button>
+        <p class="hint" id="rom-status" role="status">The file stays in this browser. It is never uploaded.</p>
+      </section>
+    </main>
+
+    <!-- Friends, chats and the ranked ladder (social.js). -->
+    <aside class="social window" id="social" aria-label="Community">
+      <div class="tabs social-tabs" role="tablist">
+        <button type="button" role="tab" data-tab="chat" aria-selected="true">Chat <span class="badge" hidden></span></button>
+        <button type="button" role="tab" data-tab="friends" aria-selected="false">Friends <span class="badge" hidden></span></button>
+        <button type="button" role="tab" data-tab="ranking" aria-selected="false">Ranking</button>
+      </div>
+
+      <section class="social-panel chat-panel" data-panel="chat">
+        <div class="channels" id="channels" role="tablist" aria-label="Chats"></div>
+        <ol class="messages" id="messages" aria-live="polite"></ol>
+        <form class="chat-form" id="chat-form">
+          <label class="sr-only" for="chat-input">Message</label>
+          <input id="chat-input" maxlength="300" autocomplete="off" placeholder="Say hi to the arena">
+          <button class="primary" type="submit">Send</button>
+        </form>
+        <p class="error small" id="chat-error" role="alert"></p>
+      </section>
+
+      <section class="social-panel" data-panel="friends" hidden>
+        <form class="add-friend" id="add-friend">
+          <label for="friend-name">Add a friend by username</label>
+          <div class="row">
+            <input id="friend-name" name="username" maxlength="20" autocomplete="off" required>
+            <button class="primary" type="submit">Send</button>
+          </div>
+          <p class="hint" id="friend-result" role="status">Your username: <b id="my-username"></b></p>
+        </form>
+        <div class="friend-group" id="incoming-group" hidden>
+          <h3>Friend requests</h3>
+          <ul class="people" id="incoming"></ul>
+        </div>
+        <div class="friend-group">
+          <h3>Friends</h3>
+          <ul class="people" id="friend-list"></ul>
+          <p class="empty" id="no-friends">No friends yet. Add one by username, or tap a name in the chat or the ranking.</p>
+        </div>
+        <div class="friend-group" id="outgoing-group" hidden>
+          <h3>Sent</h3>
+          <ul class="people" id="outgoing"></ul>
+        </div>
+      </section>
+
+      <section class="social-panel" data-panel="ranking" hidden>
+        <ol class="ladder" id="ladder"></ol>
+        <p class="empty" id="no-ladder" hidden>No ranked battles yet. Win one in Online Arena, Ranked to open the ladder.</p>
+        <p class="my-rank" id="my-rank"></p>
+      </section>
+    </aside>
+
+    <!-- The left panel: the shop (shop.js), the events (events.js) and the Digimon bank (bank.js),
+         paid and played with the PvP coins of online wins. -->
+    <aside class="hub window" id="hub" aria-label="Shop, events and bank">
+      <header class="hub-head">
+        <div class="tabs hub-tabs" role="tablist">
+          <button type="button" role="tab" data-hub="shop" aria-selected="true">Shop</button>
+          <button type="button" role="tab" data-hub="events" aria-selected="false">Events <span class="badge" hidden></span></button>
+          <button type="button" role="tab" data-hub="bank" aria-selected="false">Bank <span class="badge" hidden></span></button>
+        </div>
+        <p class="coins" title="PvP coins"><span class="coin" aria-hidden="true"></span><b id="coin-balance">0</b><span class="sr-only"> coins</span></p>
+      </header>
+      <section class="hub-panel" data-hub-panel="shop" id="shop"></section>
+      <section class="hub-panel" data-hub-panel="events" id="events" hidden></section>
+      <section class="hub-panel" data-hub-panel="bank" id="bank" hidden></section>
+      <p class="hub-status" id="hub-status" role="status"></p>
+    </aside>
+  </div>
+
+  <dialog class="player-card window" id="player-card">
+    <form method="dialog">
+      <div class="who"><span class="avatar big" id="card-avatar"></span><div><b id="card-name"></b><span id="card-username"></span></div></div>
+      <p class="hint" id="card-status"></p>
+      <div class="row">
+        <button class="primary" type="button" id="card-action"></button>
+        <button type="submit" class="ghost">Close</button>
+      </div>
+    </form>
+  </dialog>
+  <dialog class="sound-panel window" id="sound-settings" aria-labelledby="sound-title">
+    <form method="dialog">
+      <h2 id="sound-title">Sound</h2>
+      <ul class="sound-levels" id="sound-levels"></ul>
+      <p class="hint">Battle music follows the master volume. Settings stay in this browser.</p>
+      <div class="row">
+        <button type="button" class="ghost" id="sound-reset">Reset</button>
+        <button type="submit" class="primary">OK</button>
+      </div>
+    </form>
+  </dialog>
+  <script src="/static/play.js" type="module"></script>
+</body>
+</html>

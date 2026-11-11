@@ -1,0 +1,19 @@
+{
+  "description": "Hunting tutorial: the Digimon to catch is Agumon (species 0x22) instead of Koromon (species 0x15). Species ids are the db_txt_list name index + 8 (0-7 are eggs), so Koromon = 13 + 8, Agumon = 26 + 8. Found with Ghidra in overlay 0 (Hunting Tutorial), function 0x021216a4.",
+  "patches": [
+    {
+      "overlay": 0,
+      "address": "0x02122358",
+      "original": "1520a0e3",
+      "replacement": "2220a0e3",
+      "comment": "mov r2,#0x15 -> mov r2,#0x22: species argument of the bl 0x020618e8 that creates the tutorial Koromon"
+    },
+    {
+      "overlay": 0,
+      "address": "0x02122364",
+      "original": "163042e2",
+      "replacement": "0030e0e3",
+      "comment": "sub r3,r2,#0x16 -> mvn r3,#0: keep r3 = -1 now that r2 changed"
+    }
+  ]
+}

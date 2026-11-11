@@ -1,0 +1,26 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "digimon-web",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "--env-file-if-exists=web/.env",
+        "web/server.js"
+      ],
+      "port": 3000,
+      "url": "http://127.0.0.1:3000"
+    },
+    {
+      "name": "digimon-web-hosted",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "--env-file-if-exists=web/.env",
+        "--env-file=.claude/hosted-test.env",
+        "web/server.js"
+      ],
+      "port": 3001,
+      "url": "http://127.0.0.1:3001"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# Never convert line endings in these: a changed byte breaks the mod's patch or the starter save.
+*.patch binary
+*.raw binary
+*.png binary

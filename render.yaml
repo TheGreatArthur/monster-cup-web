@@ -1,0 +1,34 @@
+# Render blueprint: the site as one free Node web service. The database stays on Supabase.
+# The server holds the running matches in memory, so it must stay one single instance.
+# No ROM is deployed: players bring their own copy (web/public/rom.js) and the server reads the
+# game's tables from web/game-data.json.
+services:
+  - type: web
+    name: online-arena
+    runtime: node
+    plan: free
+    region: frankfurt          # next to the Supabase project (eu-west-1)
+    rootDir: web
+    buildCommand: npm ci
+    startCommand: node server.js
+    healthCheckPath: /
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: TRUST_PROXY       # players' addresses come in X-Forwarded-For
+        value: "1"
+      - key: REFEREE           # the referee needs Python, Playwright, Edge and the ROM: not on the host
+        value: "off"
+      - key: PASSWORD_LOGIN
+        value: hidden
+      # Typed in Render's dashboard, never committed (the values of web/.env):
+      - key: SITE_URL          # the site's public address, https://<name>.onrender.com
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_ANON_KEY
+        sync: false
+      - key: ADMIN_DISCORD_IDS
+        sync: false

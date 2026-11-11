@@ -1,0 +1,11 @@
+{
+  "description": "Make the game's text keyboard (ui/keyboard.nxr) cheap to draw: one picture of its keys at rest. The keyboard (the DigiEgg's name, the Online Arena's room code) is a layout of 128 parts; 57 of them are keys, each a cell of 4 sprites that the game draws as 3D quads through NNS G2D every frame. That halves the browser's emulator (melonDS in WebAssembly): 33 frames a second instead of 60 while the keyboard is open. This mod: - adds part 128 \"keys_board\" to keyboard.nxr: one cell (cell 21, animation 20 of keyboard_parts) holding the picture of every key at rest, at depth 17, behind the keys (16); - marks the keys: depth 16.000244 instead of 16 (one 1/4096 step, nothing to see); - rewrites the parts' update and draw (ARM9 0x0207DF30, patches/fast_keyboard.json): a marked part at rest (state 0) is neither animated nor drawn. A pressed key (state 1, Shift held) or a disabled one (state 2) is still drawn, over the picture. The keys still take the touches: the keyboard tests their positions, not what is drawn. The Online Arena's keypad (make_online_patch.py) hides the picture and unmarks the keys while it is open. The files are written under <mod dir> (default mod/) with their NitroFS path, for nds_tool.py repack. With a preview path, the picture is also saved there as PNG. Needs keystone-engine (pip install keystone-engine).",
+  "patches": [
+    {
+      "address": "0x0207df30",
+      "original": "08402de9fc10d0e5000051e3fd10d015000051130880bd08280080e2011aa0e3ce23ffeb0880bde808402de9fc10d0e5000051e3fd10d015000051130880bd08280080e22222ffeb0880bde8",
+      "replacement": "01c0a0e3fc20d0e5fd30d0e5032012e01eff2f01083090e53f20d0e5280080e2013883e2010000ea00c0a0e3f4ffffea010073e3000052031eff2f0100005ce32322ff0a011aa0e3c423ffea",
+      "comment": "keyboard part update and draw (draw entry still at 0x0207df58): a key at rest (depth mark -0x10001, state 0) is neither animated nor drawn; the keys_board part draws them all"
+    }
+  ]
+}

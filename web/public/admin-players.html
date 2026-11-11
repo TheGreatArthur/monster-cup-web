@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Players - Digimon World Championship admin</title>
+  <link rel="stylesheet" href="/static/admin.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/admin/players"><img src="/game-assets/intro/logo.png" alt="Digimon World Championship" width="232" height="117">Admin</a>
+    <nav class="tabs" aria-label="Admin pages">
+      <a href="/admin/players" aria-current="page">Players</a>
+      <a href="/admin/gifts">Gifts</a>
+      <a href="/admin/shop">Shop</a>
+      <a href="/admin/events">Events</a>
+      <a href="/admin">Moderation</a>
+    </nav>
+    <span class="status" id="admin-status" role="status">Loading...</span>
+    <a class="pill" href="/play">Play</a>
+  </header>
+  <main class="page">
+    <div>
+      <h1 class="page-title">Players</h1>
+      <p class="page-sub" id="online-count">Open an account to see its whole save and send it a gift.</p>
+    </div>
+    <section class="panel glass">
+      <div class="panel-head">
+        <input class="input search" id="player-search" type="search" placeholder="Search an account or tamer" aria-label="Search an account or tamer">
+        <span class="count">Updates every 5 s</span>
+      </div>
+      <div class="player-rows" id="players">
+        <p class="empty">Loading the accounts...</p>
+      </div>
+    </section>
+  </main>
+  <script src="/static/admin-players.js" type="module"></script>
+</body>
+</html>

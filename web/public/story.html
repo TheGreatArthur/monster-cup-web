@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Prologue — Digimon World Championship</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="game play starter-page">
+  <!-- The same frame as the starter page (starter.html), which comes next. -->
+  <header class="bar">
+    <span class="title"><img src="/game-assets/intro/logo.png" alt="Digimon World Championship" width="232" height="117">Online Arena</span>
+    <span class="user" id="username"></span>
+    <button type="button" id="logout">Log out</button>
+  </header>
+  <main class="stage starter story">
+    <!-- Both DS screens (256x192 each), drawn with the game's own graphics and fonts. -->
+    <canvas id="screens" width="512" height="768" aria-label="Prologue: the story of the Digimon World Championship"></canvas>
+    <p class="story-hint">Click or press Enter to continue.</p>
+    <button type="button" id="skip" class="story-skip">Skip intro ▸▸</button>
+    <p class="error" id="error" role="alert"></p>
+  </main>
+  <script src="/static/story.js" type="module"></script>
+</body>
+</html>

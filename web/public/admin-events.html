@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Events - Digimon World Championship admin</title>
+  <link rel="stylesheet" href="/static/admin.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/admin/players"><img src="/game-assets/intro/logo.png" alt="Digimon World Championship" width="232" height="117">Admin</a>
+    <nav class="tabs" aria-label="Admin pages">
+      <a href="/admin/players">Players</a>
+      <a href="/admin/gifts">Gifts</a>
+      <a href="/admin/shop">Shop</a>
+      <a href="/admin/events" aria-current="page">Events</a>
+      <a href="/admin">Moderation</a>
+    </nav>
+    <span class="status" id="admin-status" role="status">Loading...</span>
+    <button type="button" class="pill" id="admin-refresh">Refresh</button>
+    <a class="pill" href="/play">Play</a>
+  </header>
+  <main class="page">
+    <div>
+      <h1 class="page-title">Events</h1>
+      <p class="page-sub">Events show on the left of the play page. When one ends, the players are ranked and the coins of
+        each place are paid at once. A battle event counts online wins; a contest ranks the best Digimon handed over
+        from the bank, one per player; a collection counts the Digimon handed over. Digimon handed over stay with the
+        event, and go back to their owners' banks only if the event is cancelled.</p>
+    </div>
+    <div class="player-layout">
+      <section class="panel glass">
+        <div class="panel-head"><h2>All events</h2><span class="count" id="event-count"></span></div>
+        <div class="event-admin" id="events"><p class="empty">Loading the events...</p></div>
+      </section>
+      <aside class="composer-column">
+        <section class="panel glass">
+          <h2 id="form-title">New event</h2>
+          <form class="composer" id="event-form">
+            <div class="tabs" role="tablist" id="event-kind">
+              <button type="button" role="tab" data-kind="battle" aria-selected="true">Battle</button>
+              <button type="button" role="tab" data-kind="contest" aria-selected="false">Contest</button>
+              <button type="button" role="tab" data-kind="collect" aria-selected="false">Collection</button>
+            </div>
+            <p class="hint" id="kind-hint"></p>
+            <label class="field">Title <input id="ev-title" maxlength="80" required></label>
+            <label class="field">Text for the players (optional) <textarea class="input" id="ev-body" maxlength="600" rows="3"></textarea></label>
+            <div class="offer-edit-fields">
+              <label class="field">Starts <input type="datetime-local" id="ev-start" required></label>
+              <label class="field">Ends <input type="datetime-local" id="ev-end" required></label>
+            </div>
+            <div class="offer-edit-fields" id="ev-rules">
+              <label class="field" id="ev-stat-field">Ranked by <select id="ev-stat"></select></label>
+              <label class="field">Level <select id="ev-level"></select></label>
+              <label class="field">Digimon <select id="ev-species"></select></label>
+            </div>
+            <label class="field">Coins per place, first to last (for example 500, 300, 100) <input id="ev-rewards" placeholder="500, 300, 100"></label>
+            <button type="submit" class="pill primary wide" id="ev-save">Create the event</button>
+            <button type="button" class="pill" id="ev-new" hidden>New event instead</button>
+          </form>
+        </section>
+      </aside>
+    </div>
+  </main>
+  <script src="/static/admin-events.js" type="module"></script>
+</body>
+</html>

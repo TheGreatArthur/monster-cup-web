@@ -1,0 +1,229 @@
+{
+  "description": "Build patches/online_mailbox.json: the game's Multi Battle becomes an Online Arena run by the web page. python tools/make_online_patch.py <rom.nds>",
+  "patches": [
+    {
+      "overlay": 9,
+      "address": "0x02179c50",
+      "original": "38402de90050a0e1000095e50140a0e1",
+      "replacement": "0100a0e31eff2fe100f020e300f020e3",
+      "comment": "WH init (host scene step 0): done at once"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02179d64",
+      "original": "10402de90040a0e1",
+      "replacement": "0100a0e31eff2fe1",
+      "comment": "WH start parent (host scene step 1): done at once"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02179e40",
+      "original": "10402de90040a0e1001094e5000051e30500001a0110a0e3dfffffeb000094e5010080e2000084e50b0000ea",
+      "replacement": "1c109fe5140091e5000050e31eff2f01082091e50c309fe5002083e50100a0e31eff2fe1609c17025c2d1102",
+      "comment": "WH wait for a child (host scene step 2): done once the page says the peer is connected; take the role (1 host, 2 guest) the page wrote"
+    },
+    {
+      "overlay": 9,
+      "address": "0x0217cd34",
+      "original": "08402de93c009fe5000090e5020050e30200000a30009fe54cf0ffeb0880bde828009fe5000090e5010050e30200001a",
+      "replacement": "24109fe50c0091e5020050e30000a0030c0081050100a0031eff2f010100a0e30c0081e50000a0e31eff2fe1609c1702",
+      "comment": "NetSend: post the packet (out = 1), complete once the page relayed it (out = 2)"
+    },
+    {
+      "overlay": 9,
+      "address": "0x0217cd8c",
+      "original": "18009fe5000090e5020050e310009f1510009f050010a0e3001080e51eff2fe1",
+      "replacement": "14109fe51c0091e5000050e30000a013100081151c0081151eff2fe1609c1702",
+      "comment": "NetClearRecv: in = 0, only once the game saw the packet"
+    },
+    {
+      "overlay": 9,
+      "address": "0x0217cdb8",
+      "original": "08402de93c009fe5000090e5020050e30200000a30009fe53af0ffeb",
+      "replacement": "10109fe5100091e5000050e30120a0131c2081151eff2fe1609c1702",
+      "comment": "NetIsReceived: return in, and note the game saw it"
+    },
+    {
+      "overlay": 9,
+      "address": "0x0217ce10",
+      "original": "08402de97dde4de234009fe5000090e5020050e3",
+      "replacement": "08109fe5140091e5010080e21eff2fe1609c1702",
+      "comment": "peer count: 1 + connected"
+    },
+    {
+      "overlay": 9,
+      "address": "0x0217ce58",
+      "original": "08402de958009fe5000090e5020050e3",
+      "replacement": "04109fe5180091e51eff2fe1609c1702",
+      "comment": "disconnected test: return disconnected"
+    },
+    {
+      "overlay": 9,
+      "address": "0x0217cec4",
+      "original": "08402de9dffaffeb090050e30500000a",
+      "replacement": "04109fe5180091e51eff2fe1609c1702",
+      "comment": "second disconnected test (WH error states): return disconnected"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02179c94",
+      "original": "b4109fe50020a0e3b0009fe5042081e5290900eba8109fe5a8009fe5001091e50820a0e3041091e5a9a6faeb88009fe5",
+      "replacement": "10402de91d0100eb0040a0e1010054e30300001a10109fe5200091e5000050e38322fb1b0400a0e11080bde8609c1702",
+      "comment": "end of the team exchange: WH end, then reseed the random generator with the seed"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02184788",
+      "original": "61d6ffeb",
+      "replacement": "41d5ffeb",
+      "comment": "team exchange, last step: call the seed hook instead of WH end"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02179cd0",
+      "original": "84c09fe584309fe50420a0e3b010d3e1b200d3e1043083e2b010cce1b200cce104c08ce2012052e2f7ffff1ab000d3e1b000cce144009fe52840c0e5000095e5010080e2000085e5080000ea010050e30600001a480700eb",
+      "replacement": "4c109fe5242091e5012c82e2ff20c2e3002082e1242081e51eff2fe101402de90400a0e3f5ffffeb0140bde8531900ea1c109fe52420d1e5040052e37024001a01402de90300a0e3ecffffeb0140bde86b2400ea609c1702",
+      "comment": "command post (r0 = kind); Online Arena enter: post cancel; wait enter: post ranked unless a create or join came first"
+    },
+    {
+      "overlay": 9,
+      "address": "0x021798b0",
+      "original": "f8402de90100a0e13836ffebc4209fe50060a0e1000092e50170a0e1470f80e2030b80e28537ffeb070051e1060050012600000a9c009fe50610a0e1000090e50720a0e1470f80e2030b80e2f135ffeb000050e31d00000a78009fe5000090e5d60e80e2626efceb68109fe50050a0e1000091e50510a0e1d60e80e27e6efceb50109fe50040a0e1000091e50510a0e1d60e80e27b6efceb38009fe50510a0e1000090e5d60e80e27a6efceb0050a0e10400a0e10610a0e10720a0e16c37ffebc00085e870fbffeb",
+      "replacement": "0030a0e300c0a0e30120d1e4000052e30700000a302042e2090052e30000a0831eff2f81033183e0833082e001c08ce2f4ffffea06005ce30000a0131eff2f1178109fe5283081e504e02de50200a0e3f20000eb0100a0e304f09de45c209fe52c3092e5000053e30000a0031eff2f01283082e50000a0e32c0082e50600e1e506c0a0e338209fe5930282e0a221a0e1020182e0800043e0300080e2010061e50230a0e101c05ce2f5ffff1a04e02de50100a0e3d90000eb0100a0e304f09de4609c1702cdcccccc",
+      "comment": "join: the keypad's 6 digits become the room code; create: the page's offer becomes the room code"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02179850",
+      "original": "70402de9",
+      "replacement": "2d0000ea",
+      "comment": "my Friend Code: the room code instead (create)"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02179d6c",
+      "original": "000094e5000050e30400001a3c0700eb000094e5010080e2000084e50f0000ea2e0700eb070050e30c00001ac60700eb30109fe50020a0e1b030d1e10000a0e3013083e2b030c1e1b010d1e1600800eb0000a0e3000084e50100a0e31080bde80000a0e3",
+      "replacement": "10402de90040a0e14c109fe5182091e5000052e30200001a142091e5000052e30300000a0400a0e10010a0e3ef0c00eb1080bde80400a0e11040bde8832000ea14c09fe530309ce50000a0e330008ce5000053e304309f051eff2fe1609c170283050000",
+      "comment": "room code screen, update: on to the wait once the opponent is there; error screen text: the page's message"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02180ea0",
+      "original": "18309fe5",
+      "replacement": "c1e3ffeb",
+      "comment": "error screen, text: the page's message (the hook above)"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02179854",
+      "original": "50009fe50140a0e1000090e5470f80e2030b80e22f37ffeb38009fe5000090e5470f80e2030b80e29b37ffeb0050a0e10160a0e10400a0e10510a0e10620a0e13936ffeb0000a0e3000056",
+      "replacement": "30002de90d0c80e2080190e52c208fe2455fa0e30130d2e4ff0053e30600000a01c0d2e4930524e0fc10c4e5013083e20c0053e1faffffdaf5ffffea750100ea000235364a59647c7e7fff",
+      "comment": "keypad: hide (r1 = 0) or show (r1 = 1) the keyboard's unused keys"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02179e6c",
+      "original": "f20600ebcd82faeb010040e2000050e3060000da0400a0e10010a0e3d3ffffeb0000a0e3000084e50100a0e31080bde80000a0e3",
+      "replacement": "4730a0e3930524e00020e0e30228a0e1012042e0082084e5054084e0013083e2800053e3faffffbafc10c4e53000bde81eff2fe1",
+      "comment": "keypad: the keys drawn one by one (r1 = 0) or by their picture (r1 = 1)"
+    },
+    {
+      "overlay": 9,
+      "address": "0x0217ce68",
+      "original": "0600000a4c009fe50010a0e3a3f1ffeb000050e30100a0130000a0030880bde8effaffeb090050e30500000aecfaffeb0a0050e30200000ae9faffeb080050e3",
+      "replacement": "10402de90040a0e18c1500eb04002de50400a0e10010a0e373f2ffeb04009de41080bde810402de90040a0e10110a0e36df2ffeb0400a0e11040bde8ab1500ea",
+      "comment": "keypad enter: hide the unused keys; exit: show them again"
+    },
+    {
+      "overlay": 19,
+      "address": "0x02114194",
+      "original": "0210a0e3",
+      "replacement": "0310a0e3",
+      "comment": "battle title, Multi Battle: sequence 3 (Online Arena), not 2"
+    },
+    {
+      "overlay": 19,
+      "address": "0x02114198",
+      "original": "0320a0e3",
+      "replacement": "0020a0e3",
+      "comment": "battle title, Multi Battle: frame 0 of the sequence, not 3"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02191f24",
+      "original": "02000000",
+      "replacement": "03000000",
+      "comment": "state 1 (loading) opens the Online Arena (state 3), not the mode select"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02191f74",
+      "original": "02000000570500000700000002000000ffffffff0500000003000000ffffffff0600000004000000ffffffff",
+      "replacement": "2b000000570500001700000000000000ffffffff1900000001000000ffffffff2600000011000000ffffffff",
+      "comment": "Online Arena: back leaves the scene (43); Create Room (label 0) -> Display Friend Code (23), Join Room (label 1) -> Enter Code (25), Ranked Match (label 17) -> wait (38)"
+    },
+    {
+      "overlay": 9,
+      "address": "0x021921b0",
+      "original": "04000000ffffffff04000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "replacement": "03000000ffffffff03000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "comment": "after cancelling the wait: back to the Online Arena"
+    },
+    {
+      "overlay": 9,
+      "address": "0x021922e4",
+      "original": "050000006205000005000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "replacement": "030000006205000026000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "comment": "Display Friend Code (the room code): opponent there -> wait (38), back -> menu"
+    },
+    {
+      "overlay": 9,
+      "address": "0x0219233c",
+      "original": "16000000630500001a000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "replacement": "030000006305000026000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "comment": "Enter Code: a valid code -> wait (38), back -> Online Arena"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02191958",
+      "original": "50021802",
+      "replacement": "ec9c1702",
+      "comment": "Online Arena, enter: post cancel first"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02191bd0",
+      "original": "bc1f1802",
+      "replacement": "6c9d1702",
+      "comment": "room code screen, update: the hook above"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02191db8",
+      "original": "d42e1802",
+      "replacement": "009d1702",
+      "comment": "wait for the opponent, enter: post ranked unless a create or join came first"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02191c18",
+      "original": "a8241802",
+      "replacement": "68ce1702",
+      "comment": "Enter Code keypad, enter: the hook above"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02191c20",
+      "original": "58251802",
+      "replacement": "8cce1702",
+      "comment": "Enter Code keypad, exit: the hook above"
+    },
+    {
+      "overlay": 9,
+      "address": "0x02179c60",
+      "original": "000050e32c00001a0100a0e3040085e5406dfcebcc009fe56b0700ebc8009fe5e73cfaeb5a0800eb000050e30000a0033880bd08",
+      "replacement": "5745424d424f58310100000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "comment": "mailbox: magic, role = 1, out, in, connected, disconnected, seen, seed, command, code, offer, message = 0"
+    }
+  ]
+}

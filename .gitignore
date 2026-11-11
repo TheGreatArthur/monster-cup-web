@@ -1,0 +1,16 @@
+# The game itself stays local: never commit or publish a ROM, a save or the extracted files.
+# Players bring their own ROM (web/public/rom.js); the site only has the mod's patch.
+*.nds
+*.sav
+build/
+mod/
+extracted/
+docs/
+
+# Local web server data (accounts, sessions, saves)
+web/data/
+# Local secrets (Supabase keys)
+web/.env
+
+node_modules/
+__pycache__/

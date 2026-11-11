@@ -1,0 +1,4711 @@
+{
+ "has_count": true,
+ "has_end": true,
+ "encoding": "utf-16-le",
+ "entries": [
+  {
+   "id": 0,
+   "text": "Zurumon"
+  },
+  {
+   "id": 1,
+   "text": "Choromon"
+  },
+  {
+   "id": 2,
+   "text": "Nyokimon"
+  },
+  {
+   "id": 3,
+   "text": "Pabumon"
+  },
+  {
+   "id": 4,
+   "text": "Pichimon"
+  },
+  {
+   "id": 5,
+   "text": "Punimon"
+  },
+  {
+   "id": 6,
+   "text": "Botamon"
+  },
+  {
+   "id": 7,
+   "text": "Poyomon"
+  },
+  {
+   "id": 8,
+   "text": "Mokumon"
+  },
+  {
+   "id": 9,
+   "text": "YukimiBotamon"
+  },
+  {
+   "id": 10,
+   "text": "Yuramon"
+  },
+  {
+   "id": 11,
+   "text": "Petitmon"
+  },
+  {
+   "id": 12,
+   "text": "Kapurimon"
+  },
+  {
+   "id": 13,
+   "text": "Koromon"
+  },
+  {
+   "id": 14,
+   "text": "Tanemon"
+  },
+  {
+   "id": 15,
+   "text": "Tsunomon"
+  },
+  {
+   "id": 16,
+   "text": "Tokomon"
+  },
+  {
+   "id": 17,
+   "text": "Nyaromon"
+  },
+  {
+   "id": 18,
+   "text": "Pagumon"
+  },
+  {
+   "id": 19,
+   "text": "Yokomon"
+  },
+  {
+   "id": 20,
+   "text": "Bukamon"
+  },
+  {
+   "id": 21,
+   "text": "DemiMeramon"
+  },
+  {
+   "id": 22,
+   "text": "Motimon"
+  },
+  {
+   "id": 23,
+   "text": "Bebydomon"
+  },
+  {
+   "id": 24,
+   "text": "Sunmon"
+  },
+  {
+   "id": 25,
+   "text": "Moonmon"
+  },
+  {
+   "id": 26,
+   "text": "Agumon"
+  },
+  {
+   "id": 27,
+   "text": "Armadillomon"
+  },
+  {
+   "id": 28,
+   "text": "Elecmon"
+  },
+  {
+   "id": 29,
+   "text": "Otamamon"
+  },
+  {
+   "id": 30,
+   "text": "Gaomon"
+  },
+  {
+   "id": 31,
+   "text": "Gazimon"
+  },
+  {
+   "id": 32,
+   "text": "Gabumon"
+  },
+  {
+   "id": 33,
+   "text": "Kamemon"
+  },
+  {
+   "id": 34,
+   "text": "Gizamon"
+  },
+  {
+   "id": 35,
+   "text": "Candlemon"
+  },
+  {
+   "id": 36,
+   "text": "Kunemon"
+  },
+  {
+   "id": 37,
+   "text": "Gotsumon"
+  },
+  {
+   "id": 38,
+   "text": "Goburimon"
+  },
+  {
+   "id": 39,
+   "text": "Gomamon"
+  },
+  {
+   "id": 40,
+   "text": "Terriermon"
+  },
+  {
+   "id": 41,
+   "text": "Tentomon"
+  },
+  {
+   "id": 42,
+   "text": "ToyAgumon"
+  },
+  {
+   "id": 43,
+   "text": "Tapirmon"
+  },
+  {
+   "id": 44,
+   "text": "Hagurumon"
+  },
+  {
+   "id": 45,
+   "text": "Patamon"
+  },
+  {
+   "id": 46,
+   "text": "Palmon"
+  },
+  {
+   "id": 47,
+   "text": "DemiDevimon"
+  },
+  {
+   "id": 48,
+   "text": "Biyomon"
+  },
+  {
+   "id": 49,
+   "text": "Falcomon"
+  },
+  {
+   "id": 50,
+   "text": "Salamon"
+  },
+  {
+   "id": 51,
+   "text": "Floramon"
+  },
+  {
+   "id": 52,
+   "text": "Mushroomon"
+  },
+  {
+   "id": 53,
+   "text": "SnowAgumon"
+  },
+  {
+   "id": 54,
+   "text": "Renamon"
+  },
+  {
+   "id": 55,
+   "text": "Dracomon"
+  },
+  {
+   "id": 56,
+   "text": "Coronamon"
+  },
+  {
+   "id": 57,
+   "text": "Lunamon"
+  },
+  {
+   "id": 58,
+   "text": "BlackAgumon"
+  },
+  {
+   "id": 59,
+   "text": "Psychemon"
+  },
+  {
+   "id": 60,
+   "text": "Aruraumon"
+  },
+  {
+   "id": 61,
+   "text": "Tsukaimon"
+  },
+  {
+   "id": 62,
+   "text": "Veemon"
+  },
+  {
+   "id": 63,
+   "text": "Guilmon"
+  },
+  {
+   "id": 64,
+   "text": "Ankylomon"
+  },
+  {
+   "id": 65,
+   "text": "Ikkakumon"
+  },
+  {
+   "id": 66,
+   "text": "Wizardmon"
+  },
+  {
+   "id": 67,
+   "text": "Woodmon"
+  },
+  {
+   "id": 68,
+   "text": "Airdramon"
+  },
+  {
+   "id": 69,
+   "text": "Angemon"
+  },
+  {
+   "id": 70,
+   "text": "Ogremon"
+  },
+  {
+   "id": 71,
+   "text": "GaoGamon"
+  },
+  {
+   "id": 72,
+   "text": "Kabuterimon"
+  },
+  {
+   "id": 73,
+   "text": "Gargomon"
+  },
+  {
+   "id": 74,
+   "text": "Garurumon"
+  },
+  {
+   "id": 75,
+   "text": "Garurumon"
+  },
+  {
+   "id": 76,
+   "text": "Guardromon"
+  },
+  {
+   "id": 77,
+   "text": "Kiwimon"
+  },
+  {
+   "id": 78,
+   "text": "Kyubimon"
+  },
+  {
+   "id": 79,
+   "text": "Greymon"
+  },
+  {
+   "id": 80,
+   "text": "Clockmon"
+  },
+  {
+   "id": 81,
+   "text": "Kuwagamon"
+  },
+  {
+   "id": 82,
+   "text": "Gekomon"
+  },
+  {
+   "id": 83,
+   "text": "Gesomon"
+  },
+  {
+   "id": 84,
+   "text": "Centarumon"
+  },
+  {
+   "id": 85,
+   "text": "Kokatorimon"
+  },
+  {
+   "id": 86,
+   "text": "Thundermon"
+  },
+  {
+   "id": 87,
+   "text": "Shellmon"
+  },
+  {
+   "id": 88,
+   "text": "GeoGreymon"
+  },
+  {
+   "id": 89,
+   "text": "Seadramon"
+  },
+  {
+   "id": 90,
+   "text": "Sukamon"
+  },
+  {
+   "id": 91,
+   "text": "Starmon"
+  },
+  {
+   "id": 92,
+   "text": "Darcmon"
+  },
+  {
+   "id": 93,
+   "text": "DarkTyrannomon"
+  },
+  {
+   "id": 94,
+   "text": "Tyrannomon"
+  },
+  {
+   "id": 95,
+   "text": "Gatomon"
+  },
+  {
+   "id": 96,
+   "text": "Devidramon"
+  },
+  {
+   "id": 97,
+   "text": "Devimon"
+  },
+  {
+   "id": 98,
+   "text": "Togemon"
+  },
+  {
+   "id": 99,
+   "text": "Tortomon"
+  },
+  {
+   "id": 100,
+   "text": "Numemon"
+  },
+  {
+   "id": 101,
+   "text": "Bakemon"
+  },
+  {
+   "id": 102,
+   "text": "Birdramon"
+  },
+  {
+   "id": 103,
+   "text": "Vegiemon"
+  },
+  {
+   "id": 104,
+   "text": "Peckmon"
+  },
+  {
+   "id": 105,
+   "text": "Meramon"
+  },
+  {
+   "id": 106,
+   "text": "Mojyamon"
+  },
+  {
+   "id": 107,
+   "text": "Monochromon"
+  },
+  {
+   "id": 108,
+   "text": "Frigimon"
+  },
+  {
+   "id": 109,
+   "text": "Unimon"
+  },
+  {
+   "id": 110,
+   "text": "Youkomon"
+  },
+  {
+   "id": 111,
+   "text": "Lynxmon"
+  },
+  {
+   "id": 112,
+   "text": "Raremon"
+  },
+  {
+   "id": 113,
+   "text": "Leomon"
+  },
+  {
+   "id": 114,
+   "text": "RedVegiemon"
+  },
+  {
+   "id": 115,
+   "text": "Coredramon"
+  },
+  {
+   "id": 116,
+   "text": "Coredramon"
+  },
+  {
+   "id": 117,
+   "text": "Firamon"
+  },
+  {
+   "id": 118,
+   "text": "Lekismon"
+  },
+  {
+   "id": 119,
+   "text": "IceDevimon"
+  },
+  {
+   "id": 120,
+   "text": "Gururumon"
+  },
+  {
+   "id": 121,
+   "text": "Geremon"
+  },
+  {
+   "id": 122,
+   "text": "Socerimon"
+  },
+  {
+   "id": 123,
+   "text": "Akatorimon"
+  },
+  {
+   "id": 124,
+   "text": "Saberdramon"
+  },
+  {
+   "id": 125,
+   "text": "Icemon"
+  },
+  {
+   "id": 126,
+   "text": "Veedramon"
+  },
+  {
+   "id": 127,
+   "text": "Growlmon"
+  },
+  {
+   "id": 128,
+   "text": "MegaKabuterimon"
+  },
+  {
+   "id": 129,
+   "text": "Scorpiomon"
+  },
+  {
+   "id": 130,
+   "text": "Andromon"
+  },
+  {
+   "id": 131,
+   "text": "Etemon"
+  },
+  {
+   "id": 132,
+   "text": "Angewomon"
+  },
+  {
+   "id": 133,
+   "text": "Okuwamon"
+  },
+  {
+   "id": 134,
+   "text": "Garudamon"
+  },
+  {
+   "id": 135,
+   "text": "Garbagemon"
+  },
+  {
+   "id": 136,
+   "text": "Cyberdramon"
+  },
+  {
+   "id": 137,
+   "text": "Cherrymon"
+  },
+  {
+   "id": 138,
+   "text": "SkullGreymon"
+  },
+  {
+   "id": 139,
+   "text": "Zudomon"
+  },
+  {
+   "id": 140,
+   "text": "Dragomon"
+  },
+  {
+   "id": 141,
+   "text": "SkullMeramon"
+  },
+  {
+   "id": 142,
+   "text": "Deramon"
+  },
+  {
+   "id": 143,
+   "text": "ShogunGekomon"
+  },
+  {
+   "id": 144,
+   "text": "Triceramon"
+  },
+  {
+   "id": 145,
+   "text": "Knightmon"
+  },
+  {
+   "id": 146,
+   "text": "Parrotmon"
+  },
+  {
+   "id": 147,
+   "text": "Divermon"
+  },
+  {
+   "id": 148,
+   "text": "Pandamon"
+  },
+  {
+   "id": 149,
+   "text": "Big Mamemon"
+  },
+  {
+   "id": 150,
+   "text": "Piximon"
+  },
+  {
+   "id": 151,
+   "text": "Phantomon"
+  },
+  {
+   "id": 152,
+   "text": "Vademon"
+  },
+  {
+   "id": 153,
+   "text": "Whamon"
+  },
+  {
+   "id": 154,
+   "text": "MagnaAngemon"
+  },
+  {
+   "id": 155,
+   "text": "MachGaogamon"
+  },
+  {
+   "id": 156,
+   "text": "Mamemon"
+  },
+  {
+   "id": 157,
+   "text": "Mammothmon"
+  },
+  {
+   "id": 158,
+   "text": "MegaSeadramon"
+  },
+  {
+   "id": 159,
+   "text": "Megadramon"
+  },
+  {
+   "id": 160,
+   "text": "MetalGreymon"
+  },
+  {
+   "id": 161,
+   "text": "MetalGreymon"
+  },
+  {
+   "id": 162,
+   "text": "MetalTyrannomon"
+  },
+  {
+   "id": 163,
+   "text": "Monzaemon"
+  },
+  {
+   "id": 164,
+   "text": "Crowmon"
+  },
+  {
+   "id": 165,
+   "text": "RizeGreymon"
+  },
+  {
+   "id": 166,
+   "text": "Rapidmon"
+  },
+  {
+   "id": 167,
+   "text": "Lillymon"
+  },
+  {
+   "id": 168,
+   "text": "LadyDevimon"
+  },
+  {
+   "id": 169,
+   "text": "WaruMonzaemon"
+  },
+  {
+   "id": 170,
+   "text": "WereGarurumon"
+  },
+  {
+   "id": 171,
+   "text": "WereGarurumon"
+  },
+  {
+   "id": 172,
+   "text": "Wingdramon"
+  },
+  {
+   "id": 173,
+   "text": "Groundramon"
+  },
+  {
+   "id": 174,
+   "text": "Flaremon"
+  },
+  {
+   "id": 175,
+   "text": "Crescemon"
+  },
+  {
+   "id": 176,
+   "text": "SuperStarmon"
+  },
+  {
+   "id": 177,
+   "text": "BlackRapidmon"
+  },
+  {
+   "id": 178,
+   "text": "BlueMeramon"
+  },
+  {
+   "id": 179,
+   "text": "PileVolcanomon"
+  },
+  {
+   "id": 180,
+   "text": "Valkyrimon"
+  },
+  {
+   "id": 181,
+   "text": "WarGreymon"
+  },
+  {
+   "id": 182,
+   "text": "GigaSeadramon"
+  },
+  {
+   "id": 183,
+   "text": "GranKuwagamon"
+  },
+  {
+   "id": 184,
+   "text": "Gryphonmon"
+  },
+  {
+   "id": 185,
+   "text": "Eaglemon"
+  },
+  {
+   "id": 186,
+   "text": "SaberLeomon"
+  },
+  {
+   "id": 187,
+   "text": "ShineGreymon"
+  },
+  {
+   "id": 188,
+   "text": "SkullMammothmon"
+  },
+  {
+   "id": 189,
+   "text": "MegaGargomon"
+  },
+  {
+   "id": 190,
+   "text": "HiAndromon"
+  },
+  {
+   "id": 191,
+   "text": "BanchoLeomon"
+  },
+  {
+   "id": 192,
+   "text": "Piedmon"
+  },
+  {
+   "id": 193,
+   "text": "Puppetmon"
+  },
+  {
+   "id": 194,
+   "text": "Pharaohmon"
+  },
+  {
+   "id": 195,
+   "text": "Pukumon"
+  },
+  {
+   "id": 196,
+   "text": "BlackWarGreymon"
+  },
+  {
+   "id": 197,
+   "text": "PrinceMamemon"
+  },
+  {
+   "id": 198,
+   "text": "Preciomon"
+  },
+  {
+   "id": 199,
+   "text": "HerculesKabuterimon"
+  },
+  {
+   "id": 200,
+   "text": "Phoenixmon"
+  },
+  {
+   "id": 201,
+   "text": "MirageGaogamon"
+  },
+  {
+   "id": 202,
+   "text": "Machinedramon"
+  },
+  {
+   "id": 203,
+   "text": "MetalEtemon"
+  },
+  {
+   "id": 204,
+   "text": "MetalGarurumon"
+  },
+  {
+   "id": 205,
+   "text": "MetalGarurumon"
+  },
+  {
+   "id": 206,
+   "text": "MetalSeadramon"
+  },
+  {
+   "id": 207,
+   "text": "Rosemon"
+  },
+  {
+   "id": 208,
+   "text": "ZeedGarurumon"
+  },
+  {
+   "id": 209,
+   "text": "VictoryGreymon"
+  },
+  {
+   "id": 210,
+   "text": "Slayerdramon"
+  },
+  {
+   "id": 211,
+   "text": "Brakedramon"
+  },
+  {
+   "id": 212,
+   "text": "Apollomon"
+  },
+  {
+   "id": 213,
+   "text": "Dianamon"
+  },
+  {
+   "id": 214,
+   "text": "Imperialdramon"
+  },
+  {
+   "id": 215,
+   "text": "Gallantmon"
+  },
+  {
+   "id": 216,
+   "text": "A Slime Digimon born from the fusion of a PC virus and negative human emotions. It lives in wet places and spits a poisonous froth."
+  },
+  {
+   "id": 217,
+   "text": "A small, red-eyed Machine Digimon. It discharges electricity from its tail. It cannot move in dark places, so it lives in well lit areas."
+  },
+  {
+   "id": 218,
+   "text": "A Seed Digimon with a clear film on its body. It has potential to digivolve into a Vegetation or Dragon Digimon. It lives where plants are abundant."
+  },
+  {
+   "id": 219,
+   "text": "A Slime Digimon that looks like a green bubble. It stops an enemy with its bubbles and then flees."
+  },
+  {
+   "id": 220,
+   "text": "A Slime Digimon that looks like a microorganism. It blinds its enemies with froth. It lives near the water."
+  },
+  {
+   "id": 221,
+   "text": "A newly-born Slime Digimon. It has a squishy red body and has three antennae growing from its head. It lives in relatively mild climates."
+  },
+  {
+   "id": 222,
+   "text": "A Slime Digimon with black hairs growing from it. It is newly-born and emits froth from its mouth. Lives almost anywhere."
+  },
+  {
+   "id": 223,
+   "text": "A Slime Digimon found on the Internet Sea. It lives in clear waters. It is the most primitive form of all Digimon and said to be the \"missing link\"."
+  },
+  {
+   "id": 224,
+   "text": "A smoke Digimon that protects its digicore with smoke. It lives where the air is dirty, like in factories and volcanoes."
+  },
+  {
+   "id": 225,
+   "text": "A Botamon-like Slime Digimon. It has white hairs growing from it. Its white body is cold and weak against heat, so it lives in cold places."
+  },
+  {
+   "id": 226,
+   "text": "A Seed Digimon covered in soft hair. It makes itself airborne to look for the best environments. Usually seen on open grassland."
+  },
+  {
+   "id": 227,
+   "text": "A rare Dramon-like Slime Digimon with two big horns and small wings. It stabilizes itself with air blown from its mouth."
+  },
+  {
+   "id": 228,
+   "text": "A Micro Digimon that moves around like a bat. Using sonar with the two horns on its helmet, it is active both night and day."
+  },
+  {
+   "id": 229,
+   "text": "A Micro Digimon with large ears. It moves energetically but is not very good at combat. It attacks by spitting froth from its mouth."
+  },
+  {
+   "id": 230,
+   "text": "A timid Bulb Digimon with leaves on its head. It buries itself in the ground to act like a plant when it senses danger. It spits a sticky froth."
+  },
+  {
+   "id": 231,
+   "text": "A Micro Digimon with a large horn who is covered in fur. It is very mischievous and has not yet developed the instincts to fight."
+  },
+  {
+   "id": 232,
+   "text": "A Micro Digimon. It is very rare for an In-Training Digimon to have arms and legs. It is adept at attacking with its fangs."
+  },
+  {
+   "id": 233,
+   "text": "A Micro Digimon that acts like a cat. Its attacks are still weak and not suited for combat."
+  },
+  {
+   "id": 234,
+   "text": "A Micro Digimon that has ears. It has sort of a mean nature and likes to bully Koromon and Tsunomon. It is not ready for battle."
+  },
+  {
+   "id": 235,
+   "text": "A Micro Digimon with a large flower on its head. Its root-like appendages let it float for short distances. It lives on the grasslands in herds."
+  },
+  {
+   "id": 236,
+   "text": "A shy, Micro Digimon that looks like an infant dinosaur. It flees when it senses danger. It can't dive too deep so it lives in shallow waters."
+  },
+  {
+   "id": 237,
+   "text": "A Fire Digimon that is engulfed in fire. It is aggressive but is not very strong. It may flee when it encounters an Aquatic or Icy Digimon."
+  },
+  {
+   "id": 238,
+   "text": "A Micro Digimon that has a stretchy body. It can block an enemy's attacks with the versatile froth it emits."
+  },
+  {
+   "id": 239,
+   "text": "Discovered recently, this Digimon looks like an infant dragon. It is said to be an Ancient Digimon. It is small but aggressive."
+  },
+  {
+   "id": 240,
+   "text": "An In-Training Digimon shaped like the sun. It has a flame on its head and spends time floating in the air. Its attacking abilities are weak."
+  },
+  {
+   "id": 241,
+   "text": "An In-Training Digimon with a body like a drop of water. It is easily affected by the Tamer who raises it."
+  },
+  {
+   "id": 242,
+   "text": "A bipedal, Reptile Digimon. It is the epitome of Rookie Digimon. It is very brave, but limited in ability since it is still in the process of maturing."
+  },
+  {
+   "id": 243,
+   "text": "A Mammal Digimon in a hard shell. It is said to be a descendent of an ancient species. Its physical attacks and front claws are very powerful."
+  },
+  {
+   "id": 244,
+   "text": "A Mammal Digimon with nine tails. It is very curious and mischievous. It is small but has a very powerful electric attack."
+  },
+  {
+   "id": 245,
+   "text": "An Amphibian Digimon that lives in water. It usually swims around in swamps and rivers. It can put its opponents to sleep with its songs."
+  },
+  {
+   "id": 246,
+   "text": "A Beast Digimon with gloves to protect its hands until its claws fully develop. It is quick and is good at hit and run attacks."
+  },
+  {
+   "id": 247,
+   "text": "A Mammal Digimon with large claws. It is a small Digimon, but is very aggressive and unfriendly. It attacks with paralyzing gas."
+  },
+  {
+   "id": 248,
+   "text": "A shy, Reptile Digimon that wears a fur coat made from Garurumon. It attacks with its horn, claws and flames."
+  },
+  {
+   "id": 249,
+   "text": "An Android Digimon with a carapace. It moves around by rolling on the ball on its stomach. Its shell has very high defensive capabilities."
+  },
+  {
+   "id": 250,
+   "text": "A Sea Mammal Digimon. It has webbed feet and hands. It thrives better in water than on land. Fierce in water, it uses its blade like backfin to attack."
+  },
+  {
+   "id": 251,
+   "text": "A docile, Fire Digimon with a digicore flame on its head. It will not harm others unprovoked. It uses fire in battle and is weak against water."
+  },
+  {
+   "id": 252,
+   "text": "A Larva Digimon with lightning-bolt marks on its body. A rarity within the Insectoid Digimon. It's not nimble, but has a powerful lightning attack."
+  },
+  {
+   "id": 253,
+   "text": "An Ore Digimon which strengthens its defense by using mineral data. It is uncontrollable when its anger erupts like a volcano."
+  },
+  {
+   "id": 254,
+   "text": "An intelligent Digimon that looks like a lesser demon. It has no courage, so it will flee when it is at a disadvantage. Its huge club is not very strong."
+  },
+  {
+   "id": 255,
+   "text": "A Sea Beast Digimon capable of living on the land. The red hair on its back stands up when angry. Its claws are powerful enough to crush ice."
+  },
+  {
+   "id": 256,
+   "text": "A mysterious Beast Digimon with a horn on its head. It looks cute, but its attacks are very powerful. It is small and moves quickly."
+  },
+  {
+   "id": 257,
+   "text": "An Insectoid Digimon that looks like a ladybug and is docile compared to its group. Protected by a hard shell, it uses static from its wings to attack."
+  },
+  {
+   "id": 258,
+   "text": "A Puppet Digimon made of plastic blocks. It was made to look like Agumon. It is docile and loves children, but its special attack is powerful."
+  },
+  {
+   "id": 259,
+   "text": "A Digimon said to have emerged from a medical PC. It erases nightmares and viruses. It is smart but not quick, thus not strong in battle."
+  },
+  {
+   "id": 260,
+   "text": "A spinning, gear-shaped Machine Digimon. It is not very smart, and its normal attacks are weak, but watch out for its special attacks."
+  },
+  {
+   "id": 261,
+   "text": "A cute, popular Mammal Digimon. It flies with big ears. It is not suited for battle since it is slow and has weak attacks."
+  },
+  {
+   "id": 262,
+   "text": "A Vegetation Digimon with a tropical flower on its head. This flower changes its scent according to its mood. It is slow but uses poisonous attacks."
+  },
+  {
+   "id": 263,
+   "text": "A small Evil Digimon that looks like a bat. It acts as a minion to a higher Digimon and is rarely alone. Its attacks are weak, but it uses its smarts."
+  },
+  {
+   "id": 264,
+   "text": "This Baby Bird Digimon's wings have developed into arms. It usually lives on land and flies to escape danger. It does not move or fight very well."
+  },
+  {
+   "id": 265,
+   "text": "A Bird Digimon that lives high in the mountains. It can't fly well, but has powerful legs, so it can run quickly up mountains. Its claw attacks are powerful."
+  },
+  {
+   "id": 266,
+   "text": "A Mammal Digimon with cute, saggy ears. It was created by researchers as a pet. Its attacks are weak, but its voice can stun its opponents."
+  },
+  {
+   "id": 267,
+   "text": "A Vegetation Digimon with a flower-shaped face. It has high defense due to the petal-like shells protecting its head, but has low mobility."
+  },
+  {
+   "id": 268,
+   "text": "A Vegetation Digimon that looks like a toadstool. It has many small mushroom bombs growing from its body. It may be slow, but be wary of its bombs."
+  },
+  {
+   "id": 269,
+   "text": "An Agumon-like Reptile Digimon. It is adept at fighting while hiding in the snow. Unlike ordinary Agumon, it is weak against fire attacks."
+  },
+  {
+   "id": 270,
+   "text": "A Beast Humanoid Digimon that looks like a golden fox. It is highly intelligent and always calm. Rather than power, it prefers speedy attacks."
+  },
+  {
+   "id": 271,
+   "text": "A Dramon-like Dragon Digimon. It is an ancestor of all Dramon-like Digimon. It has abilities a step above other Rookie Digimon."
+  },
+  {
+   "id": 272,
+   "text": "A Beast Digimon born from solar data. It is very pure and has a strong sense of justice. It uses powerful flame attacks."
+  },
+  {
+   "id": 273,
+   "text": "A Mammal Digimon born from lunar data. It looks like a rabbit and can hear well with its big ears. It is cute, but its attacks hold the power of darkness."
+  },
+  {
+   "id": 274,
+   "text": "A Dinosaur Digimon. It is an Agumon that has found its wild side. It has no sense of justice and can unleash a powerful attack with its sharp claws."
+  },
+  {
+   "id": 275,
+   "text": "A brightly colored Digimon that looks like Gabumon. It has sharp claws and fangs with a horn on its head. It has flashy attacks but isn't powerful."
+  },
+  {
+   "id": 276,
+   "text": "A Vegetation Digimon that looks like Palmon. The flower on its head emits a nasty smell. It lives in warm areas and has more power than Palmon."
+  },
+  {
+   "id": 277,
+   "text": "This Mammal Digimon resembles Patamon. It's aggressive as opposed to Patamon and uses negative energy. It can fly but is not very fast."
+  },
+  {
+   "id": 278,
+   "text": "An Ancient Digimon that prospered in the early Digital World. It is said that it is a survivor of a combative clan and has secret powers."
+  },
+  {
+   "id": 279,
+   "text": "A Reptile Digimon that looks like a dinosaur. It is still a Rookie Digimon but it has great potential and is very fierce."
+  },
+  {
+   "id": 280,
+   "text": "A Mammal Digimon with skin like full-body armor that can be useful in offense as well as defense."
+  },
+  {
+   "id": 281,
+   "text": "A tough Sea Beast Digimon with thick fur and a horn that can easily break through thick ice. It is tough and able to bear ice storms."
+  },
+  {
+   "id": 282,
+   "text": "A Titan Wizard Digimon from another dimension. It controls powerful fire and earth magic. Its high TP allows it to unleash a series of special attacks."
+  },
+  {
+   "id": 283,
+   "text": "A Vegetation Digimon that looks like a dead tree. It has high defense because its body is made of hard wood. It fears Fire Digimon."
+  },
+  {
+   "id": 284,
+   "text": "A Mythical Beast Digimon with large wings. It is said that its cries call storms and its flapping creates tornadoes. Very strong and intelligent."
+  },
+  {
+   "id": 285,
+   "text": "An Angel Digimon with divine wings. As a holy Digimon, it will not fall to evil. It utilizes its speed to launch strong short range attacks."
+  },
+  {
+   "id": 286,
+   "text": "An Ogre Digimon that loves to battle. It travels looking for strong opponents. Beware of its special attacks."
+  },
+  {
+   "id": 287,
+   "text": "A Beast Digimon digivolved from Gaomon. It has become a quadruped due to developed claws. Its strengthened hind legs give it great speed."
+  },
+  {
+   "id": 288,
+   "text": "A horned beetle-like Insectoid Digimon with the power of an ant and defense of a beetle. It is not smart. Its metallic horn gives great defense."
+  },
+  {
+   "id": 289,
+   "text": "A Beast Humanoid Digimon good at hunting. Cheerful by nature, but uncontrollable when angry. They are fast and attack with accuracy."
+  },
+  {
+   "id": 290,
+   "text": "A Beast Humanoid Digimon that looks like a wolf. It lives in the cold and has shining blue-white fur as hard as diamond. It takes pride in its fast attacks."
+  },
+  {
+   "id": 291,
+   "text": "A Beast Humanoid Digimon that digivolved into a Virus Garurumon. Its vicious nature has colored its fur black. Many have fallen to its attacks."
+  },
+  {
+   "id": 292,
+   "text": "A Machine Digimon guarding the network. An evil hacker used a virus enabling control of it. Normal attacks have little effect on its defense."
+  },
+  {
+   "id": 293,
+   "text": "An Ancient Bird Digimon without wings. It gathers energy from light and attacks with the ChibiKiwimon hiding in its body."
+  },
+  {
+   "id": 294,
+   "text": "A Mysterious Beast Digimon with nine tails. It is known as the \"God of Destruction and Peace\". It can use various attacks and is very quick."
+  },
+  {
+   "id": 295,
+   "text": "A Dinosaur Digimon with tough skin on its head. Most Digimon can't go near it due to its horn and strong attacks. It is smart and makes a good leader."
+  },
+  {
+   "id": 296,
+   "text": "A Machine Digimon that regulates the time and space of the network. It has the ability to stop time and is much more dangerous than it looks."
+  },
+  {
+   "id": 297,
+   "text": "A Digimon with a giant pair of mandibles on its head. The mandibles can cut an enemy in two. Its defense is not that high."
+  },
+  {
+   "id": 298,
+   "text": "An Amphibian Digimon with a beautiful voice. It plays a song with its horn to control emotions. It is not strong, but can be a force in water battles."
+  },
+  {
+   "id": 299,
+   "text": "A Mollusk Digimon that lives in the deep seas of the network. It is feared as the white devil of the deep seas. Its attacks are powerful and use poison."
+  },
+  {
+   "id": 300,
+   "text": "A Beast Humanoid Digimon that uses a duct on its back to propel itself at the speed of sound. It has power and speed of a beast and wits of a human."
+  },
+  {
+   "id": 301,
+   "text": "A Gigantic Bird Digimon with giant feet. It can't fly but its large body gives it power. It can petrify its opponents, so beware!"
+  },
+  {
+   "id": 302,
+   "text": "A Mamemon-like Mutant Digimon. It emits electricity from its magnet-like body. Moving quickly, it battles using electricity."
+  },
+  {
+   "id": 303,
+   "text": "A Mollusk Digimon that lives in the Internet Sea. It moves between shells like a hermit crab as it grows. It is hostile and boasts high defense."
+  },
+  {
+   "id": 304,
+   "text": "A subspecies of Greymon, this Digimon digivolved in harsh climates making it stronger. It has learned to use fire and special powers."
+  },
+  {
+   "id": 305,
+   "text": "An Aquatic Digimon with a long body like a snake. It wanders the seas and attacks enemies. It's not intelligent but beware of its attacks."
+  },
+  {
+   "id": 306,
+   "text": "A Digimon that was spontaneously generated from scraps of data. It has almost no intelligence or fighting power."
+  },
+  {
+   "id": 307,
+   "text": "A Mutant Digimon found by a computer for space exploration. It is a hero that saved many planets. Its defense is higher than expected."
+  },
+  {
+   "id": 308,
+   "text": "An Angel Digimon resembling a female warrior. It is known as the \"Goddess of the Battlefield\". Its graceful moves unleash powerful attacks."
+  },
+  {
+   "id": 309,
+   "text": "A Dinosaur Digimon infected by a virus. It's a Tyrannomon gone bad. As a result, its power increased but its intelligence decreased."
+  },
+  {
+   "id": 310,
+   "text": "A Dinosaur Digimon that looks like a T-Rex, it lives within a group. Its prized weapons are its arms and tail. Calm and smart, they are easy to tame."
+  },
+  {
+   "id": 311,
+   "text": "A curious Holy Beast Digimon. It is small but protects itself with its claws copied from SaberLeomon. It lacks power but excels in speed."
+  },
+  {
+   "id": 312,
+   "text": "An Evil Dragon Digimon from the Dark Area. It was born from the negative emotions of hackers. Though it lacks wit, its claw attacks are powerful."
+  },
+  {
+   "id": 313,
+   "text": "A Dark Angel Digimon wrapped in shadowy clothes. It was once like Angemon but fell into the Dark Area. It is very smart."
+  },
+  {
+   "id": 314,
+   "text": "A Vegetation Digimon that looks like a giant cactus. It survives in the desert by storing nutritional data in its body. It's tough but very slow."
+  },
+  {
+   "id": 315,
+   "text": "A Reptile Digimon armored with a bladed shell. It is heavy because of its dense body data. Like a turtle, its movements are slow, but its defense is high."
+  },
+  {
+   "id": 316,
+   "text": "A sluglike Mollusk Digimon that lives in moist climates. It throws scrap data to attack. Your Digimon may turn into this if raised incorrectly."
+  },
+  {
+   "id": 317,
+   "text": "A Ghost Digimon born from the Dark Area. It sends viruses at night. Its normal attacks aren't powerful, but be careful of its special attacks."
+  },
+  {
+   "id": 318,
+   "text": "A Gigantic Bird Digimon engulfed in flames. Its heat waves have defeated many who dare face it. Digimon weak against heat must be wary of its power."
+  },
+  {
+   "id": 319,
+   "text": "A big-mouthed, carnivorous Vegetation Digimon. It will eat anything that can fit in its mouth. It won't look for battle since it's not very strong."
+  },
+  {
+   "id": 320,
+   "text": "A Bird Digimon with strong legs. It can't fly, but it's a very fast runner. It's good at utilizing its speed for surprise attacks."
+  },
+  {
+   "id": 321,
+   "text": "A Fire Digimon engulfed in flames. It has an aggressive nature and burns anything it touches. It is weak in icy environments."
+  },
+  {
+   "id": 322,
+   "text": "A furry Rare Animal Digimon that usually lives quietly, not wanting to be disturbed. It is tough, but weak against Fire Digimon."
+  },
+  {
+   "id": 323,
+   "text": "An Armored Dragon Digimon with a horn like a rhino. It is docile, but has a very hard horn longer than half its body. It has very high defense."
+  },
+  {
+   "id": 324,
+   "text": "An Icy Digimon covered in ice and snow. Its slow and cute actions soothe the heart. It is strong, but dislikes battles, and is weak against Meramon."
+  },
+  {
+   "id": 325,
+   "text": "A Composition Digimon with a unicorn's horn to attack and pegasus' wings to fly. It has a temper but once tamed, it is loyal to its owner."
+  },
+  {
+   "id": 326,
+   "text": "Unlike Kyubimon, this nine tailed Mysterious Beast Digimon is feared to bring destruction and decay. It has high TP so beware of its fire attacks."
+  },
+  {
+   "id": 327,
+   "text": "A Beast Digimon that looks like a wild cat engulfed in flames. It lives in hot areas and is adept at using fire attacks. A rival of Garurumon."
+  },
+  {
+   "id": 328,
+   "text": "A decayed, Undead Digimon. Despite being made into a machine to stabilize it, its data is breaking. It lacks thought, but its attacks are powerful."
+  },
+  {
+   "id": 329,
+   "text": "Known as \"Noble Hero\" and \"King of the Beasts\", this Digimon is a source of legends. It knows justice, has a strong will and has high defense and power."
+  },
+  {
+   "id": 330,
+   "text": "A Vegiemon in its true form. It digivolved in harsh conditions, making it very strong. Its red color serves as a warning of the poison it holds."
+  },
+  {
+   "id": 331,
+   "text": "A Dragon Digimon with a blue body that lives in the mountains. Adapting to harsh conditions gave it huge wings for swift flight."
+  },
+  {
+   "id": 332,
+   "text": "A green, Dragon Digimon that digivolved from Dracomon. It is not good at flying, but uses its legs to travel at amazing speeds."
+  },
+  {
+   "id": 333,
+   "text": "A Beast Digimon known as the \"Flying Lion\". It guards a certain ruin in the Digital World. It is adept at fire attacks, and is a charismatic leader."
+  },
+  {
+   "id": 334,
+   "text": "A Beast Humanoid Digimon with amazing jumping ability. It skillfully battles using great speed. There is something mystical about it."
+  },
+  {
+   "id": 335,
+   "text": "A Dark Angel Digimon said to be the digivolved form of a particularly evil Devimon. Highly intelligent, it can freeze opponents with its wings."
+  },
+  {
+   "id": 336,
+   "text": "A Garurumon-like Beast Digimon that lives in the darkness and is very violent. Though it seems to be a Virus, most are actually Vaccine."
+  },
+  {
+   "id": 337,
+   "text": "A Numemon-like Mollusk Digimon. It likes filthy areas. It is not strong, yet its ferocity makes it attack. It will battle endlessly even if it loses."
+  },
+  {
+   "id": 338,
+   "text": "From another Digital World and related to Wizardmon, this Digimon controls the powers of light and ice. It can heal itself with its holy powers."
+  },
+  {
+   "id": 339,
+   "text": "A Kokatorimon-like Bird Digimon that can't fly. Its weapons are powerful legs and flame attacks. It moves rather slowly and is not suited for battle."
+  },
+  {
+   "id": 340,
+   "text": "A Birdramon-like Gigantic Bird Digimon with flaming black wings. It is fierce and difficult to approach. It soars and aims for its prey from the sky."
+  },
+  {
+   "id": 341,
+   "text": "An Icy Digimon covered in ice. It is unknown if it mutated or digivolved from Gotsumon. It has high defense, but is weak against Fire Digimon."
+  },
+  {
+   "id": 342,
+   "text": "A rare Mythical Dragon Digimon. It has amazing power, and when cornered, it becomes even stronger than an Ultimate Digimon."
+  },
+  {
+   "id": 343,
+   "text": "A Digimon known as the \"Crimson Demon.\" It has a violent nature, but depending on how it is raised it may fight for justice."
+  },
+  {
+   "id": 344,
+   "text": "A digivolved version of a Kabuterimon. Its power and defense have become stronger. Its reinforced horn is powerful in battle."
+  },
+  {
+   "id": 345,
+   "text": "Born from the data of ancient life, this Crustacean Digimon has a shell with high defense. It uses its two tentacles and tail blade to attack."
+  },
+  {
+   "id": 346,
+   "text": "A humanoid Digimon. It was built as a prototype of an Android Digimon. It is quite powerful."
+  },
+  {
+   "id": 347,
+   "text": "A Puppet Digimon in a high defense monkey suit. Do not underestimate its powerful attacks. It has high resistence to all attribute based attacks."
+  },
+  {
+   "id": 348,
+   "text": "An Angel Digimon in the form of a beautiful woman. Its 8 wings display its great abilities which give it goddess status in the Digital World."
+  },
+  {
+   "id": 349,
+   "text": "A digivolved version of Kuwagamon. Its destructive impulse made it digivolve. Its defensive power and scissor attacks have been improved."
+  },
+  {
+   "id": 350,
+   "text": "A winged Bird Humanoid Digimon with giant claws. Its size does not prevent it from moving quick with powerful attacks. It loves nature and protects it."
+  },
+  {
+   "id": 351,
+   "text": "A Mutant Digimon evolved from a desktop trashcan. It has a black hole which traps all that goes in. It leads filth Digimon, but is weak itself."
+  },
+  {
+   "id": 352,
+   "text": "This Android Digimon wears special rubber armor which can withstand any attack and also makes it more powerful."
+  },
+  {
+   "id": 353,
+   "text": "A Vegetation Digimon that digivolved from a Woodmon. As \"King of the Forest\", it casts illusions on those entering its forest. It is slow, but tough."
+  },
+  {
+   "id": 354,
+   "text": "A skeletal Undead Digimon. It has no intelligence and has only the instinct to fight. It moves slowly but has powerful special attacks."
+  },
+  {
+   "id": 355,
+   "text": "A digivolved Ikkakumon that smashes its foe with Vulcan's Hammer made of chrome Digizoid. Its toned body gives it strong attack and defense."
+  },
+  {
+   "id": 356,
+   "text": "A Digimon born from a boat's computer virus. Though it looks humanoid, it is a digivolved Mollusk Digimon. It attacks using its powerful tentacles."
+  },
+  {
+   "id": 357,
+   "text": "A Fire Digimon digivolved from Meramon. Its blue flame now has more power. It still has its weakness, but its attack and defense increased."
+  },
+  {
+   "id": 358,
+   "text": "A Bird Digimon with a plant growing out of its back. An odd fruit can be found growing on it. Since it can't fly, it is slow, but has strong attacks."
+  },
+  {
+   "id": 359,
+   "text": "A digivolved Gekomon resembling a shogun. This Amphibian Digimon plays music with its horns and attacks with its voice. It is slow, but tough."
+  },
+  {
+   "id": 360,
+   "text": "A calm, Horned Dragon Digimon that can destroy obstacles with its three horns. Its skin is as tough as metal and provides a strong defense."
+  },
+  {
+   "id": 361,
+   "text": "A Warrior Digimon wearing chrome Digizoid armor. Once it finds a lord, it stays loyal to the end. A power fighter, it uses a sword as tall as itself."
+  },
+  {
+   "id": 362,
+   "text": "A parrot-like Gigantic Bird Digimon that came from a rift in time and space. Smart and hating conflict, it can use its claws and speed if needed."
+  },
+  {
+   "id": 363,
+   "text": "A Digimon wearing a wetsuit. It swims quickly using the motor on its back. Strong in water battles, but weak on land."
+  },
+  {
+   "id": 364,
+   "text": "A panda-like Puppet Digimon with a sour nature and charmless actions. It doesn't look strong, but its powerful blows have defeated many Digimon."
+  },
+  {
+   "id": 365,
+   "text": "A Mutant Digimon that is larger than Mamemon. It acts as the leader of the small Mamemon who follow it. Its large size helps against attacks."
+  },
+  {
+   "id": 366,
+   "text": "A Pixie Digimon that uses magic. It's small, but can seal its opponent's powers. Its quick moves and abilities are its strengths."
+  },
+  {
+   "id": 367,
+   "text": "A Ghost Digimon that looks like the Grim Reaper. It is feared as a high level ghost that brings death. It uses its scythe for its special attack."
+  },
+  {
+   "id": 368,
+   "text": "An Alien Digimon from outer space. Its origins are unknown. It unleashes a mysterious attack. As its large head indicates, it is highly intelligent."
+  },
+  {
+   "id": 369,
+   "text": "A Sea Mammal Digimon that is comprised of data that even a super computer can't process. It is the toughest Digimon of them all."
+  },
+  {
+   "id": 370,
+   "text": "A High Angel Digimon with 8 silver wings. It is the representative of Light that keeps public order. Well-balanced in speed, attack and defense."
+  },
+  {
+   "id": 371,
+   "text": "An Android Digimon digivolved from GaoGamon. It can exceed the speed of sound with its rocket engine and is good at hit-and-run attacks."
+  },
+  {
+   "id": 372,
+   "text": "A Mutant Digimon that looks like a bomb. It may look cute, but it uses its speed and huge bombs as weapons to attack."
+  },
+  {
+   "id": 373,
+   "text": "An Ancient Beast Digimon said to have existed eons ago. It emerged from the ice due to global warming. It is powerful and tough, but is weak against heat."
+  },
+  {
+   "id": 374,
+   "text": "Countless battles have made Seadramon digivolve into this Aquatic Digimon. It is bigger with a blade on its head capable of generating electricity."
+  },
+  {
+   "id": 375,
+   "text": "A modified Android Digimon with amazing power. It contains a program to destroy all. Both its arms have unstoppable power."
+  },
+  {
+   "id": 376,
+   "text": "As a mechanized Greymon, this Android Digimon's digivolution process is incomplete, but it still has attacks reminiscent of nuclear blasts."
+  },
+  {
+   "id": 377,
+   "text": "A completely digivolved Greymon, this Android Digimon's mechanized body surpasses all of Greymon's abilities. It boasts power and toughness."
+  },
+  {
+   "id": 378,
+   "text": "An Android Digimon modified for ground counterattacks. It deflects attacks and has powerful jaws to crush opponent's armor."
+  },
+  {
+   "id": 379,
+   "text": "A Puppet Digimon that looks like a teddy bear. Though it has a mean look, its overflowing love brings joy. Its fluffy body has high defense."
+  },
+  {
+   "id": 380,
+   "text": "A Mysterious Bird Digimon that looks like a crow with 3 legs. It looks evil, but is said to be the guide to El Dorado. Be wary of its quick claws."
+  },
+  {
+   "id": 381,
+   "text": "An Android Digimon similar to MetalGreymon. The revolver on its left hand can be fired or used in combat. It's mechanized, heavily armed and fast."
+  },
+  {
+   "id": 382,
+   "text": "An Android Digimon that digivolved from Gargomon. It has very accurate attacks and its speed has increased."
+  },
+  {
+   "id": 383,
+   "text": "A Pixie Digimon born from a flower. It flies using its 4 wings and can trail a nice breeze with them. It looks like a child, but it hides great power."
+  },
+  {
+   "id": 384,
+   "text": "A female Dark Angel Digimon of a noble figure in the dark world. She has many followers and attacks using her dark powers. "
+  },
+  {
+   "id": 385,
+   "text": "A Monzaemon-like, evil-looking Puppet Digimon. It is equipped with a bear claw and a tough fluffy body."
+  },
+  {
+   "id": 386,
+   "text": "A Beast Humanoid Digimon digivolved from Garurumon. It has lost its speed, but its attack and defense have improved. A very good partner to have on a team."
+  },
+  {
+   "id": 387,
+   "text": "A Beast Humanoid Digimon digivolved into a Virus from Garurumon. Its abilities are the same as its Vaccine counterpart, but its kick attack is powerful."
+  },
+  {
+   "id": 388,
+   "text": "A Dragon Digimon with huge wings. It spends most of its time airborne, and can fly at Mach 20! Few Digimon can survive an aerial battle with it."
+  },
+  {
+   "id": 389,
+   "text": "A deadly Dragon Digimon that has a large arm on its back which is said to have evolved from wings. Very fierce, most all who face it have fallen."
+  },
+  {
+   "id": 390,
+   "text": "A Beast Humanoid Digimon with a magnificent mane. Like Leomon, it will do anything for its ally. It uses many types of flame attacks."
+  },
+  {
+   "id": 391,
+   "text": "This graceful Digimon uses a unique weapon during battle. Its attack power is said to double when it absorbs the light from the moon. It's very quick."
+  },
+  {
+   "id": 392,
+   "text": "A Mutant Digimon from Starmon. It hides itself with sunglasses. Its defense is high, and its charisma has brought out potential for leadership."
+  },
+  {
+   "id": 393,
+   "text": "A Rapidmon capable of night fighting. Its color is now black so it can easily hide in the darkness. It's quick and has strong attacks."
+  },
+  {
+   "id": 394,
+   "text": "A Fire Digimon burning at extremely high temperatures. It wants to burn anything it touches. It is hotter than Meramon, so it is not affected by cold."
+  },
+  {
+   "id": 395,
+   "text": "A Beast Humanoid Digimon, and ruler of the permafrost land. The morning star \"Mjollnir\" on its back can destroy a mountain in one blow."
+  },
+  {
+   "id": 396,
+   "text": "A Warrior Digimon that appears in folk tales. It is said to recycle data of defeated war heroes into DigiEggs. It is quick, attacking like a gale."
+  },
+  {
+   "id": 397,
+   "text": "A Dragon Humanoid Digimon in chrome Digizoid armor. It is slim-like in appearance, but its strength far exceeds any Mega Digimon."
+  },
+  {
+   "id": 398,
+   "text": "A secretly created Android Digimon. It is an improved MetalSeadramon with better defense and attacks. It is very dangerous when faced in the water."
+  },
+  {
+   "id": 399,
+   "text": "A Mega Kuwagamon that lives deep in the woods and is considered one of the most dangerous Insectoid Digimon with its powerful attacks."
+  },
+  {
+   "id": 400,
+   "text": "A Mythical Beast Digimon which is part bird, beast, and snake. It is quick and strong and has huge wings. It lives in the desert and mountainous areas."
+  },
+  {
+   "id": 401,
+   "text": "A Digimon in highly protective chrome Digizoid armor. It is said to be a digivolved Parrotmon. It attacks by charging its enemy."
+  },
+  {
+   "id": 402,
+   "text": "An Ancient Beast Digimon said to be an ancestor of Leomon. It can move at mach speed and attacks with its fierce fangs and claws."
+  },
+  {
+   "id": 403,
+   "text": "A Shining Dragon Digimon which uses solar energy. It looks like a huge humanoid robot. It has numerous close range and long range attacks."
+  },
+  {
+   "id": 404,
+   "text": "A skeletal Undead Mammothmon infected by a virus. It holds a grudge against the virus that killed it. It is very tough, but not very smart."
+  },
+  {
+   "id": 405,
+   "text": "A heavily armed Machine Digimon. It is armed with many weapons and can attack in any direction, but it is rather slow."
+  },
+  {
+   "id": 406,
+   "text": "An improved Andromon. Its body is made of chrome Digizoid that gives it much higher attack and defense."
+  },
+  {
+   "id": 407,
+   "text": "A Beast Humanoid Digimon loyal to its own sense of justice. Only the victorious can become one. Good with defense and close range combat."
+  },
+  {
+   "id": 408,
+   "text": "A Digimon that looks like a clown. It shows up unexpectedly and without reason. It is very powerful despite its appearance."
+  },
+  {
+   "id": 409,
+   "text": "A Digimon created from a cursed Cherrymon. It is shaped like a puppet. Beware of the hammer it wields."
+  },
+  {
+   "id": 410,
+   "text": "A Digimon that held absolute power in the ancient Digital World. It is not very powerful, but its special attacks are strong."
+  },
+  {
+   "id": 411,
+   "text": "A Mutant Digimon born from a computer virus created by a hacker. It is small but has one of the most defiant natures in the Digital World."
+  },
+  {
+   "id": 412,
+   "text": "This greatly feared \"Black Draconian Knight\" hates cowards despite its dark side. It won't associate with unrefined Virus Digimon."
+  },
+  {
+   "id": 413,
+   "text": "A Mutant Digimon created with Royal data. This \"Prince\" of Mamemon wears a cape and crown. Despite its look, it has a deadly special attack."
+  },
+  {
+   "id": 414,
+   "text": "A Digimon found in a computer researching unknown species. It is strong in water battles and takes advantage of its large size."
+  },
+  {
+   "id": 415,
+   "text": "A Mega Insectoid Digimon created by data from Kabuterimon and Kuwagamon. It has both high defense and attack capabilities."
+  },
+  {
+   "id": 416,
+   "text": "A Holy Beast Digimon with 4 golden wings. It is the epitome of Holy and Bird Digimon with powerful abilities. Its special attack is powerful."
+  },
+  {
+   "id": 417,
+   "text": "A Beast Knight Digimon that looks like a knight in a red cape. It is covered in chrome Digizoid armor and fights with many swift attacks."
+  },
+  {
+   "id": 418,
+   "text": "Made from Android Digimon parts, this Digimon is said to be the strongest in the Digital World. Its power overwhelms all other Digimon."
+  },
+  {
+   "id": 419,
+   "text": "An Android Digimon digivolved from Etemon. It excels in defense against both physical and attribute attacks thanks to its chrome Digizoid."
+  },
+  {
+   "id": 420,
+   "text": "This metallic form of Garurumon can now fly. Its whole body is filled with weapons, and few Digimon can escape from it."
+  },
+  {
+   "id": 421,
+   "text": "The Virus MetalGarurumon. Its whole body is filled with weapons and it fires missiles blindly at opponents."
+  },
+  {
+   "id": 422,
+   "text": "An Aquatic Digimon in a chrome Digizoid body that deflects various attacks. It is the fastest Digimon under water and never lets prey escape."
+  },
+  {
+   "id": 423,
+   "text": "Called \"Queen of Flowers\", this rose-shaped Digimon has a female form and dons a Tifaret jewel. It is a balanced fighter with grace and beauty."
+  },
+  {
+   "id": 424,
+   "text": "An Android Digimon that is equipped with the Zeed Cannon. It is an offshoot of MetalGarurumon and specializes in attacks."
+  },
+  {
+   "id": 425,
+   "text": "\"The Great Dragon Warrior\". It wears chrome Digizoid armor and is an offshoot of WarGreymon. It is a powerful fighter."
+  },
+  {
+   "id": 426,
+   "text": "A Dragon Humanoid Digimon wearing full-body armor. This form can only be achieved by Dragon Digimon that complete special training."
+  },
+  {
+   "id": 427,
+   "text": "A machine Dragon Digimon that has assimilated various data from heavy construction equipment. It is feared as the ultimate destructive dragon."
+  },
+  {
+   "id": 428,
+   "text": "A Deity Digimon that can control nature. Its flame abilities are so powerful they can melt through anything. It is a very defensive fighter."
+  },
+  {
+   "id": 429,
+   "text": "A Deity Digimon that can control nature. It rules ice and water and can fight in absolute zero temperatures. Its speedy attacks are deadly."
+  },
+  {
+   "id": 430,
+   "text": "An Ancient Dragon Digimon that existed in ancient times. It is one of the greatest Digimon with its amazing power and high intelligence. "
+  },
+  {
+   "id": 431,
+   "text": "The highest ranked Holy Knight Digimon. It wears chrome Digizoid armor and has a spear in its right hand and a shield in its left. It is very chivalrous."
+  },
+  {
+   "id": 432,
+   "text": "Howling Blow"
+  },
+  {
+   "id": 433,
+   "text": "Froth"
+  },
+  {
+   "id": 434,
+   "text": "Tackle"
+  },
+  {
+   "id": 435,
+   "text": "Tackle"
+  },
+  {
+   "id": 436,
+   "text": "Bite"
+  },
+  {
+   "id": 437,
+   "text": "Tail Whip"
+  },
+  {
+   "id": 438,
+   "text": "Tackle"
+  },
+  {
+   "id": 439,
+   "text": "Flower Bubbles"
+  },
+  {
+   "id": 440,
+   "text": "Froth Bubbles"
+  },
+  {
+   "id": 441,
+   "text": "Flame Shot"
+  },
+  {
+   "id": 442,
+   "text": "Elastic Froth"
+  },
+  {
+   "id": 443,
+   "text": "Hot Steam"
+  },
+  {
+   "id": 444,
+   "text": "Starlight"
+  },
+  {
+   "id": 445,
+   "text": "Dark Burst"
+  },
+  {
+   "id": 446,
+   "text": "Pepper Breath"
+  },
+  {
+   "id": 447,
+   "text": "Spitfire Blast"
+  },
+  {
+   "id": 448,
+   "text": "Scratch"
+  },
+  {
+   "id": 449,
+   "text": "Diamond Shell"
+  },
+  {
+   "id": 450,
+   "text": "Super Thunder Strike"
+  },
+  {
+   "id": 451,
+   "text": "Stun Bubble"
+  },
+  {
+   "id": 452,
+   "text": "Rolling Upper"
+  },
+  {
+   "id": 453,
+   "text": "Double Back Hand"
+  },
+  {
+   "id": 454,
+   "text": "Gao Rush"
+  },
+  {
+   "id": 455,
+   "text": "Electric Stun Blast"
+  },
+  {
+   "id": 456,
+   "text": "Blue Blaster"
+  },
+  {
+   "id": 457,
+   "text": "Petit Fire Hook"
+  },
+  {
+   "id": 458,
+   "text": "Pointer Arrow"
+  },
+  {
+   "id": 459,
+   "text": "Met Tackle"
+  },
+  {
+   "id": 460,
+   "text": "Spiral Saw"
+  },
+  {
+   "id": 461,
+   "text": "Bonfire"
+  },
+  {
+   "id": 462,
+   "text": "Electric Thread"
+  },
+  {
+   "id": 463,
+   "text": "Rock Fist"
+  },
+  {
+   "id": 464,
+   "text": "Goburi Strike"
+  },
+  {
+   "id": 465,
+   "text": "Marching Fishes"
+  },
+  {
+   "id": 466,
+   "text": "Bunny Blast"
+  },
+  {
+   "id": 467,
+   "text": "Blazing Fire"
+  },
+  {
+   "id": 468,
+   "text": "Super Shocker"
+  },
+  {
+   "id": 469,
+   "text": "Toy Flame"
+  },
+  {
+   "id": 470,
+   "text": "Baby Breath"
+  },
+  {
+   "id": 471,
+   "text": "Tail Smash"
+  },
+  {
+   "id": 472,
+   "text": "G Shurunen"
+  },
+  {
+   "id": 473,
+   "text": "Walking Dream"
+  },
+  {
+   "id": 474,
+   "text": "Darkness Gear"
+  },
+  {
+   "id": 475,
+   "text": "Wing Slap"
+  },
+  {
+   "id": 476,
+   "text": "Boom Bubble"
+  },
+  {
+   "id": 477,
+   "text": "Poison Ivy"
+  },
+  {
+   "id": 478,
+   "text": "Demi Dart"
+  },
+  {
+   "id": 479,
+   "text": "Spiral Twister"
+  },
+  {
+   "id": 480,
+   "text": "Scratch Smash"
+  },
+  {
+   "id": 481,
+   "text": "Falco Rush"
+  },
+  {
+   "id": 482,
+   "text": "Ninja Blade"
+  },
+  {
+   "id": 483,
+   "text": "Puppy Howling"
+  },
+  {
+   "id": 484,
+   "text": "Rain of Pollen"
+  },
+  {
+   "id": 485,
+   "text": "Fungus Cruncher"
+  },
+  {
+   "id": 486,
+   "text": "Little Blizzard"
+  },
+  {
+   "id": 487,
+   "text": "Leaf Blade"
+  },
+  {
+   "id": 488,
+   "text": "Coro-Knuckle"
+  },
+  {
+   "id": 489,
+   "text": "Corona Flame"
+  },
+  {
+   "id": 490,
+   "text": "Petit Prominence"
+  },
+  {
+   "id": 491,
+   "text": "Luna Claw"
+  },
+  {
+   "id": 492,
+   "text": "Tear Shot"
+  },
+  {
+   "id": 493,
+   "text": "Lop Ear Ripple"
+  },
+  {
+   "id": 494,
+   "text": "Spit Fire"
+  },
+  {
+   "id": 495,
+   "text": "Pepper Breath"
+  },
+  {
+   "id": 496,
+   "text": "Colored Sparkle"
+  },
+  {
+   "id": 497,
+   "text": "Psyche Horn"
+  },
+  {
+   "id": 498,
+   "text": "Nemesis Ivy"
+  },
+  {
+   "id": 499,
+   "text": "Purple Fog"
+  },
+  {
+   "id": 500,
+   "text": "Soft Attack"
+  },
+  {
+   "id": 501,
+   "text": "Vee Head Butt"
+  },
+  {
+   "id": 502,
+   "text": "Gyral Punch"
+  },
+  {
+   "id": 503,
+   "text": "Pyrosphere"
+  },
+  {
+   "id": 504,
+   "text": "Rock Breaker"
+  },
+  {
+   "id": 505,
+   "text": "Fire Mitt"
+  },
+  {
+   "id": 506,
+   "text": "Megaton Press"
+  },
+  {
+   "id": 507,
+   "text": "Tail Hammer"
+  },
+  {
+   "id": 508,
+   "text": "Harpoon Torpedo"
+  },
+  {
+   "id": 509,
+   "text": "Thundercloud"
+  },
+  {
+   "id": 510,
+   "text": "Twig Tap"
+  },
+  {
+   "id": 511,
+   "text": "Tornado"
+  },
+  {
+   "id": 512,
+   "text": "Spinning Needle　"
+  },
+  {
+   "id": 513,
+   "text": "Hand of Fate"
+  },
+  {
+   "id": 514,
+   "text": "Pummel Whack"
+  },
+  {
+   "id": 515,
+   "text": "Dash Double Claw"
+  },
+  {
+   "id": 516,
+   "text": "Gaoga Hound"
+  },
+  {
+   "id": 517,
+   "text": "Spiral Blow"
+  },
+  {
+   "id": 518,
+   "text": "Electro Shocker"
+  },
+  {
+   "id": 519,
+   "text": "Bunny Pummel"
+  },
+  {
+   "id": 520,
+   "text": "Bunny Upper"
+  },
+  {
+   "id": 521,
+   "text": "Howling Blaster"
+  },
+  {
+   "id": 522,
+   "text": "Howling Blaster"
+  },
+  {
+   "id": 523,
+   "text": "Protect Grenade"
+  },
+  {
+   "id": 524,
+   "text": "Pummel Peck"
+  },
+  {
+   "id": 525,
+   "text": "Will O' Wisp Ball"
+  },
+  {
+   "id": 526,
+   "text": "Fox Tail Inferno"
+  },
+  {
+   "id": 527,
+   "text": "Mega Flame"
+  },
+  {
+   "id": 528,
+   "text": "Horn Impulse"
+  },
+  {
+   "id": 529,
+   "text": "Chrono Breaker"
+  },
+  {
+   "id": 530,
+   "text": "Scissor Claw"
+  },
+  {
+   "id": 531,
+   "text": "Symphony Crusher"
+  },
+  {
+   "id": 532,
+   "text": "Coral Crusher"
+  },
+  {
+   "id": 533,
+   "text": "Devil Bashing"
+  },
+  {
+   "id": 534,
+   "text": "Solar Ray"
+  },
+  {
+   "id": 535,
+   "text": "Frozen Fire Shot"
+  },
+  {
+   "id": 536,
+   "text": "Thunder Ball"
+  },
+  {
+   "id": 537,
+   "text": "Hydro Blaster"
+  },
+  {
+   "id": 538,
+   "text": "Mega Flame"
+  },
+  {
+   "id": 539,
+   "text": "Mega Burst"
+  },
+  {
+   "id": 540,
+   "text": "Horn Impulse"
+  },
+  {
+   "id": 541,
+   "text": "Constriction"
+  },
+  {
+   "id": 542,
+   "text": "Ice Blast"
+  },
+  {
+   "id": 543,
+   "text": "Compost Bomber"
+  },
+  {
+   "id": 544,
+   "text": "Halley's Squall"
+  },
+  {
+   "id": 545,
+   "text": "Dancing Sword"
+  },
+  {
+   "id": 546,
+   "text": "Fire Blast"
+  },
+  {
+   "id": 547,
+   "text": "Blaze Blast"
+  },
+  {
+   "id": 548,
+   "text": "Lightning Paw"
+  },
+  {
+   "id": 549,
+   "text": "Feline's Eye"
+  },
+  {
+   "id": 550,
+   "text": "Crimson Claw"
+  },
+  {
+   "id": 551,
+   "text": "The Touch of Evil"
+  },
+  {
+   "id": 552,
+   "text": "Needle Spray"
+  },
+  {
+   "id": 553,
+   "text": "Strong Carapace"
+  },
+  {
+   "id": 554,
+   "text": "Compost Bomber"
+  },
+  {
+   "id": 555,
+   "text": "Night Claw"
+  },
+  {
+   "id": 556,
+   "text": "Death Charm"
+  },
+  {
+   "id": 557,
+   "text": "Meteor Wing"
+  },
+  {
+   "id": 558,
+   "text": "Compost Bomber"
+  },
+  {
+   "id": 559,
+   "text": "Spiral Claw"
+  },
+  {
+   "id": 560,
+   "text": "Kunai Wing"
+  },
+  {
+   "id": 561,
+   "text": "Thousand Beaks"
+  },
+  {
+   "id": 562,
+   "text": "Fireball"
+  },
+  {
+   "id": 563,
+   "text": "Ice Cloud"
+  },
+  {
+   "id": 564,
+   "text": "Bone Boomerang"
+  },
+  {
+   "id": 565,
+   "text": "Tomahawk Slash"
+  },
+  {
+   "id": 566,
+   "text": "Volcanic Strike"
+  },
+  {
+   "id": 567,
+   "text": "Absolute Zero Ice Punch"
+  },
+  {
+   "id": 568,
+   "text": "Aerial Attack"
+  },
+  {
+   "id": 569,
+   "text": "Tail Flame"
+  },
+  {
+   "id": 570,
+   "text": "Jaenryu"
+  },
+  {
+   "id": 571,
+   "text": "Howling Buster"
+  },
+  {
+   "id": 572,
+   "text": "Slime Pelter"
+  },
+  {
+   "id": 573,
+   "text": "Fist of the Beast King"
+  },
+  {
+   "id": 574,
+   "text": "Rotten Rainballs"
+  },
+  {
+   "id": 575,
+   "text": "Blue Flare Breath"
+  },
+  {
+   "id": 576,
+   "text": "Strike Bomber"
+  },
+  {
+   "id": 577,
+   "text": "G Shurunen-II"
+  },
+  {
+   "id": 578,
+   "text": "Green Flare Breath"
+  },
+  {
+   "id": 579,
+   "text": "Strike Bomber"
+  },
+  {
+   "id": 580,
+   "text": "G Shurunen-II"
+  },
+  {
+   "id": 581,
+   "text": "Flame Dive"
+  },
+  {
+   "id": 582,
+   "text": "Fira Claw"
+  },
+  {
+   "id": 583,
+   "text": "Fira Bomb"
+  },
+  {
+   "id": 584,
+   "text": "Moon Night Bomb"
+  },
+  {
+   "id": 585,
+   "text": "Tear Arrow"
+  },
+  {
+   "id": 586,
+   "text": "Moon Night Kick"
+  },
+  {
+   "id": 587,
+   "text": "Frost Claw"
+  },
+  {
+   "id": 588,
+   "text": "Zero Freeze"
+  },
+  {
+   "id": 589,
+   "text": "Chaos Blaster"
+  },
+  {
+   "id": 590,
+   "text": "Killer Bite"
+  },
+  {
+   "id": 591,
+   "text": "Compost Bomber"
+  },
+  {
+   "id": 592,
+   "text": "Crystal Cloud"
+  },
+  {
+   "id": 593,
+   "text": "Ice Illusion"
+  },
+  {
+   "id": 594,
+   "text": "Chicken Red Eyes"
+  },
+  {
+   "id": 595,
+   "text": "Black Saber"
+  },
+  {
+   "id": 596,
+   "text": "Night Roar"
+  },
+  {
+   "id": 597,
+   "text": "Iceball Bomb"
+  },
+  {
+   "id": 598,
+   "text": "V-Nova Blast"
+  },
+  {
+   "id": 599,
+   "text": "Magnum Punch"
+  },
+  {
+   "id": 600,
+   "text": "Plasma Blade"
+  },
+  {
+   "id": 601,
+   "text": "Pyro Blaster"
+  },
+  {
+   "id": 602,
+   "text": "Raiden Blade"
+  },
+  {
+   "id": 603,
+   "text": "Horn Buster"
+  },
+  {
+   "id": 604,
+   "text": "Electro Shocker"
+  },
+  {
+   "id": 605,
+   "text": "Stinger Surprise"
+  },
+  {
+   "id": 606,
+   "text": "Tail Blade"
+  },
+  {
+   "id": 607,
+   "text": "Gatling Missile"
+  },
+  {
+   "id": 608,
+   "text": "Lightning Blade"
+  },
+  {
+   "id": 609,
+   "text": "DarkNetwork&C.Crush"
+  },
+  {
+   "id": 610,
+   "text": "Dark Spirits"
+  },
+  {
+   "id": 611,
+   "text": "Celestial Arrow"
+  },
+  {
+   "id": 612,
+   "text": "Heaven's Charm"
+  },
+  {
+   "id": 613,
+   "text": "Double Scissor Claw"
+  },
+  {
+   "id": 614,
+   "text": "Destructive Impulse"
+  },
+  {
+   "id": 615,
+   "text": "Wing Blade"
+  },
+  {
+   "id": 616,
+   "text": "Fire Hurricane"
+  },
+  {
+   "id": 617,
+   "text": "Junk Chunker"
+  },
+  {
+   "id": 618,
+   "text": "Dirty Saucer"
+  },
+  {
+   "id": 619,
+   "text": "Erase Claw"
+  },
+  {
+   "id": 620,
+   "text": "Cyber Nail"
+  },
+  {
+   "id": 621,
+   "text": "Pit Pelter"
+  },
+  {
+   "id": 622,
+   "text": "Vine Attack"
+  },
+  {
+   "id": 623,
+   "text": "Dark Shot"
+  },
+  {
+   "id": 624,
+   "text": "Cursed Breath"
+  },
+  {
+   "id": 625,
+   "text": "Vulcan's Hammer"
+  },
+  {
+   "id": 626,
+   "text": "Glacial Spear"
+  },
+  {
+   "id": 627,
+   "text": "Tentacle Claw"
+  },
+  {
+   "id": 628,
+   "text": "Thousand Whips"
+  },
+  {
+   "id": 629,
+   "text": "Metal Fireball"
+  },
+  {
+   "id": 630,
+   "text": "Heat Chain"
+  },
+  {
+   "id": 631,
+   "text": "Royal Smasher"
+  },
+  {
+   "id": 632,
+   "text": "Gorgeous Beak"
+  },
+  {
+   "id": 633,
+   "text": "Musical Fist"
+  },
+  {
+   "id": 634,
+   "text": "Symphony Crusher"
+  },
+  {
+   "id": 635,
+   "text": "Tri-horn Attack"
+  },
+  {
+   "id": 636,
+   "text": "Golden Tri-horn Attack"
+  },
+  {
+   "id": 637,
+   "text": "Berserk Sword"
+  },
+  {
+   "id": 638,
+   "text": "Grand Smash"
+  },
+  {
+   "id": 639,
+   "text": "Sonic Destroyer"
+  },
+  {
+   "id": 640,
+   "text": "Mjollnir Lightning"
+  },
+  {
+   "id": 641,
+   "text": "Striking Fish"
+  },
+  {
+   "id": 642,
+   "text": "Abyss Dive"
+  },
+  {
+   "id": 643,
+   "text": "Animal Nail"
+  },
+  {
+   "id": 644,
+   "text": "Bamboo Punch"
+  },
+  {
+   "id": 645,
+   "text": "Big Smiley Bomb"
+  },
+  {
+   "id": 646,
+   "text": "Buster Dive"
+  },
+  {
+   "id": 647,
+   "text": "Pit Bomb"
+  },
+  {
+   "id": 648,
+   "text": "Fairy Tale"
+  },
+  {
+   "id": 649,
+   "text": "Shadow Scythe"
+  },
+  {
+   "id": 650,
+   "text": "Words of Death"
+  },
+  {
+   "id": 651,
+   "text": "Unidentified Flying Kiss"
+  },
+  {
+   "id": 652,
+   "text": "Abduction Beam"
+  },
+  {
+   "id": 653,
+   "text": "Tidal Wave"
+  },
+  {
+   "id": 654,
+   "text": "Blasting Spout"
+  },
+  {
+   "id": 655,
+   "text": "Excalibur"
+  },
+  {
+   "id": 656,
+   "text": "The Gate of Destiny"
+  },
+  {
+   "id": 657,
+   "text": "Gaoga Tornade"
+  },
+  {
+   "id": 658,
+   "text": "Winning Knuckle"
+  },
+  {
+   "id": 659,
+   "text": "Howling Cannon"
+  },
+  {
+   "id": 660,
+   "text": "Smiley Bomb"
+  },
+  {
+   "id": 661,
+   "text": "Buster Dive"
+  },
+  {
+   "id": 662,
+   "text": "Tusk Crusher"
+  },
+  {
+   "id": 663,
+   "text": "Tundra Breath"
+  },
+  {
+   "id": 664,
+   "text": "Lightning Javelin"
+  },
+  {
+   "id": 665,
+   "text": "Maelstrom"
+  },
+  {
+   "id": 666,
+   "text": "Darkside Attack"
+  },
+  {
+   "id": 667,
+   "text": "Ultimate Slicer"
+  },
+  {
+   "id": 668,
+   "text": "Giga Blaster"
+  },
+  {
+   "id": 669,
+   "text": "Trident Arm"
+  },
+  {
+   "id": 670,
+   "text": "Giga Blaster"
+  },
+  {
+   "id": 671,
+   "text": "Trident Arm"
+  },
+  {
+   "id": 672,
+   "text": "Giga Blaster II"
+  },
+  {
+   "id": 673,
+   "text": "Nuclear Laser"
+  },
+  {
+   "id": 674,
+   "text": "Hearts Attack"
+  },
+  {
+   "id": 675,
+   "text": "Gyral Punch"
+  },
+  {
+   "id": 676,
+   "text": "Savage Emperor"
+  },
+  {
+   "id": 677,
+   "text": "Blackout"
+  },
+  {
+   "id": 678,
+   "text": "Trident Revolver"
+  },
+  {
+   "id": 679,
+   "text": "Rising Destroyer"
+  },
+  {
+   "id": 680,
+   "text": "Solid Strike"
+  },
+  {
+   "id": 681,
+   "text": "Rapid Fire"
+  },
+  {
+   "id": 682,
+   "text": "Golden Triangle"
+  },
+  {
+   "id": 683,
+   "text": "Flower Cannon"
+  },
+  {
+   "id": 684,
+   "text": "Fairy Vine"
+  },
+  {
+   "id": 685,
+   "text": "Darkness Wave"
+  },
+  {
+   "id": 686,
+   "text": "Poison Spray"
+  },
+  {
+   "id": 687,
+   "text": "Hearts Break Attack"
+  },
+  {
+   "id": 688,
+   "text": "Bear Claw"
+  },
+  {
+   "id": 689,
+   "text": "Wolf Claw"
+  },
+  {
+   "id": 690,
+   "text": "Howling Blaster"
+  },
+  {
+   "id": 691,
+   "text": "Wolf Claw"
+  },
+  {
+   "id": 692,
+   "text": "Garuru Kick"
+  },
+  {
+   "id": 693,
+   "text": "Blaze Sonic Breath"
+  },
+  {
+   "id": 694,
+   "text": "Exploding Sonic Breath"
+  },
+  {
+   "id": 695,
+   "text": "Wing Blast"
+  },
+  {
+   "id": 696,
+   "text": "Scrap Claw"
+  },
+  {
+   "id": 697,
+   "text": "Megaton Hammer Crush"
+  },
+  {
+   "id": 698,
+   "text": "Giga Crack"
+  },
+  {
+   "id": 699,
+   "text": "Guren Juuouha"
+  },
+  {
+   "id": 700,
+   "text": "Kurenai Shishinomai"
+  },
+  {
+   "id": 701,
+   "text": "Purifying Howl"
+  },
+  {
+   "id": 702,
+   "text": "Lunatic Dance"
+  },
+  {
+   "id": 703,
+   "text": "Ice Archery"
+  },
+  {
+   "id": 704,
+   "text": "Dark Archery"
+  },
+  {
+   "id": 705,
+   "text": "Halley's Squall"
+  },
+  {
+   "id": 706,
+   "text": "Superstar Upper"
+  },
+  {
+   "id": 707,
+   "text": "Rapid Fire"
+  },
+  {
+   "id": 708,
+   "text": "Golden Triangle"
+  },
+  {
+   "id": 709,
+   "text": "Ice Phantom"
+  },
+  {
+   "id": 710,
+   "text": "Cold Flame"
+  },
+  {
+   "id": 711,
+   "text": "Arctic Blizzard"
+  },
+  {
+   "id": 712,
+   "text": "Mjollnir"
+  },
+  {
+   "id": 713,
+   "text": "Feral Sword"
+  },
+  {
+   "id": 714,
+   "text": "Aurvandil's Arrow"
+  },
+  {
+   "id": 715,
+   "text": "Terra Force"
+  },
+  {
+   "id": 716,
+   "text": "Iron Claws"
+  },
+  {
+   "id": 717,
+   "text": "Giga Sea Destroyer"
+  },
+  {
+   "id": 718,
+   "text": "Sky Wave"
+  },
+  {
+   "id": 719,
+   "text": "Dimension Scissors"
+  },
+  {
+   "id": 720,
+   "text": "Grand Death Screw"
+  },
+  {
+   "id": 721,
+   "text": "Legendary Blade"
+  },
+  {
+   "id": 722,
+   "text": "Mobius Bite"
+  },
+  {
+   "id": 723,
+   "text": "Phoenix Claw"
+  },
+  {
+   "id": 724,
+   "text": "Mystic Break"
+  },
+  {
+   "id": 725,
+   "text": "Howling Crusher"
+  },
+  {
+   "id": 726,
+   "text": "Infinity Arrow"
+  },
+  {
+   "id": 727,
+   "text": "Glorious Burst"
+  },
+  {
+   "id": 728,
+   "text": "Shining Blast"
+  },
+  {
+   "id": 729,
+   "text": "Geogrey Sword"
+  },
+  {
+   "id": 730,
+   "text": "Spiral Bone Crusher"
+  },
+  {
+   "id": 731,
+   "text": "Grand Charge"
+  },
+  {
+   "id": 732,
+   "text": "Burst Shot"
+  },
+  {
+   "id": 733,
+   "text": "Magna Blaster"
+  },
+  {
+   "id": 734,
+   "text": "Atomic Ray"
+  },
+  {
+   "id": 735,
+   "text": "Lightning Blade"
+  },
+  {
+   "id": 736,
+   "text": "Lion King Slash"
+  },
+  {
+   "id": 737,
+   "text": "Flash Bancho Punch"
+  },
+  {
+   "id": 738,
+   "text": "Trump Sword"
+  },
+  {
+   "id": 739,
+   "text": "Ending Snipe"
+  },
+  {
+   "id": 740,
+   "text": "Puppet Pummel"
+  },
+  {
+   "id": 741,
+   "text": "Wood Cross"
+  },
+  {
+   "id": 742,
+   "text": "Deadly Necro Mist"
+  },
+  {
+   "id": 743,
+   "text": "Poisonous Necro Mist"
+  },
+  {
+   "id": 744,
+   "text": "Needle Squall"
+  },
+  {
+   "id": 745,
+   "text": "Britain Punch"
+  },
+  {
+   "id": 746,
+   "text": "Dark Gaia Force"
+  },
+  {
+   "id": 747,
+   "text": "Iron Claws"
+  },
+  {
+   "id": 748,
+   "text": "Smiley Warhead"
+  },
+  {
+   "id": 749,
+   "text": "Purple Rain"
+  },
+  {
+   "id": 750,
+   "text": "Water Tail Blaster"
+  },
+  {
+   "id": 751,
+   "text": "Pulse Blast"
+  },
+  {
+   "id": 752,
+   "text": "Giga Scissor Claw"
+  },
+  {
+   "id": 753,
+   "text": "Electro Blaster"
+  },
+  {
+   "id": 754,
+   "text": "Starlight Explosion"
+  },
+  {
+   "id": 755,
+   "text": "Crimson Flame"
+  },
+  {
+   "id": 756,
+   "text": "Double Crescent Mirage"
+  },
+  {
+   "id": 757,
+   "text": "Full Moon Blaster"
+  },
+  {
+   "id": 758,
+   "text": "Gale Claw"
+  },
+  {
+   "id": 759,
+   "text": "Giga Cannon"
+  },
+  {
+   "id": 760,
+   "text": "Infinite Hand"
+  },
+  {
+   "id": 761,
+   "text": "Banana Slip"
+  },
+  {
+   "id": 762,
+   "text": "DarkNetwork&C.Crush"
+  },
+  {
+   "id": 763,
+   "text": "Freezing Breath"
+  },
+  {
+   "id": 764,
+   "text": "Grace Cross Freezer"
+  },
+  {
+   "id": 765,
+   "text": "Freezing Breath"
+  },
+  {
+   "id": 766,
+   "text": "Blizzard Wolf Claw"
+  },
+  {
+   "id": 767,
+   "text": "River of Power"
+  },
+  {
+   "id": 768,
+   "text": "Poseidon Divide"
+  },
+  {
+   "id": 769,
+   "text": "Thorn Whipping"
+  },
+  {
+   "id": 770,
+   "text": "Forbidden Temptation"
+  },
+  {
+   "id": 771,
+   "text": "Zeed Cannon"
+  },
+  {
+   "id": 772,
+   "text": "Full Metal Breath"
+  },
+  {
+   "id": 773,
+   "text": "Blowback Breath"
+  },
+  {
+   "id": 774,
+   "text": "Dramon Breaker"
+  },
+  {
+   "id": 775,
+   "text": "Trident Gaia"
+  },
+  {
+   "id": 776,
+   "text": "Victory Charge"
+  },
+  {
+   "id": 777,
+   "text": "Tenryu Slash"
+  },
+  {
+   "id": 778,
+   "text": "Shoryu Slash"
+  },
+  {
+   "id": 779,
+   "text": "Koryu Slash"
+  },
+  {
+   "id": 780,
+   "text": "Destroyed Rush"
+  },
+  {
+   "id": 781,
+   "text": "Infinity Bowling"
+  },
+  {
+   "id": 782,
+   "text": "Gravity Press"
+  },
+  {
+   "id": 783,
+   "text": "Solblaster"
+  },
+  {
+   "id": 784,
+   "text": "Foibos Blow"
+  },
+  {
+   "id": 785,
+   "text": "Arrow of Apollo"
+  },
+  {
+   "id": 786,
+   "text": "Crescent Harken"
+  },
+  {
+   "id": 787,
+   "text": "Arrow of Artemis"
+  },
+  {
+   "id": 788,
+   "text": "Goodnight Moon"
+  },
+  {
+   "id": 789,
+   "text": "Positron Laser"
+  },
+  {
+   "id": 790,
+   "text": "Giga Fire"
+  },
+  {
+   "id": 791,
+   "text": "Royal Saber"
+  },
+  {
+   "id": 792,
+   "text": "Final Elision"
+  },
+  {
+   "id": 793,
+   "text": "Unleashes a sound wave\\nthat stuns an opponent's\\nhearing."
+  },
+  {
+   "id": 794,
+   "text": "Emits froth from its\\nmouth."
+  },
+  {
+   "id": 795,
+   "text": "A powerful charge used\\nagainst the opponent."
+  },
+  {
+   "id": 796,
+   "text": "A powerful charge used\\nagainst the opponent."
+  },
+  {
+   "id": 797,
+   "text": "A powerful bite using\\nsharp fangs."
+  },
+  {
+   "id": 798,
+   "text": "A move where the tail\\ninflates and its hair\\nbecomes spikes. It\\nthen swings its tail\\nat an opponent."
+  },
+  {
+   "id": 799,
+   "text": "A powerful charge used\\nagainst the opponent."
+  },
+  {
+   "id": 800,
+   "text": "A popping bubble that\\nlooks like a flower\\npetal."
+  },
+  {
+   "id": 801,
+   "text": "Spits froth that looks\\nlike bubbles."
+  },
+  {
+   "id": 802,
+   "text": "Fires a small ball of\\nflame from its mouth."
+  },
+  {
+   "id": 803,
+   "text": "Froth that can shrink\\nand expand."
+  },
+  {
+   "id": 804,
+   "text": "Uses hot steam created\\ninside the body."
+  },
+  {
+   "id": 805,
+   "text": "A move using energy from\\nthe stars against the\\nopponent."
+  },
+  {
+   "id": 806,
+   "text": "A ball of dark energy\\nfired against the\\nopponent."
+  },
+  {
+   "id": 807,
+   "text": "A breath of fire blown\\nat an enemy."
+  },
+  {
+   "id": 808,
+   "text": "A burst of flame which\\nbellows out after taking\\na deep breath."
+  },
+  {
+   "id": 809,
+   "text": "An attack with the front\\nclaws to scratch the\\nopponent."
+  },
+  {
+   "id": 810,
+   "text": "Rolls up into a ball to\\ncharge the opponent."
+  },
+  {
+   "id": 811,
+   "text": "A burst of electricity\\nfrom the tail."
+  },
+  {
+   "id": 812,
+   "text": "A froth that brings\\nabout eternal sleep."
+  },
+  {
+   "id": 813,
+   "text": "Moves close to an\\nopponent and unleashes\\nan uppercut."
+  },
+  {
+   "id": 814,
+   "text": "A spin of the body\\nunleashes an attack with\\nboth hands to smash the\\nopponent."
+  },
+  {
+   "id": 815,
+   "text": "A series of rapid\\npunches."
+  },
+  {
+   "id": 816,
+   "text": "A breath of poison gas."
+  },
+  {
+   "id": 817,
+   "text": "A small ball of flame\\nfired from the mouth."
+  },
+  {
+   "id": 818,
+   "text": "Places a Petit Fire in\\nthe hand to punch the\\nopponent with."
+  },
+  {
+   "id": 819,
+   "text": "An arrow shaped\\nprojectile that homes\\nin on a target."
+  },
+  {
+   "id": 820,
+   "text": "Glides using the ball on\\nits stomach to attack\\nthe opponent."
+  },
+  {
+   "id": 821,
+   "text": "Rolls up into a ball and\\nuses blade-like fins\\nto attack an opponent."
+  },
+  {
+   "id": 822,
+   "text": "Breathes out a small\\nfireball."
+  },
+  {
+   "id": 823,
+   "text": "Fires an electric thread\\nfrom its mouth."
+  },
+  {
+   "id": 824,
+   "text": "Fires rocks from its\\nhead."
+  },
+  {
+   "id": 825,
+   "text": "Throws balls of fire at\\nmach speed."
+  },
+  {
+   "id": 826,
+   "text": "Uses small fish to\\nattack an opponent."
+  },
+  {
+   "id": 827,
+   "text": "Uses its ears like\\npropellers to create\\na small cyclone."
+  },
+  {
+   "id": 828,
+   "text": "A burst of high\\ntemperature fire\\nblown from the mouth."
+  },
+  {
+   "id": 829,
+   "text": "Amplifies static\\nelectricity with its\\nwings to fire at\\nan opponent."
+  },
+  {
+   "id": 830,
+   "text": "Fires a toy missile\\nshaped like a flame."
+  },
+  {
+   "id": 831,
+   "text": "Breathes a high\\ntemperature burst of\\nair at the opponent."
+  },
+  {
+   "id": 832,
+   "text": "Rotates its body to\\nattack using its tail."
+  },
+  {
+   "id": 833,
+   "text": "A beam attack fired\\nfrom the mouth."
+  },
+  {
+   "id": 834,
+   "text": "Unleashes the nightmares\\nabsorbed inside its body\\nto terrify the opponent."
+  },
+  {
+   "id": 835,
+   "text": "Confuses its opponent by\\nputting a black, virus\\ninfested gear inside\\nits body."
+  },
+  {
+   "id": 836,
+   "text": "Slaps the opponent using\\nlarge ears."
+  },
+  {
+   "id": 837,
+   "text": "Breathes in and then\\nreleases a ball of air."
+  },
+  {
+   "id": 838,
+   "text": "Stuns the opponent by\\nwrapping a poisonous\\nvine around it."
+  },
+  {
+   "id": 839,
+   "text": "Sucks data from the\\nopponent by throwing\\na syringe at it."
+  },
+  {
+   "id": 840,
+   "text": "Inflict emotional damage\\non the opponent with a\\nmagical flame."
+  },
+  {
+   "id": 841,
+   "text": "Scratches the opponent\\nwith claws on its wings."
+  },
+  {
+   "id": 842,
+   "text": "An attack unleashed\\nusing powerful legs."
+  },
+  {
+   "id": 843,
+   "text": "Fires multiple throwing\\nstars made from hard\\nfeathers."
+  },
+  {
+   "id": 844,
+   "text": "Stuns the opponent with\\na high pitched howl."
+  },
+  {
+   "id": 845,
+   "text": "Causes the opponent to\\nlose the will to fight\\nby unleashing an\\nallergenic pollen."
+  },
+  {
+   "id": 846,
+   "text": "Unleashes numerous small\\nmushroom bombs from its\\nbody."
+  },
+  {
+   "id": 847,
+   "text": "A blizzard blown\\nfrom the mouth."
+  },
+  {
+   "id": 848,
+   "text": "Throws sharp leaves\\nat the opponent."
+  },
+  {
+   "id": 849,
+   "text": "Throws multiple punches\\nwith fiery fists."
+  },
+  {
+   "id": 850,
+   "text": "Focuses the power of\\nfire into the forehead\\nand unleashes a ball of\\nflame."
+  },
+  {
+   "id": 851,
+   "text": "Charges the opponent\\nwith its body engulfed\\nin flames."
+  },
+  {
+   "id": 852,
+   "text": "Scratches the opponent\\nusing claws of\\nDark power."
+  },
+  {
+   "id": 853,
+   "text": "Unleashes beautiful\\nballs of water from the\\nantennae on its\\nforehead."
+  },
+  {
+   "id": 854,
+   "text": "Rotates its ears to\\nengulf an opponent in a\\nwhirlwind of bubbles."
+  },
+  {
+   "id": 855,
+   "text": "Shoots a ball of fire\\nfrom its mouth."
+  },
+  {
+   "id": 856,
+   "text": "A breath of fire blown\\nat an enemy."
+  },
+  {
+   "id": 857,
+   "text": "Emits a colorful burst\\nof electricity from the\\nhorn on its head."
+  },
+  {
+   "id": 858,
+   "text": "Attacks with its flaming\\nhorns."
+  },
+  {
+   "id": 859,
+   "text": "Wraps vines around the\\nopponent to confuse it."
+  },
+  {
+   "id": 860,
+   "text": "Unleashes unkind words\\nfilled with the energy\\nof negativity to make\\nthe opponent cry."
+  },
+  {
+   "id": 861,
+   "text": "Floats in the air and\\ncharges an opponent."
+  },
+  {
+   "id": 862,
+   "text": "Charges the opponent and\\nunleashes a powerful\\nheadbutt."
+  },
+  {
+   "id": 863,
+   "text": "Unleashes multiple punches\\nby rotating both arms\\nrapidly."
+  },
+  {
+   "id": 864,
+   "text": "A powerful fireball\\nunleashed from a\\nlarge mouth."
+  },
+  {
+   "id": 865,
+   "text": "An attack capable of\\ncrushing rock using\\npowerful claws."
+  },
+  {
+   "id": 866,
+   "text": "Punches the opponent\\nusing fists wrapped in\\nfireballs."
+  },
+  {
+   "id": 867,
+   "text": "Jumps into the sky and\\ncrashes down on an\\nopponent."
+  },
+  {
+   "id": 868,
+   "text": "Pulverizes an opponent\\nwith the metal ball on\\nits tail."
+  },
+  {
+   "id": 869,
+   "text": "Fires regenerating horns\\nlike missiles."
+  },
+  {
+   "id": 870,
+   "text": "Summons a thundercloud\\nthat unleashes powerful\\nbolts of lightning."
+  },
+  {
+   "id": 871,
+   "text": "Sucks energy from the\\nopponent by stabbing it\\nwith long, branch-like\\nhands."
+  },
+  {
+   "id": 872,
+   "text": "Creates a large tornado\\nby flapping its wings."
+  },
+  {
+   "id": 873,
+   "text": "Unleashes sharp thorn\\nprojectiles by flapping\\nits wings."
+  },
+  {
+   "id": 874,
+   "text": "Unleashes a holy light\\nfrom its shining golden\\nfist."
+  },
+  {
+   "id": 875,
+   "text": "Unleashes a powerful\\npunch."
+  },
+  {
+   "id": 876,
+   "text": "Approaches with blinding\\nspeed and attacks with\\nits claws."
+  },
+  {
+   "id": 877,
+   "text": "Bites with powerful\\njaws and sharp fangs."
+  },
+  {
+   "id": 878,
+   "text": "Blows a powerful wind at\\nan opponent."
+  },
+  {
+   "id": 879,
+   "text": "Flaps its wings and\\nunleashes a plasma blast\\nfrom its electrified\\nhorn."
+  },
+  {
+   "id": 880,
+   "text": "Fires both gatling arms\\nmultiple times at an\\nopponent."
+  },
+  {
+   "id": 881,
+   "text": "Closes in on the\\nopponent and unleashes a\\ngatling arm uppercut."
+  },
+  {
+   "id": 882,
+   "text": "Breathes out a scorching\\nblue flame."
+  },
+  {
+   "id": 883,
+   "text": "Breathes out a scorching\\nblue flame."
+  },
+  {
+   "id": 884,
+   "text": "Launches a missile that\\nhomes in on the target."
+  },
+  {
+   "id": 885,
+   "text": "Attacks using a\\nChibiKiwimon hidden\\ninside its body."
+  },
+  {
+   "id": 886,
+   "text": "Unleashes a fireball\\nthat looks like a fox."
+  },
+  {
+   "id": 887,
+   "text": "Unleashes a flaming blue\\ndragon from its tail,\\nburning the opponent to\\na crisp."
+  },
+  {
+   "id": 888,
+   "text": "Breathes out an intense\\nflame to burn\\neverything in sight."
+  },
+  {
+   "id": 889,
+   "text": "Charges an opponent,\\nattacking with its horn\\nmultiple times."
+  },
+  {
+   "id": 890,
+   "text": "A special move that stops\\nan opponent in time."
+  },
+  {
+   "id": 891,
+   "text": "Uses its large arms to\\ngrasp an opponent and\\ncut them in half."
+  },
+  {
+   "id": 892,
+   "text": "Uses high frequency\\nvibrations to destroy\\nthe opponent from\\nthe inside."
+  },
+  {
+   "id": 893,
+   "text": "Emits a poisonous mist\\nto paralyze the\\nopponent."
+  },
+  {
+   "id": 894,
+   "text": "Swings down both its\\narms to hit the\\nopponent."
+  },
+  {
+   "id": 895,
+   "text": "Fires a powerful beam\\nfrom the right arm."
+  },
+  {
+   "id": 896,
+   "text": "Fires a mysterious beam\\nfrom its eyes, turning\\nan opponent to stone."
+  },
+  {
+   "id": 897,
+   "text": "Fires a 10 million volt\\nball of electricity."
+  },
+  {
+   "id": 898,
+   "text": "Fires a stream of high\\npressure water."
+  },
+  {
+   "id": 899,
+   "text": "Breathes out an intense\\nflame to burn\\neverything in sight."
+  },
+  {
+   "id": 900,
+   "text": "An attack using\\nFiery Breath, maximized\\nto the peak of\\nits intensity."
+  },
+  {
+   "id": 901,
+   "text": "Charges the opponent,\\nattacking it with its\\nhorn multiple times."
+  },
+  {
+   "id": 902,
+   "text": "An attack using its\\nlong body to wrap around\\nthe opponent to\\nconstrict it."
+  },
+  {
+   "id": 903,
+   "text": "A sub-zero breath used\\nto freeze water which\\nis then fired as arrows\\nat the opponent."
+  },
+  {
+   "id": 904,
+   "text": "Throws waste at an\\nopponent."
+  },
+  {
+   "id": 905,
+   "text": "Rains down small meteors\\nat an opponent."
+  },
+  {
+   "id": 906,
+   "text": "Uses a slim sword to\\nslash the opponent."
+  },
+  {
+   "id": 907,
+   "text": "Turns everything into\\nan inferno with a\\npowerful flaming torch."
+  },
+  {
+   "id": 908,
+   "text": "Breathes out a crimson\\nflame to burn\\neverything."
+  },
+  {
+   "id": 909,
+   "text": "Uses long claws to\\nattack the opponent."
+  },
+  {
+   "id": 910,
+   "text": "Fires beams from its\\neyes to stun the\\nopponent."
+  },
+  {
+   "id": 911,
+   "text": "Uses its claws to slice\\nan opponent to pieces."
+  },
+  {
+   "id": 912,
+   "text": "Uses its elastic arms\\nto grab the opponent's\\nDigicore."
+  },
+  {
+   "id": 913,
+   "text": "Hardens the thorns on\\nits fists and punches an\\nopponent."
+  },
+  {
+   "id": 914,
+   "text": "Launches the blades on\\nits carapace like\\nmissiles."
+  },
+  {
+   "id": 915,
+   "text": "Throws waste at the\\nopponent."
+  },
+  {
+   "id": 916,
+   "text": "Grabs an opponent and\\ndrags them into an\\nabyss."
+  },
+  {
+   "id": 917,
+   "text": "Casts a spell of death\\non the opponent."
+  },
+  {
+   "id": 918,
+   "text": "Flapping wings fire\\nburning feathers at an\\nopponent like meteors."
+  },
+  {
+   "id": 919,
+   "text": "Throws waste at the\\nopponent."
+  },
+  {
+   "id": 920,
+   "text": "A rapid spin that\\ncrushes an opponent with\\nhuge claws."
+  },
+  {
+   "id": 921,
+   "text": "Throws steel feathers\\nlike ninja stars at the\\nopponent."
+  },
+  {
+   "id": 922,
+   "text": "Pokes the opponent with\\na woodpecker-like beak."
+  },
+  {
+   "id": 923,
+   "text": "Uses its flaming arm to\\nunleash a burning punch."
+  },
+  {
+   "id": 924,
+   "text": "Attacks using an icicle\\nmade by freezing the\\nmoisture in the air."
+  },
+  {
+   "id": 925,
+   "text": "Throws an ancient\\nDigimon bone like a\\nboomerang."
+  },
+  {
+   "id": 926,
+   "text": "Uses a machete-like horn\\nto slash the opponent."
+  },
+  {
+   "id": 927,
+   "text": "Fires a ball of fire\\nfrom its mouth."
+  },
+  {
+   "id": 928,
+   "text": "Unleashes an icy punch\\nto freeze an opponent\\nsolid."
+  },
+  {
+   "id": 929,
+   "text": "Fires a ball of energy\\nfrom its large mouth."
+  },
+  {
+   "id": 930,
+   "text": "Attacks with a blazing\\nball of fire from the\\ntip of its tail."
+  },
+  {
+   "id": 931,
+   "text": "Unleashes a burning red\\ndragon from its tail and\\nburns opponents to a\\ncrisp."
+  },
+  {
+   "id": 932,
+   "text": "Maximizes the body's\\nthermal energy and\\ncharges an opponent."
+  },
+  {
+   "id": 933,
+   "text": "Spits out a lump of\\nsludge from its mouth."
+  },
+  {
+   "id": 934,
+   "text": "Unleashes energy from\\nits hand."
+  },
+  {
+   "id": 935,
+   "text": "Exhales a powerful\\npoisonous breath."
+  },
+  {
+   "id": 936,
+   "text": "Blows a blazing blue\\nbreath."
+  },
+  {
+   "id": 937,
+   "text": "Strikes an opponent with\\nits powerful tail."
+  },
+  {
+   "id": 938,
+   "text": "Fires a diffusion laser\\nbeam from its mouth."
+  },
+  {
+   "id": 939,
+   "text": "Blows a blazing green\\nbreath."
+  },
+  {
+   "id": 940,
+   "text": "Strikes an opponent with\\nits powerful tail."
+  },
+  {
+   "id": 941,
+   "text": "Fires a diffusion laser\\nbeam from its mouth."
+  },
+  {
+   "id": 942,
+   "text": "Charges from the sky\\nwith its body enveloped\\nin flames."
+  },
+  {
+   "id": 943,
+   "text": "Slices an opponent to\\npieces with its\\npowerful, flaming front\\nlegs."
+  },
+  {
+   "id": 944,
+   "text": "Focuses power into its\\nforehead and unleashes a\\nflaming bomb."
+  },
+  {
+   "id": 945,
+   "text": "Throws froth with its\\nhands to put an opponent\\nto sleep."
+  },
+  {
+   "id": 946,
+   "text": "Draws a beautiful ice\\narrow from its back and\\nfires it."
+  },
+  {
+   "id": 947,
+   "text": "Jumps into the sky and\\ncomes down on an\\nopponent with a kick."
+  },
+  {
+   "id": 948,
+   "text": "Stabs an opponent with\\nits arm to freeze it."
+  },
+  {
+   "id": 949,
+   "text": "Freezes an opponent\\nwith a blue light emitted\\nfrom its arm."
+  },
+  {
+   "id": 950,
+   "text": "Breathes out an intense\\nflame."
+  },
+  {
+   "id": 951,
+   "text": "Uses its sharp fangs to\\nbite an opponent."
+  },
+  {
+   "id": 952,
+   "text": "Throws waste at the\\nopponent."
+  },
+  {
+   "id": 953,
+   "text": "Summons a snow cloud and\\ncreates a blizzard."
+  },
+  {
+   "id": 954,
+   "text": "Gives an opponent a\\nnightmare about the\\nfreezing cold."
+  },
+  {
+   "id": 955,
+   "text": "Petrifies an opponent\\nwith beams emitted from\\nscary red eyes."
+  },
+  {
+   "id": 956,
+   "text": "Uses sharp claws as it\\nattacks from the sky."
+  },
+  {
+   "id": 957,
+   "text": "Unleashes feathers that\\nburn a purple color and\\nstab opponents."
+  },
+  {
+   "id": 958,
+   "text": "Throws an ice bomb at\\nan opponent."
+  },
+  {
+   "id": 959,
+   "text": "Emits an intense heat\\nray from its mouth."
+  },
+  {
+   "id": 960,
+   "text": "Focuses its power and\\nunleashes it in the form\\nof an intense punch."
+  },
+  {
+   "id": 961,
+   "text": "Charges the blades on\\nits elbows with\\nlightning and slashes an\\nopponent."
+  },
+  {
+   "id": 962,
+   "text": "Breathes an intense\\nflame that sounds like\\nan explosion."
+  },
+  {
+   "id": 963,
+   "text": "Unleashes intense energy\\nfrom its plasma blade."
+  },
+  {
+   "id": 964,
+   "text": "Charges an opponent and\\nstabs it with its huge\\nhorn."
+  },
+  {
+   "id": 965,
+   "text": "Accumulates energy with\\nits arms and horn,\\nunleashing a ball of\\nplasma."
+  },
+  {
+   "id": 966,
+   "text": "Creates a shockwave by\\ncrossing its legs."
+  },
+  {
+   "id": 967,
+   "text": "Stabs an opponent with\\nthe sharp blade on its\\ntail."
+  },
+  {
+   "id": 968,
+   "text": "Fires a missile from the\\nlaunch bay in its chest."
+  },
+  {
+   "id": 969,
+   "text": "Attacks using an energy\\nblade."
+  },
+  {
+   "id": 970,
+   "text": "Sings a song that causes\\nan opponent to lose\\nthe will to fight."
+  },
+  {
+   "id": 971,
+   "text": "Fires a black sphere\\nthat destroys everything\\nin its path."
+  },
+  {
+   "id": 972,
+   "text": "Fires an arrow from a\\nbow."
+  },
+  {
+   "id": 973,
+   "text": "Unleashes rays of light\\nfilled with beauty and\\nkindness."
+  },
+  {
+   "id": 974,
+   "text": "A stronger version of\\nScissor Claw. It can cut\\na diamond in half."
+  },
+  {
+   "id": 975,
+   "text": "Lets instinct take over\\nand goes on a rampage."
+  },
+  {
+   "id": 976,
+   "text": "Uses sharp blades of air\\ntraveling at lightning\\nspeed to cut your\\nopponent to pieces."
+  },
+  {
+   "id": 977,
+   "text": "Creates a huge tornado\\nof fire."
+  },
+  {
+   "id": 978,
+   "text": "Fires waste from a\\nbazooka made of cans."
+  },
+  {
+   "id": 979,
+   "text": "Attacks by throwing the\\nlid from a trash bin."
+  },
+  {
+   "id": 980,
+   "text": "Emits a vibration that\\ndestroys data, erases\\nthe opponent and its\\nimmediate surroundings."
+  },
+  {
+   "id": 981,
+   "text": "An attack using sharp\\nclaws."
+  },
+  {
+   "id": 982,
+   "text": "Attacks an opponent with\\nsweet smelling berries\\ngrowing on its trees."
+  },
+  {
+   "id": 983,
+   "text": "Uses the vines growing\\nfrom its body to attack\\nan opponent."
+  },
+  {
+   "id": 984,
+   "text": "Fires a missile from the\\nlaunch pad on its back."
+  },
+  {
+   "id": 985,
+   "text": "A purple breath that\\nparalyzes an opponent."
+  },
+  {
+   "id": 986,
+   "text": "Attacks with a shockwave\\nproduced by swinging a\\nhammer."
+  },
+  {
+   "id": 987,
+   "text": "Uses the horn on top of\\nits head to pierce an\\nopponent."
+  },
+  {
+   "id": 988,
+   "text": "Uses amazing strength to\\nthrow a trident."
+  },
+  {
+   "id": 989,
+   "text": "Unleashes numerous\\ntentacles at an\\nopponent."
+  },
+  {
+   "id": 990,
+   "text": "Melts heavy metals\\ninside its body and\\nsprays it on an\\nopponent."
+  },
+  {
+   "id": 991,
+   "text": "Uses the burning chains\\nwrapped around its body\\nto attack its opponent."
+  },
+  {
+   "id": 992,
+   "text": "Fires egg-like\\nprojectiles from the\\nbushes on its back."
+  },
+  {
+   "id": 993,
+   "text": "Uses a sharp beak to\\npeck at an opponent."
+  },
+  {
+   "id": 994,
+   "text": "Uses ultra low frequency\\nwaves to destroy the\\ndata that makes up an\\nopponent's body."
+  },
+  {
+   "id": 995,
+   "text": "Uses high frequency\\nvibrations to destroy an\\nopponent from the\\ninside."
+  },
+  {
+   "id": 996,
+   "text": "Charges an opponent with\\nthe three horns on its\\nforehead and nose."
+  },
+  {
+   "id": 997,
+   "text": "A Tri-horn Attack with\\nthe horns spinning at\\nhigh speed."
+  },
+  {
+   "id": 998,
+   "text": "Wields a huge sword that\\ncan cut anything in half\\nwith one swing."
+  },
+  {
+   "id": 999,
+   "text": "Uses its sword not to\\ncut, but to blow an\\nopponent away."
+  },
+  {
+   "id": 1000,
+   "text": "Uses shockwaves created\\nat mach speeds to attack\\nan opponent."
+  },
+  {
+   "id": 1001,
+   "text": "Unleashes a powerful\\nbolt of lightning from\\nits forehead."
+  },
+  {
+   "id": 1002,
+   "text": "Throws a fishing spear\\nat an opponent."
+  },
+  {
+   "id": 1003,
+   "text": "Jumps high into the sky\\nto dive at an opponent."
+  },
+  {
+   "id": 1004,
+   "text": "Slashes an opponent with\\nclaws hidden on the\\ninside of its hands."
+  },
+  {
+   "id": 1005,
+   "text": "Attacks with an amazing\\nbamboo leaf."
+  },
+  {
+   "id": 1006,
+   "text": "Throws a Mamemon holding\\na bomb at an opponent."
+  },
+  {
+   "id": 1007,
+   "text": "Dives down from the sky\\nand uses its large body\\nto crush an opponent."
+  },
+  {
+   "id": 1008,
+   "text": "Causes a huge explosion\\nwith a bomb filled\\nwith computer viruses."
+  },
+  {
+   "id": 1009,
+   "text": "Attacks with a spear."
+  },
+  {
+   "id": 1010,
+   "text": "Cuts an opponents soul\\nto pieces with a sickle\\nand chain."
+  },
+  {
+   "id": 1011,
+   "text": "Kills an opponent\\ninstantly with a word\\nof death."
+  },
+  {
+   "id": 1012,
+   "text": "Throws a heart shaped\\nkiss at an opponent,\\nturning it into a\\ncoward."
+  },
+  {
+   "id": 1013,
+   "text": "An attack using\\na ray gun."
+  },
+  {
+   "id": 1014,
+   "text": "Attacks with a huge\\ntsunami."
+  },
+  {
+   "id": 1015,
+   "text": "Attacks by spraying a\\npowerful water storm."
+  },
+  {
+   "id": 1016,
+   "text": "Wields a sword and\\nslashes an opponent."
+  },
+  {
+   "id": 1017,
+   "text": "Attacks an opponent by\\nopening another\\ndimension with its\\nsword."
+  },
+  {
+   "id": 1018,
+   "text": "Unleashes a series of\\nhigh speed punches."
+  },
+  {
+   "id": 1019,
+   "text": "Unleashes a powerful\\npunch with its android\\narm."
+  },
+  {
+   "id": 1020,
+   "text": "Unleashes high\\nfrequency attacks by\\nemitting a powerful\\nhowl."
+  },
+  {
+   "id": 1021,
+   "text": "Throws a large exploding\\nglove at an opponent."
+  },
+  {
+   "id": 1022,
+   "text": "Dives at an opponent\\nfrom the sky."
+  },
+  {
+   "id": 1023,
+   "text": "Uses huge fangs to\\npierce an opponent."
+  },
+  {
+   "id": 1024,
+   "text": "Exhales a breath of icy\\nair from its nose to\\nfreeze an opponent."
+  },
+  {
+   "id": 1025,
+   "text": "Unleashes a powerful\\nlightning bolt from the\\nblade on top of its\\nforehead."
+  },
+  {
+   "id": 1026,
+   "text": "Creates an icy tsunami\\nthat freezes an\\nopponent."
+  },
+  {
+   "id": 1027,
+   "text": "Fires powerful missiles\\nfrom both arms."
+  },
+  {
+   "id": 1028,
+   "text": "Creates a vacuum with\\nboth arms and slices an\\nopponent in half."
+  },
+  {
+   "id": 1029,
+   "text": "Fires a missile with a\\nnuclear warhead from the\\nlaunch bay on its chest."
+  },
+  {
+   "id": 1030,
+   "text": "Fires its left Chrome\\nDigizoid arm at an\\nopponent."
+  },
+  {
+   "id": 1031,
+   "text": "Fires a missile with a\\nnuclear warhead from the\\nlaunch bay on its\\nchest."
+  },
+  {
+   "id": 1032,
+   "text": "Fires its left Chrome\\nDigizoid arm at an\\nopponent."
+  },
+  {
+   "id": 1033,
+   "text": "A missile fired from\\nthe arm. More powerful\\nthan the Giga Blaster."
+  },
+  {
+   "id": 1034,
+   "text": "A powerful laser fired\\nfrom the arm."
+  },
+  {
+   "id": 1035,
+   "text": "Throws hearts at an\\nopponent, causing it to\\nlose the will to fight."
+  },
+  {
+   "id": 1036,
+   "text": "Rapidly rotates both\\narms, unleashing\\nmultiple punches."
+  },
+  {
+   "id": 1037,
+   "text": "Attacks using its leg\\nwielding energy gathered\\nfrom the pestles on its\\nwings."
+  },
+  {
+   "id": 1038,
+   "text": "Unleashes a black light\\nfrom its wings to blind\\nan opponent."
+  },
+  {
+   "id": 1039,
+   "text": "Fires three shots\\nsimultaneously from the\\nrevolver on the left arm."
+  },
+  {
+   "id": 1040,
+   "text": "Unleashes a barrage of\\nbeams from the launch\\nbays in its wings and\\nchest."
+  },
+  {
+   "id": 1041,
+   "text": "Charges an opponent,\\nstriking it with the\\nrevolver on its left arm."
+  },
+  {
+   "id": 1042,
+   "text": "Unleashes a volley of\\nhoming missiles."
+  },
+  {
+   "id": 1043,
+   "text": "Unleashes beams of light\\nfrom its body and\\ndecompiles an opponent\\nto their data level."
+  },
+  {
+   "id": 1044,
+   "text": "Uses the flower petals\\non its hands to fire\\nballs of energy."
+  },
+  {
+   "id": 1045,
+   "text": "Unleashes thorny rays\\nfrom its hands."
+  },
+  {
+   "id": 1046,
+   "text": "Unleashes energy waves\\nthat look like bats and\\nburn an opponent to\\na crisp."
+  },
+  {
+   "id": 1047,
+   "text": "Turns an opponent's\\npower into dark energy,\\ndestroying it from the\\ninside."
+  },
+  {
+   "id": 1048,
+   "text": "Emits black hearts from\\nits mouth, causing an\\nopponent to lose the\\nwill to fight."
+  },
+  {
+   "id": 1049,
+   "text": "Attacks with the claws\\non its left hand."
+  },
+  {
+   "id": 1050,
+   "text": "Uses the sharp nails on\\nits arms to cut an\\nopponent to pieces."
+  },
+  {
+   "id": 1051,
+   "text": "Breathes out a scorching\\nblue flame."
+  },
+  {
+   "id": 1052,
+   "text": "Uses the sharp nails on\\nits arms to cut an\\nopponent to pieces."
+  },
+  {
+   "id": 1053,
+   "text": "An intense kick unleashed\\nfrom powerful legs."
+  },
+  {
+   "id": 1054,
+   "text": "Shoots an intense\\nflaming breath faster\\nthan the speed of sound."
+  },
+  {
+   "id": 1055,
+   "text": "Drops down from the sky\\nat maximum speed to\\npierce an opponent with\\nthe spear on its back."
+  },
+  {
+   "id": 1056,
+   "text": "Attacks using a blast\\nwave it creates while\\nmoving."
+  },
+  {
+   "id": 1057,
+   "text": "Uses the arms on its\\nback to grab and smash\\nan enemy."
+  },
+  {
+   "id": 1058,
+   "text": "Crushes opponents with\\nthe metal ball on its tail."
+  },
+  {
+   "id": 1059,
+   "text": "Slams its body into the\\nground, creating a crack\\nthat opponents fall into."
+  },
+  {
+   "id": 1060,
+   "text": "Fires an energy shot\\nfrom its hands that\\nlooks like a lion's head."
+  },
+  {
+   "id": 1061,
+   "text": "Unleashes multiple\\nflaming punches and\\nkicks upon an opponent."
+  },
+  {
+   "id": 1062,
+   "text": "Unleashes an energy\\nblast while howling to\\ndestroy an opponent's\\ndata."
+  },
+  {
+   "id": 1063,
+   "text": "Bewitches opponents with\\na graceful dance and\\nattacks while its guard\\nis down."
+  },
+  {
+   "id": 1064,
+   "text": "An attack that uses ice\\narrows."
+  },
+  {
+   "id": 1065,
+   "text": "Attacks using arrows of\\ndark energy."
+  },
+  {
+   "id": 1066,
+   "text": "Unleashes meteors at an\\nopponent."
+  },
+  {
+   "id": 1067,
+   "text": "A powerful uppercut\\nattack."
+  },
+  {
+   "id": 1068,
+   "text": "Unleashes a volley of\\nhoming missiles."
+  },
+  {
+   "id": 1069,
+   "text": "Unleashes beams of light\\nfrom its body and\\ndecompiles an opponent\\nto their data level."
+  },
+  {
+   "id": 1070,
+   "text": "Fires a black sphere\\nfilled with cold flames\\nat an opponent."
+  },
+  {
+   "id": 1071,
+   "text": "Unleashes an icy cold\\nflame."
+  },
+  {
+   "id": 1072,
+   "text": "Creates a tremendous\\nblizzard to freeze an\\nopponent."
+  },
+  {
+   "id": 1073,
+   "text": "Uses the morning star on\\nits back to unleash\\npowerful hits."
+  },
+  {
+   "id": 1074,
+   "text": "Slashes with its sword\\nto freeze an opponent."
+  },
+  {
+   "id": 1075,
+   "text": "Attacks using a bow and\\narrow that never misses."
+  },
+  {
+   "id": 1076,
+   "text": "Focuses all the energy\\nin the air and unleashes\\nit on an opponent."
+  },
+  {
+   "id": 1077,
+   "text": "Attacks using its claws\\nwhich are highly\\neffective against\\nDragon Digimon."
+  },
+  {
+   "id": 1078,
+   "text": "Launches a powerful\\nenergy torpedo from its\\nmouth."
+  },
+  {
+   "id": 1079,
+   "text": "Launches multiple energy\\nshots from its back."
+  },
+  {
+   "id": 1080,
+   "text": "Uses huge scissors to\\ncut an opponent and its\\nsurroundings to pieces."
+  },
+  {
+   "id": 1081,
+   "text": "Charges an opponent\\nwhile spinning its body."
+  },
+  {
+   "id": 1082,
+   "text": "Uses supersonic sound to\\ndestroy an opponent's\\ndata."
+  },
+  {
+   "id": 1083,
+   "text": "Uses the mouths on\\nthe head and tail to\\nbite an opponent and\\ntear it apart."
+  },
+  {
+   "id": 1084,
+   "text": "Pulverizes an opponent\\nby charging with its\\nfully metallic body."
+  },
+  {
+   "id": 1085,
+   "text": "Unleashes a white beam\\nthat turns an opponent\\nto ash."
+  },
+  {
+   "id": 1086,
+   "text": "Uses huge claws and\\namazing speed to slash\\nan opponent to pieces."
+  },
+  {
+   "id": 1087,
+   "text": "Paralyzes an opponent by\\nfiring numerous poison\\nhairs from its mane."
+  },
+  {
+   "id": 1088,
+   "text": "Focuses light energy and\\nunleashes it by\\nspreading its wings."
+  },
+  {
+   "id": 1089,
+   "text": "Blows away an opponent\\nwith wings of shining\\nlight."
+  },
+  {
+   "id": 1090,
+   "text": "Attacks with a sword\\nsummoned from the earth."
+  },
+  {
+   "id": 1091,
+   "text": "Rapidly spins the bones\\non its back, throwing\\nthem at an opponent."
+  },
+  {
+   "id": 1092,
+   "text": "Charges an opponent with\\nits huge body."
+  },
+  {
+   "id": 1093,
+   "text": "Unleashes every\\nprojectile weapon from\\nits body."
+  },
+  {
+   "id": 1094,
+   "text": "Launches a gigantic\\nmissile from its\\nshoulder."
+  },
+  {
+   "id": 1095,
+   "text": "Unleashes a beam that\\nfuses energy and\\ndestroys the enemy."
+  },
+  {
+   "id": 1096,
+   "text": "Attacks using an energy\\nblade."
+  },
+  {
+   "id": 1097,
+   "text": "Attacks using a flaming\\nhot short sword."
+  },
+  {
+   "id": 1098,
+   "text": "Accumulates body energy\\nand unleashes a powerful\\npunch."
+  },
+  {
+   "id": 1099,
+   "text": "Teleports the sword on\\nits back to stab an\\nopponent instantly."
+  },
+  {
+   "id": 1100,
+   "text": "Unleashes electricity from\\nboth hands and\\nelectrocutes opponents."
+  },
+  {
+   "id": 1101,
+   "text": "Hits an opponent with\\na hammer filled with\\nexplosives."
+  },
+  {
+   "id": 1102,
+   "text": "Attacks using an\\nX-shaped tree like a\\nboomerang."
+  },
+  {
+   "id": 1103,
+   "text": "Emits a deadly gas that\\ndestroys opponents\\ninstantly."
+  },
+  {
+   "id": 1104,
+   "text": "Emits a deadly poison\\ngas."
+  },
+  {
+   "id": 1105,
+   "text": "Fires the hard thorns on\\ntop of its head at an\\nopponent."
+  },
+  {
+   "id": 1106,
+   "text": "Uses its fists\\nto punch an opponent."
+  },
+  {
+   "id": 1107,
+   "text": "Focuses all the negative\\nenergy in the air and\\nunleashes it against an\\nopponent."
+  },
+  {
+   "id": 1108,
+   "text": "Attacks using the claws\\non both hands that are\\nhighly effective against\\nDragon Digimon."
+  },
+  {
+   "id": 1109,
+   "text": "Unleashes a powerful\\nheadbutt while laughing."
+  },
+  {
+   "id": 1110,
+   "text": "Rains down purple roses."
+  },
+  {
+   "id": 1111,
+   "text": "Attacks with a cry that\\nmakes any Digimon lose\\nthe will to fight."
+  },
+  {
+   "id": 1112,
+   "text": "Attacks with a high\\nfrequency sound wave\\nunleashed at maximum\\nintensity."
+  },
+  {
+   "id": 1113,
+   "text": "A more powerful Electro\\nShocker that has\\nincreased its data\\ndensity to the limit."
+  },
+  {
+   "id": 1114,
+   "text": "Uses all four arms to\\nunleash a powerful\\nenergy blast."
+  },
+  {
+   "id": 1115,
+   "text": "Flaps its wings to spray\\ngolden particles."
+  },
+  {
+   "id": 1116,
+   "text": "Uses its wings to propel\\nflames unleashed from\\nits mouth."
+  },
+  {
+   "id": 1117,
+   "text": "Unleashes crescent\\nshaped energy blasts\\nfrom both hands."
+  },
+  {
+   "id": 1118,
+   "text": "Focuses all of its\\nenergy into the opening\\non its chest and\\nunleashes a blast."
+  },
+  {
+   "id": 1119,
+   "text": "Slices apart an opponent\\nwith amazing speed."
+  },
+  {
+   "id": 1120,
+   "text": "Fires powerful energy\\nshots from the two\\ncannons on its back."
+  },
+  {
+   "id": 1121,
+   "text": "Crushes an opponent with\\nits huge arm."
+  },
+  {
+   "id": 1122,
+   "text": "Makes an opponent slip\\non a banana peel."
+  },
+  {
+   "id": 1123,
+   "text": "Sings a song that causes\\nan opponent to lose\\nthe will to fight."
+  },
+  {
+   "id": 1124,
+   "text": "Freezes an opponent with\\na breath of freezing\\ncold air."
+  },
+  {
+   "id": 1125,
+   "text": "Attacks by launching all\\nmissiles on its body."
+  },
+  {
+   "id": 1126,
+   "text": "Freezes an opponent with\\na breath of freezing\\ncold air."
+  },
+  {
+   "id": 1127,
+   "text": "Launches every missile\\non its body at an\\nopponent."
+  },
+  {
+   "id": 1128,
+   "text": "Fires an energy cannon\\non the tip of its nose\\nto burn everything to a\\ncrisp."
+  },
+  {
+   "id": 1129,
+   "text": "Attacks an opponent\\nwith a huge tsunami."
+  },
+  {
+   "id": 1130,
+   "text": "Attacks using an\\nelectrified whip with\\nthorns."
+  },
+  {
+   "id": 1131,
+   "text": "Wraps an opponent in\\nmultiple roses and\\ndestroys its data."
+  },
+  {
+   "id": 1132,
+   "text": "The ultimate weapon\\nfor attack."
+  },
+  {
+   "id": 1133,
+   "text": "Launches the Zeed Cannon\\nand other weapons on its\\nbody all at once."
+  },
+  {
+   "id": 1134,
+   "text": "Accumulates energy produced when launching weapons, and unleashes it from the mouth."
+  },
+  {
+   "id": 1135,
+   "text": "Wields a huge sword to\\npulverize an opponent."
+  },
+  {
+   "id": 1136,
+   "text": "Disassembles its sword,\\nattaches it to both\\narms, and launches an\\nenergy sword."
+  },
+  {
+   "id": 1137,
+   "text": "Deflects an opponent's\\nattack with a huge\\nsword."
+  },
+  {
+   "id": 1138,
+   "text": "Cuts an opponent in half\\nby striking at the top\\nof its head with\\na sword."
+  },
+  {
+   "id": 1139,
+   "text": "Unleashes the energy of\\nits sword upwards,\\nslashing an opponent\\nwith its power."
+  },
+  {
+   "id": 1140,
+   "text": "Transforms its sword\\nand wraps it around an\\nopponent to slice away\\nat its body."
+  },
+  {
+   "id": 1141,
+   "text": "Rapidly swings both\\nshovel arms, hitting an\\nopponent multiple times."
+  },
+  {
+   "id": 1142,
+   "text": "Engages all the drills\\non its body and charges\\nan opponent."
+  },
+  {
+   "id": 1143,
+   "text": "Crushes an opponent with\\nimmense body weight."
+  },
+  {
+   "id": 1144,
+   "text": "Unleashes a burning\\nfireball from the ball\\nof fire on the back."
+  },
+  {
+   "id": 1145,
+   "text": "A fatal blow from a fist\\nwith unimaginable power."
+  },
+  {
+   "id": 1146,
+   "text": "Unleashes multiple\\nburning arrows from\\nboth hands."
+  },
+  {
+   "id": 1147,
+   "text": "Uses the power of the\\nmoon to show an opponent\\nan illusion before\\ncutting them in half."
+  },
+  {
+   "id": 1148,
+   "text": "Uses a long icicle from\\nthe protrusion on its\\nback to attack an\\nopponent."
+  },
+  {
+   "id": 1149,
+   "text": "Unleashes moonlight from\\nthe faces on both legs\\nto put an opponent\\nto sleep."
+  },
+  {
+   "id": 1150,
+   "text": "A powerful energy cannon\\nunleashed from the right\\narm."
+  },
+  {
+   "id": 1151,
+   "text": "A destructive energy\\nunleashed from the\\npositron laser inserted\\ninto the chest."
+  },
+  {
+   "id": 1152,
+   "text": "A powerful strike\\nunleashed with the spear\\non the right arm."
+  },
+  {
+   "id": 1153,
+   "text": "A powerful beam\\nunleashed from the\\nshield on the left arm."
+  },
+  {
+   "id": 1154,
+   "text": "None"
+  },
+  {
+   "id": 1155,
+   "text": "Vaccine"
+  },
+  {
+   "id": 1156,
+   "text": "Virus"
+  },
+  {
+   "id": 1157,
+   "text": "Data"
+  },
+  {
+   "id": 1158,
+   "text": "Free"
+  },
+  {
+   "id": 1159,
+   "text": "-"
+  },
+  {
+   "id": 1160,
+   "text": "Beast"
+  },
+  {
+   "id": 1161,
+   "text": "Machine"
+  },
+  {
+   "id": 1162,
+   "text": "I.Plant"
+  },
+  {
+   "id": 1163,
+   "text": "Bird"
+  },
+  {
+   "id": 1164,
+   "text": "Dragon"
+  },
+  {
+   "id": 1165,
+   "text": "Aquatic"
+  },
+  {
+   "id": 1166,
+   "text": "Holy"
+  },
+  {
+   "id": 1167,
+   "text": "Dark"
+  },
+  {
+   "id": 1168,
+   "text": "DigiEgg"
+  },
+  {
+   "id": 1169,
+   "text": "In-Tr. I"
+  },
+  {
+   "id": 1170,
+   "text": "In-Tr. II"
+  },
+  {
+   "id": 1171,
+   "text": "Rookie"
+  },
+  {
+   "id": 1172,
+   "text": "Champion"
+  },
+  {
+   "id": 1173,
+   "text": "Ultimate"
+  },
+  {
+   "id": 1174,
+   "text": "Mega"
+  },
+  {
+   "id": 1175,
+   "text": "???"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "description": "Gift Agumon in a cage at the start, next to the starter DigiEgg. ARM9 function 0x02060f68 (called when a new game is set up) created only the egg (species 0) and added it to the 16-slot Digimon pool. Its body is rewritten (the original was mostly an unrolled struct copy) to loop twice: the egg exactly as before (fields +0x148=0xe, position 0x80,0x78), then Agumon (species 0x22 = name index 26 + 8) with default fields. Found with Ghidra.",
+  "patches": [
+    {
+      "address": "0x02060f70",
+      "original": "0040a0e17a0f8de2e7c500eb0020a0e318008de20410a0e100208de5013042e2540200eb18109de51c009de520409de524309de528809de52c709de530609de534509de538209de5e8118de53c109de5ec018de540009de5f0418de5f4318de508228de544408de2853f8de2f8818de5fc718de5",
+      "replacement": "0040a0e10050a0e30060a0e318008de20410a0e10520a0e10030a0e300308de50030e0e3530200eb000056e30e00a00360018d058000a003e0018d057800a003e4018d0524009fe5000090e5040090e518108de2f50000eb016086e22250a0e3020056e3e8ffffbaeedf8de2f88fbde89c130602",
+      "comment": "new body of FUN_02060f68 after its prologue: create egg + Agumon with FUN_020618e8, add each with FUN_020613a0 to the pool at *(0x02112478+4)"
+    }
+  ]
+}

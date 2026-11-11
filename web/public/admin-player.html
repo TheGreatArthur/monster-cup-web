@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Player - Digimon World Championship admin</title>
+  <link rel="stylesheet" href="/static/admin.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/admin/players"><img src="/game-assets/intro/logo.png" alt="Digimon World Championship" width="232" height="117">Admin</a>
+    <nav class="tabs" aria-label="Admin pages">
+      <a href="/admin/players" aria-current="page">Players</a>
+      <a href="/admin/gifts">Gifts</a>
+      <a href="/admin/shop">Shop</a>
+      <a href="/admin/events">Events</a>
+      <a href="/admin">Moderation</a>
+    </nav>
+    <span class="status" id="admin-status" role="status">Loading...</span>
+    <a class="pill" href="/play">Play</a>
+  </header>
+  <main class="page">
+    <a class="back" href="/admin/players">&larr; All players</a>
+    <div class="player-layout">
+      <div class="player-main">
+        <section class="hero glass" id="hero"><p class="empty">Loading the save...</p></section>
+        <div class="facts" id="facts"></div>
+        <section class="panel glass" id="digimon-panel">
+          <div class="panel-head"><h2>Digimon</h2><span class="count" id="digimon-count"></span></div>
+          <div class="digimon-grid" id="digimon"></div>
+        </section>
+        <section class="panel glass" id="cages-panel">
+          <div class="panel-head"><h2>Cages on the farm</h2><span class="count" id="cages-count"></span></div>
+          <svg class="hexmap" id="hexmap" role="img" aria-label="Map of the placed cages"></svg>
+          <div class="cage-list" id="cages"></div>
+        </section>
+        <section class="panel glass" id="medals-panel">
+          <div class="panel-head"><h2>Medals</h2><span class="count" id="medals-count"></span></div>
+          <div class="medal-grid" id="medals"></div>
+        </section>
+      </div>
+      <aside class="composer-column">
+        <section class="panel glass">
+          <h2 id="composer-title">Send a gift</h2>
+          <p class="hint" id="gift-hint"></p>
+          <div id="composer"></div>
+        </section>
+        <section class="panel glass" style="margin-top: 20px">
+          <div class="panel-head"><h2>Gifts sent</h2></div>
+          <div class="history" id="gifts"></div>
+        </section>
+      </aside>
+    </div>
+  </main>
+  <script src="/static/admin-player.js" type="module"></script>
+</body>
+</html>

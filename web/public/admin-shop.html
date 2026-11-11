@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shop - Digimon World Championship admin</title>
+  <link rel="stylesheet" href="/static/admin.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/admin/players"><img src="/game-assets/intro/logo.png" alt="Digimon World Championship" width="232" height="117">Admin</a>
+    <nav class="tabs" aria-label="Admin pages">
+      <a href="/admin/players">Players</a>
+      <a href="/admin/gifts">Gifts</a>
+      <a href="/admin/shop" aria-current="page">Shop</a>
+      <a href="/admin/events">Events</a>
+      <a href="/admin">Moderation</a>
+    </nav>
+    <span class="status" id="admin-status" role="status">Loading...</span>
+    <button type="button" class="pill" id="admin-refresh">Refresh</button>
+    <a class="pill" href="/play">Play</a>
+  </header>
+  <main class="page">
+    <div>
+      <h1 class="page-title">Shop</h1>
+      <p class="page-sub">What players buy with their PvP coins, on the left of the play page. A purchase arrives in the
+        game as a mail, like a gift. A sale shows the old price struck out until its end date.</p>
+    </div>
+    <div class="player-layout">
+      <section class="panel glass">
+        <div class="panel-head"><h2>Catalogue</h2><span class="count" id="offer-count"></span></div>
+        <div class="offer-admin" id="offers"><p class="empty">Loading the shop...</p></div>
+      </section>
+      <aside class="composer-column">
+        <section class="panel glass">
+          <h2>Add an offer</h2>
+          <div id="composer"></div>
+        </section>
+      </aside>
+    </div>
+  </main>
+  <script src="/static/admin-shop.js" type="module"></script>
+</body>
+</html>
