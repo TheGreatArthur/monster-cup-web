@@ -19,8 +19,9 @@ services:
         value: "1"
       - key: REFEREE           # the referee needs Python, Playwright, Edge and the ROM: not on the host
         value: "off"
-      - key: PASSWORD_LOGIN
-        value: hidden
+      # Discord login only: no password login (PASSWORD_LOGIN unset) and no admin by account name.
+      - key: ADMIN_USERS
+        value: ""
       # Typed in Render's dashboard, never committed (the values of web/.env):
       - key: SITE_URL          # the site's public address, https://<name>.onrender.com
         sync: false
